@@ -36,4 +36,4 @@ services:
 databases:
   - name: sdaas-mysql
     plan: free
-    ipAllowList: []   # allows all connections
+    ipAllowList: []   # allows all connections   
