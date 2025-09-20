@@ -1,0 +1,1001 @@
+age,gender,height_cm,weight_kg,blood_pressure_systolic,blood_pressure_diastolic,heart_rate,temperature_c,cholesterol,glucose,diagnosis,medication,admission_date,discharge_date,insurance_type
+71,M,140.0,34.8,151,120,74,36.0,188,173,High Cholesterol,Multiple,2024-12-05,2025-01-04,Private
+98,Other,163.7,65.9,100,81,51,36.4,202,172,High Cholesterol,Multiple,2025-04-05,2024-09-17,Medicaid
+27,F,151.2,58.8,179,88,106,36.7,166,112,Cardiovascular Disease,Aspirin,2025-01-24,2024-11-17,Uninsured
+96,F,163.7,80.9,171,106,81,36.1,171,116,Diabetes,None,2023-12-23,2025-04-28,Medicare
+43,F,178.1,58.1,145,80,73,37.4,121,106,Obesity,None,2023-12-02,2025-07-23,Private
+96,F,168.1,65.0,151,84,51,36.5,165,159,Diabetes,Multiple,2024-03-03,2025-03-11,Private
+76,F,176.2,99.9,153,118,74,36.9,239,162,Normal,Metformin,2025-06-06,2025-05-30,Private
+84,M,161.0,82.4,139,70,116,36.6,140,103,Normal,Metformin,2024-12-15,2025-06-28,Medicaid
+80,F,157.7,74.6,99,69,75,36.1,235,194,Cardiovascular Disease,None,2024-01-24,2025-07-21,Medicare
+59,F,184.7,53.0,155,77,57,37.0,167,164,Obesity,Atorvastatin,2024-02-23,2025-01-21,Private
+34,M,151.4,73.4,154,90,67,36.1,237,133,High Cholesterol,Aspirin,2023-10-04,2025-07-15,Medicaid
+72,M,164.1,67.5,107,100,83,36.8,143,158,Diabetes,Insulin,2023-11-08,2025-05-10,Private
+28,Other,170.0,78.1,136,75,77,36.7,132,189,Obesity,None,2025-03-13,2025-06-27,Uninsured
+96,F,161.3,88.1,162,115,102,36.3,146,142,High Cholesterol,None,2024-04-12,2025-08-26,Medicaid
+95,F,144.4,52.9,125,109,63,36.6,179,196,Underweight,Lisinopril,2024-06-21,2025-06-08,Private
+70,M,156.9,52.6,110,91,67,37.3,215,114,High Cholesterol,Lisinopril,2025-01-15,2025-05-19,Uninsured
+61,F,166.8,52.6,99,68,113,36.9,121,200,Normal,Lisinopril,2024-04-01,2025-09-15,Medicaid
+50,Other,184.9,74.6,141,110,78,36.3,210,132,Normal,Metformin,2024-03-05,2025-03-29,Medicaid
+26,Other,185.8,55.7,178,82,53,36.9,245,177,Diabetes,Lisinopril,2025-02-16,2025-02-08,Private
+87,F,160.2,93.5,159,102,79,36.6,223,97,Cardiovascular Disease,Insulin,2025-06-18,2025-02-26,Medicare
+44,F,153.4,81.8,151,98,56,36.8,218,167,Obesity,Metformin,2024-08-13,2024-11-19,Uninsured
+26,Other,179.6,62.2,158,94,106,37.1,137,129,Hypertension,Lisinopril,2025-07-10,2024-10-12,Medicaid
+80,M,183.3,72.2,105,118,115,37.1,263,91,High Cholesterol,None,2024-08-11,2025-08-28,Medicaid
+57,F,162.5,76.2,119,85,110,37.3,220,96,Normal,Multiple,2024-12-12,2025-05-17,Medicaid
+79,M,162.3,51.6,138,108,58,36.5,158,99,Cardiovascular Disease,Insulin,2024-12-26,2024-12-25,Medicaid
+78,Other,168.7,64.5,113,117,60,36.3,232,84,Diabetes,Insulin,2024-05-21,2025-07-26,Uninsured
+86,M,197.7,86.4,167,104,120,36.6,297,155,Obesity,Lisinopril,2023-12-22,2025-02-11,Medicaid
+24,F,176.0,65.3,155,72,62,36.9,292,101,Normal,Lisinopril,2025-09-13,2025-07-31,Medicare
+84,M,169.4,70.3,162,108,82,36.6,267,137,Normal,Insulin,2023-12-13,2025-03-08,Medicaid
+25,F,180.9,57.8,112,120,106,37.1,270,123,High Cholesterol,Atorvastatin,2024-02-13,2024-09-25,Uninsured
+19,M,177.7,77.6,146,84,117,36.1,127,165,Underweight,None,2023-12-17,2024-10-29,Medicare
+67,M,167.7,71.5,177,81,107,36.4,215,83,Obesity,None,2024-09-27,2024-09-29,Uninsured
+18,F,172.5,69.3,91,81,76,35.5,290,117,Diabetes,Multiple,2025-07-23,2025-08-30,Medicare
+86,M,150.4,73.9,140,70,67,36.6,292,107,Obesity,Insulin,2025-08-28,2025-04-08,Medicare
+46,F,170.1,51.1,131,112,61,36.0,221,86,High Cholesterol,Atorvastatin,2024-06-22,2025-09-16,Private
+44,Other,166.3,32.9,123,116,93,36.5,203,166,Cardiovascular Disease,Multiple,2025-01-23,2025-03-18,Uninsured
+51,F,173.4,86.9,104,105,82,35.4,255,129,Normal,None,2025-06-27,2024-10-16,Uninsured
+26,F,153.4,86.1,94,113,74,36.6,218,152,Obesity,Aspirin,2024-07-06,2025-07-25,Medicare
+70,F,165.7,60.8,176,109,83,36.8,210,97,Underweight,Atorvastatin,2024-07-16,2025-01-10,Medicaid
+72,F,155.2,62.7,108,113,117,36.8,290,82,Hypertension,Metformin,2025-03-11,2024-12-08,Medicaid
+23,F,180.5,67.1,139,112,91,37.1,168,133,Obesity,Metformin,2025-08-08,2025-08-21,Medicaid
+33,F,148.8,59.9,100,113,74,36.0,126,85,Cardiovascular Disease,Metformin,2024-02-05,2025-07-29,Uninsured
+68,Other,199.4,96.0,171,90,59,36.3,153,158,High Cholesterol,Atorvastatin,2024-10-31,2024-10-13,Private
+82,F,154.0,68.4,170,100,70,37.6,195,158,High Cholesterol,Atorvastatin,2024-10-20,2024-11-07,Medicare
+64,Other,175.0,53.7,137,92,99,36.5,198,91,Normal,Lisinopril,2024-10-05,2024-12-28,Medicaid
+92,Other,170.0,78.7,120,62,87,36.1,181,196,Underweight,Metformin,2024-08-23,2025-02-11,Medicare
+38,Other,166.2,66.3,178,82,58,36.1,169,127,Hypertension,Multiple,2024-05-17,2025-05-07,Medicare
+94,F,148.9,43.5,128,110,71,36.4,283,144,Diabetes,Multiple,2024-10-11,2025-05-09,Medicaid
+34,M,171.5,82.4,98,66,70,36.1,207,142,High Cholesterol,Aspirin,2024-01-25,2025-01-19,Uninsured
+75,F,161.6,96.0,156,73,108,37.3,144,78,High Cholesterol,Metformin,2024-08-01,2024-11-06,Medicare
+62,M,196.8,74.6,109,81,80,37.3,123,120,Normal,Metformin,2023-12-19,2025-07-16,Medicare
+37,M,173.4,64.7,119,108,77,37.3,287,166,Cardiovascular Disease,Multiple,2025-02-02,2025-05-01,Medicare
+77,Other,175.6,76.1,167,104,101,36.3,168,95,Hypertension,Multiple,2025-01-02,2025-01-13,Uninsured
+19,Other,182.3,72.2,99,82,120,37.0,229,86,Hypertension,Atorvastatin,2024-02-10,2025-08-27,Medicaid
+24,M,163.2,82.5,104,78,62,36.5,175,119,Hypertension,None,2025-02-22,2025-05-31,Medicare
+42,M,168.1,69.8,180,64,104,36.8,230,76,Normal,None,2024-12-17,2025-02-08,Uninsured
+23,Other,180.4,47.6,153,103,58,37.2,251,171,Normal,Metformin,2025-07-11,2025-03-05,Uninsured
+40,F,150.2,81.4,180,102,113,36.4,161,166,Underweight,Aspirin,2024-06-17,2024-10-11,Medicare
+82,M,205.1,26.0,171,61,118,36.6,243,166,Hypertension,Multiple,2023-12-31,2024-11-23,Medicare
+63,F,175.8,76.5,120,97,113,36.1,293,157,Underweight,None,2025-04-28,2025-07-12,Private
+38,M,164.2,52.0,113,117,100,36.2,219,185,Obesity,None,2024-03-18,2024-11-14,Uninsured
+89,F,149.2,79.1,102,65,50,36.5,284,97,Diabetes,Metformin,2025-02-23,2025-07-06,Medicare
+70,M,165.8,61.3,158,75,83,36.5,199,150,Normal,Insulin,2025-04-04,2025-04-04,Medicaid
+39,F,185.1,58.3,180,114,105,37.3,257,78,Obesity,Metformin,2025-01-04,2025-05-09,Medicare
+73,F,167.1,47.1,134,100,85,36.1,201,147,Diabetes,None,2025-05-29,2025-01-04,Medicare
+75,Other,174.4,54.9,146,118,101,36.6,133,186,Normal,Metformin,2024-01-21,2025-03-19,Medicare
+67,Other,155.4,56.4,172,120,116,36.4,222,144,Underweight,Metformin,2024-05-08,2025-03-17,Uninsured
+84,F,137.1,44.0,99,105,58,36.4,288,168,Diabetes,Metformin,2024-08-04,2025-01-28,Private
+24,Other,165.1,86.9,102,93,94,36.7,143,188,Obesity,Aspirin,2024-08-20,2024-12-23,Medicare
+46,F,165.0,88.0,93,108,91,37.1,127,123,Cardiovascular Disease,Multiple,2023-11-18,2025-06-15,Medicaid
+80,Other,165.0,64.0,117,67,85,36.5,149,130,Obesity,Aspirin,2025-05-02,2024-10-16,Private
+96,Other,183.3,84.9,173,71,56,35.5,266,175,Obesity,Atorvastatin,2024-01-29,2025-05-16,Medicaid
+46,M,172.8,42.7,122,62,89,36.0,212,182,Cardiovascular Disease,Insulin,2025-05-03,2025-02-14,Uninsured
+84,M,170.4,69.9,132,115,82,37.1,125,154,High Cholesterol,Insulin,2024-11-30,2025-07-29,Medicaid
+83,M,158.6,46.6,116,83,93,37.1,162,117,Obesity,Insulin,2023-11-02,2025-04-04,Private
+33,M,154.8,62.0,157,72,73,36.6,256,86,Hypertension,Multiple,2025-06-03,2024-10-30,Uninsured
+58,Other,153.4,84.5,98,61,85,35.7,135,162,High Cholesterol,Aspirin,2025-06-17,2025-04-04,Medicaid
+83,M,152.3,76.1,132,92,91,36.9,235,89,Hypertension,None,2025-01-26,2025-01-23,Medicaid
+52,F,178.9,96.6,116,113,93,36.5,179,102,Obesity,Multiple,2024-03-16,2024-11-28,Uninsured
+93,M,175.0,65.8,124,88,111,36.6,222,115,Cardiovascular Disease,Multiple,2025-03-25,2025-07-20,Uninsured
+68,F,167.9,89.7,155,64,105,35.8,219,200,Cardiovascular Disease,Insulin,2024-02-23,2025-04-11,Uninsured
+68,F,155.5,64.3,173,63,104,36.4,165,191,Normal,Metformin,2025-08-25,2025-08-22,Medicare
+28,F,137.8,56.9,135,79,74,35.5,203,87,Diabetes,Atorvastatin,2024-12-10,2025-06-22,Medicaid
+64,M,185.7,74.9,149,92,109,36.4,271,155,Normal,Atorvastatin,2024-12-10,2024-11-15,Medicaid
+97,M,157.1,84.1,145,89,77,37.4,156,88,Obesity,Lisinopril,2024-07-17,2025-04-27,Medicaid
+40,Other,147.5,56.5,152,101,120,36.0,294,77,Hypertension,Aspirin,2024-01-22,2025-07-31,Medicare
+36,F,156.1,71.6,155,87,119,35.0,187,114,Underweight,Multiple,2023-10-11,2024-10-22,Medicaid
+63,Other,176.3,84.4,150,109,71,38.0,246,133,Cardiovascular Disease,Multiple,2024-10-24,2024-10-17,Medicaid
+32,Other,174.1,74.7,128,74,54,36.5,230,159,Underweight,None,2024-06-07,2025-07-30,Uninsured
+32,M,189.2,85.2,155,109,75,36.4,282,92,Obesity,Atorvastatin,2025-01-19,2025-05-29,Medicare
+62,Other,170.0,97.2,118,112,106,36.6,205,81,Hypertension,Multiple,2025-08-19,2024-10-21,Medicaid
+70,Other,166.5,84.5,94,90,119,36.6,142,109,Cardiovascular Disease,Atorvastatin,2025-06-12,2025-02-16,Medicaid
+91,M,161.5,83.7,105,73,65,35.9,283,124,Cardiovascular Disease,Aspirin,2024-08-23,2025-07-23,Private
+18,M,126.4,82.1,134,80,102,36.6,125,155,Normal,Insulin,2023-11-16,2024-09-25,Medicaid
+75,F,151.5,61.5,161,120,99,36.7,286,168,Underweight,Metformin,2024-01-09,2025-08-20,Medicare
+28,M,177.8,97.7,153,67,80,36.2,278,132,Obesity,Lisinopril,2023-10-10,2025-05-31,Private
+75,M,180.2,84.2,92,84,62,35.8,251,112,Normal,None,2024-09-04,2025-07-17,Uninsured
+34,Other,159.2,77.1,127,109,111,36.1,180,111,Hypertension,Atorvastatin,2024-01-12,2025-03-29,Medicaid
+76,Other,196.8,60.8,124,113,55,36.2,128,81,Cardiovascular Disease,None,2025-08-20,2025-09-12,Private
+70,Other,175.3,78.5,97,73,110,36.9,206,176,Cardiovascular Disease,Lisinopril,2025-01-04,2024-10-18,Private
+53,Other,163.4,86.8,106,106,95,37.0,245,88,Cardiovascular Disease,Lisinopril,2025-03-30,2024-12-19,Uninsured
+85,Other,192.3,67.2,147,82,65,36.3,147,78,Normal,Lisinopril,2023-10-11,2025-04-10,Uninsured
+82,F,179.7,68.5,90,114,103,35.7,266,164,Diabetes,Lisinopril,2025-06-23,2024-09-30,Medicare
+38,F,158.6,98.3,171,64,75,35.8,156,123,Diabetes,Aspirin,2024-10-04,2025-01-18,Private
+36,Other,147.9,93.0,154,60,100,36.4,158,131,Diabetes,Aspirin,2024-08-22,2025-08-07,Uninsured
+68,Other,155.8,62.9,161,79,73,36.9,164,157,Hypertension,Multiple,2023-10-26,2025-04-29,Medicare
+25,F,189.9,92.3,132,82,58,37.4,273,93,Hypertension,None,2024-08-22,2025-08-21,Medicare
+32,M,217.3,72.4,143,86,50,37.1,289,76,High Cholesterol,None,2025-08-30,2025-04-15,Medicare
+58,F,171.0,70.8,149,71,54,36.0,266,192,Underweight,Lisinopril,2024-11-08,2025-07-15,Medicare
+41,F,197.0,93.2,108,61,103,36.5,264,94,Underweight,Multiple,2025-07-24,2024-09-30,Uninsured
+49,F,166.5,56.4,130,88,90,36.7,185,129,Obesity,Lisinopril,2025-06-07,2024-11-11,Uninsured
+34,M,183.2,62.7,125,76,101,37.1,213,158,Hypertension,Multiple,2024-04-10,2025-08-12,Uninsured
+40,Other,165.3,88.1,152,111,110,37.4,237,149,High Cholesterol,Multiple,2024-11-28,2024-11-30,Medicaid
+93,F,172.6,65.8,135,96,77,36.7,272,99,Normal,Metformin,2025-05-01,2024-10-11,Medicaid
+37,F,175.4,84.5,91,77,72,35.3,278,200,Normal,Insulin,2025-05-26,2024-09-20,Medicare
+32,Other,154.8,51.2,102,107,80,36.5,164,144,Obesity,Multiple,2024-05-07,2025-02-28,Medicaid
+65,M,168.2,94.6,116,95,82,37.0,273,142,Underweight,Metformin,2025-02-18,2025-04-01,Private
+89,F,170.3,72.3,177,67,61,36.0,135,133,Diabetes,Lisinopril,2024-07-01,2025-05-14,Uninsured
+25,F,182.8,67.5,133,68,114,36.0,294,178,Normal,Multiple,2024-07-14,2025-09-11,Medicare
+78,F,171.5,81.3,179,109,96,35.9,212,108,Obesity,Lisinopril,2024-10-23,2025-05-13,Uninsured
+42,F,208.4,58.2,118,99,51,36.5,261,108,High Cholesterol,Metformin,2024-02-20,2024-11-08,Medicaid
+77,M,173.0,81.9,100,114,113,36.3,251,170,Obesity,Lisinopril,2025-08-28,2025-07-31,Medicare
+34,F,187.3,41.0,151,64,74,36.9,182,163,Normal,Aspirin,2024-09-21,2025-07-23,Uninsured
+35,Other,168.7,56.4,103,78,112,36.8,145,115,Diabetes,Atorvastatin,2025-01-13,2025-08-23,Medicare
+35,M,176.8,56.8,171,111,64,36.3,211,108,High Cholesterol,None,2024-01-30,2025-03-02,Medicare
+93,Other,193.9,76.2,119,76,116,37.2,285,105,Normal,Aspirin,2024-04-30,2025-06-24,Uninsured
+27,Other,173.3,84.6,161,74,77,35.5,196,178,Normal,None,2024-02-29,2025-06-17,Medicare
+48,M,198.5,80.1,164,77,78,35.6,153,82,Obesity,Multiple,2024-07-24,2024-11-19,Private
+53,M,178.1,46.2,126,115,75,37.5,270,173,Normal,None,2025-03-19,2024-10-23,Uninsured
+91,F,153.9,54.1,133,63,73,36.9,150,185,Obesity,None,2025-08-31,2025-01-19,Private
+51,F,185.3,72.7,129,108,106,36.0,150,192,Normal,Aspirin,2024-03-15,2025-06-12,Medicaid
+65,Other,171.9,60.2,100,61,119,36.8,236,162,High Cholesterol,Insulin,2025-09-06,2024-10-13,Medicaid
+73,Other,177.1,78.7,91,106,73,35.0,229,152,Underweight,Multiple,2024-11-11,2025-06-29,Uninsured
+24,Other,145.3,48.7,157,106,104,36.5,127,80,Cardiovascular Disease,Metformin,2023-12-01,2024-09-19,Medicaid
+85,M,155.3,73.2,127,78,77,36.8,162,148,Obesity,Multiple,2025-09-16,2024-09-29,Uninsured
+23,F,177.3,111.0,146,100,120,36.8,150,177,Diabetes,Aspirin,2024-04-25,2025-08-30,Private
+51,Other,177.5,44.6,174,68,71,36.2,245,140,Cardiovascular Disease,Metformin,2025-05-30,2025-01-05,Private
+51,M,161.7,88.6,105,86,78,36.1,273,176,Normal,Insulin,2023-09-23,2025-08-22,Uninsured
+25,M,136.7,44.6,100,99,72,36.4,134,107,Normal,Lisinopril,2024-06-21,2024-11-24,Uninsured
+98,M,171.2,61.0,129,93,105,37.0,267,147,High Cholesterol,Atorvastatin,2024-07-08,2025-07-10,Medicare
+36,Other,185.5,71.0,135,91,88,37.1,207,74,Cardiovascular Disease,Aspirin,2024-04-13,2025-04-26,Medicaid
+30,M,149.6,58.5,128,99,58,36.3,264,186,Diabetes,Metformin,2024-06-06,2025-07-03,Private
+29,Other,180.3,74.1,138,69,75,36.4,209,150,Hypertension,None,2024-12-29,2025-08-25,Private
+77,Other,187.4,89.4,166,63,65,37.1,149,98,High Cholesterol,Lisinopril,2025-06-14,2024-09-20,Uninsured
+87,F,159.1,69.7,105,80,81,36.4,252,99,Hypertension,Lisinopril,2025-03-26,2025-02-14,Private
+95,F,171.3,58.5,140,70,90,36.8,182,130,Hypertension,Atorvastatin,2023-12-14,2025-08-20,Medicare
+63,M,175.5,70.8,179,71,82,37.0,236,72,High Cholesterol,Metformin,2025-03-06,2024-11-11,Uninsured
+80,F,154.7,62.5,150,83,58,36.2,170,129,Diabetes,Lisinopril,2024-01-10,2025-04-01,Medicare
+74,Other,154.8,85.2,163,73,97,36.2,277,141,Cardiovascular Disease,Insulin,2024-07-18,2025-01-11,Medicaid
+31,M,194.2,59.1,145,99,51,36.7,275,171,Obesity,Insulin,2025-08-29,2025-01-02,Uninsured
+27,Other,191.7,79.3,104,119,87,36.6,129,157,Underweight,Multiple,2024-04-21,2025-05-02,Private
+53,F,170.4,81.0,137,95,79,37.8,275,165,Normal,Metformin,2024-05-13,2025-06-18,Private
+82,M,148.6,63.8,138,114,104,36.7,152,106,Diabetes,None,2023-12-17,2024-12-27,Uninsured
+91,F,203.9,85.3,137,96,71,35.8,133,109,Normal,Insulin,2025-06-04,2025-07-24,Medicaid
+69,M,175.9,67.9,90,68,120,36.9,214,139,High Cholesterol,Multiple,2025-01-28,2024-10-06,Medicaid
+83,F,191.6,89.1,161,91,66,36.4,138,90,Hypertension,Lisinopril,2025-03-21,2025-09-14,Private
+70,M,178.6,87.5,165,110,84,36.7,174,93,Normal,Multiple,2025-04-22,2024-10-26,Medicare
+28,Other,148.4,57.0,92,81,120,36.7,144,97,Obesity,Insulin,2025-06-19,2024-11-06,Medicare
+97,Other,140.3,41.8,132,78,59,35.6,144,112,Underweight,Multiple,2024-08-31,2025-04-09,Private
+86,M,173.1,46.2,168,62,55,36.0,174,103,Diabetes,Lisinopril,2024-08-22,2025-06-26,Private
+76,M,179.0,44.1,164,82,109,35.5,205,191,Obesity,Aspirin,2025-02-08,2024-12-18,Private
+66,Other,160.1,63.8,155,103,83,36.6,296,95,Cardiovascular Disease,Aspirin,2025-04-14,2024-12-22,Uninsured
+62,F,179.5,78.4,135,112,62,36.7,290,105,Cardiovascular Disease,None,2023-12-19,2025-01-22,Medicare
+86,Other,134.3,103.6,120,112,64,36.1,195,170,Diabetes,None,2024-04-04,2025-04-18,Medicaid
+91,Other,160.2,81.9,160,97,63,36.0,247,78,Normal,Insulin,2025-09-10,2025-01-03,Medicare
+64,M,145.0,68.0,108,68,69,36.4,254,142,Cardiovascular Disease,Atorvastatin,2024-06-16,2025-06-13,Private
+100,Other,158.2,64.1,111,68,63,36.3,158,177,Underweight,Atorvastatin,2025-06-10,2024-12-10,Medicare
+18,F,164.5,94.1,125,74,104,37.4,124,190,Normal,None,2025-01-16,2024-09-20,Uninsured
+67,F,164.2,54.9,123,104,69,37.0,284,172,Hypertension,Lisinopril,2024-08-24,2024-10-27,Medicaid
+36,Other,167.0,69.3,126,95,101,36.5,271,105,Underweight,Atorvastatin,2023-09-21,2025-05-20,Uninsured
+45,F,163.7,62.3,119,81,58,36.2,266,136,Cardiovascular Disease,Insulin,2025-08-02,2025-01-03,Medicare
+54,F,197.0,69.5,132,67,63,36.5,159,175,Underweight,Atorvastatin,2024-12-12,2024-11-12,Private
+86,Other,168.1,82.7,140,106,74,37.1,261,96,Hypertension,Metformin,2024-05-01,2025-09-12,Medicare
+60,F,173.3,63.6,142,70,69,36.8,153,76,Obesity,Metformin,2024-09-30,2024-11-02,Medicaid
+43,F,176.3,72.0,141,96,93,37.0,193,144,High Cholesterol,Insulin,2024-09-22,2025-04-06,Private
+59,Other,171.9,92.7,155,60,50,36.6,240,179,Obesity,Multiple,2025-03-27,2025-06-25,Medicaid
+85,Other,172.6,61.7,111,63,107,37.0,292,199,Obesity,Multiple,2024-04-03,2025-03-14,Medicaid
+89,M,194.9,68.9,136,71,67,36.8,243,97,Normal,Atorvastatin,2025-05-18,2025-07-19,Private
+28,F,176.8,71.2,92,107,50,36.5,252,125,Diabetes,None,2025-08-21,2025-08-26,Private
+40,Other,160.7,71.2,115,107,82,36.0,289,174,Diabetes,Multiple,2025-06-29,2025-01-05,Medicaid
+21,Other,167.4,71.2,171,98,108,35.6,135,95,Hypertension,Insulin,2024-11-12,2025-06-15,Medicare
+78,M,148.6,81.0,94,61,76,36.2,143,126,Hypertension,Metformin,2024-06-16,2025-05-18,Medicare
+67,F,193.2,54.4,137,83,64,37.0,258,133,High Cholesterol,Aspirin,2024-10-22,2025-03-15,Private
+70,M,163.8,82.7,176,78,104,36.7,201,165,High Cholesterol,None,2024-09-10,2025-08-25,Uninsured
+66,M,175.7,67.9,160,77,75,36.9,290,79,Obesity,Multiple,2024-06-08,2025-01-16,Medicare
+69,F,180.8,52.3,99,86,66,37.6,226,101,Hypertension,Multiple,2025-07-31,2025-01-06,Medicare
+64,F,187.1,55.4,150,76,109,37.2,218,127,High Cholesterol,Insulin,2023-09-17,2025-03-29,Medicare
+56,M,166.1,51.8,96,75,99,37.1,282,131,Underweight,Metformin,2023-12-19,2025-07-10,Medicaid
+58,M,180.8,63.6,131,89,59,35.6,172,165,Normal,Atorvastatin,2024-01-31,2025-05-08,Medicare
+55,F,168.4,73.5,99,109,66,37.2,214,128,Obesity,Lisinopril,2025-03-17,2025-02-09,Medicaid
+95,F,186.0,67.7,147,118,89,37.4,240,95,Underweight,Lisinopril,2023-12-22,2025-03-01,Uninsured
+98,F,190.6,82.8,129,93,76,37.1,135,77,Cardiovascular Disease,Metformin,2025-04-16,2025-02-23,Medicare
+44,M,209.1,54.3,94,60,117,36.7,297,157,Diabetes,Atorvastatin,2024-03-04,2025-07-22,Medicare
+77,F,196.6,54.2,152,110,82,35.8,273,115,Cardiovascular Disease,Lisinopril,2023-10-13,2025-07-15,Private
+23,Other,159.5,84.6,152,106,64,37.5,172,116,Normal,None,2024-07-06,2025-03-12,Private
+39,M,193.5,61.0,107,75,93,36.3,266,98,Underweight,Multiple,2025-02-02,2025-03-21,Medicaid
+78,Other,183.2,63.2,165,109,105,36.6,255,151,Underweight,Insulin,2024-06-18,2025-04-21,Medicare
+77,F,176.7,64.9,176,105,60,35.7,123,132,High Cholesterol,Metformin,2024-10-04,2025-01-06,Private
+29,Other,188.8,57.3,141,82,65,36.8,128,175,Obesity,Aspirin,2024-02-29,2025-01-17,Medicaid
+27,F,188.5,48.3,169,83,95,36.0,128,154,Diabetes,Insulin,2024-07-18,2025-02-17,Private
+20,Other,174.0,68.2,114,68,51,36.5,152,164,High Cholesterol,Insulin,2025-04-08,2025-05-24,Medicaid
+40,Other,168.6,65.4,178,91,56,36.1,235,127,Obesity,Aspirin,2025-05-29,2025-05-01,Uninsured
+82,Other,193.6,52.6,154,94,117,35.6,162,91,Obesity,Aspirin,2024-04-13,2025-07-04,Private
+61,F,167.9,53.7,137,74,61,36.4,191,114,Hypertension,Aspirin,2024-07-02,2025-01-07,Uninsured
+92,M,160.5,70.6,139,115,91,37.0,144,81,Diabetes,Atorvastatin,2024-08-13,2025-07-21,Private
+66,Other,176.3,62.1,146,67,78,37.2,250,141,Normal,Insulin,2025-01-14,2025-01-08,Private
+43,F,168.6,59.1,132,118,117,36.8,159,180,Hypertension,None,2025-09-06,2025-07-30,Uninsured
+68,F,163.9,55.8,118,94,53,36.5,207,97,High Cholesterol,Atorvastatin,2024-02-17,2025-01-27,Private
+82,Other,131.2,51.7,124,70,112,36.4,135,157,Obesity,None,2025-04-05,2025-03-10,Medicare
+73,F,142.5,98.5,180,105,97,37.2,243,180,Normal,Aspirin,2025-03-07,2024-11-08,Medicaid
+19,F,188.8,65.5,114,86,57,36.3,157,147,Obesity,Multiple,2024-07-22,2025-01-16,Medicare
+35,Other,183.0,46.8,113,67,98,36.9,201,124,Normal,Aspirin,2024-03-16,2025-03-23,Private
+51,M,157.3,86.7,107,86,114,35.5,213,117,High Cholesterol,Metformin,2024-12-23,2025-09-02,Medicare
+53,Other,191.6,55.0,154,70,82,35.9,143,193,Underweight,Lisinopril,2025-06-12,2025-03-10,Medicaid
+36,Other,175.1,77.6,163,99,83,36.3,288,104,Diabetes,Multiple,2024-02-23,2024-10-25,Medicaid
+56,Other,155.9,56.9,95,70,118,36.3,199,139,Underweight,Insulin,2024-05-21,2025-08-28,Private
+28,M,151.7,49.9,120,112,94,36.4,187,77,Hypertension,Metformin,2024-03-13,2025-07-25,Medicare
+80,F,177.9,75.2,90,96,62,36.8,151,78,Cardiovascular Disease,None,2024-05-29,2024-12-24,Uninsured
+66,F,169.6,74.2,158,95,80,36.4,161,81,Cardiovascular Disease,None,2025-08-05,2025-05-23,Private
+44,F,176.2,78.8,162,96,77,35.9,266,160,Normal,Lisinopril,2024-06-24,2025-08-23,Private
+21,M,193.7,62.9,177,65,74,36.6,241,83,Diabetes,Metformin,2024-09-06,2025-03-19,Uninsured
+74,M,161.0,63.6,110,60,102,37.1,249,178,Diabetes,Atorvastatin,2024-10-17,2025-01-17,Medicare
+72,F,183.6,65.4,99,62,96,35.8,205,126,Obesity,Insulin,2025-03-07,2024-12-13,Private
+76,F,184.7,95.8,158,63,56,35.7,221,155,Hypertension,Lisinopril,2025-06-16,2024-09-28,Private
+37,F,168.4,68.0,172,61,81,35.7,233,92,Cardiovascular Disease,Atorvastatin,2024-04-06,2025-05-21,Medicare
+77,F,166.1,59.0,135,107,83,36.0,121,142,Hypertension,Aspirin,2023-11-27,2025-06-09,Uninsured
+72,Other,177.0,49.6,152,80,89,36.3,137,123,High Cholesterol,Lisinopril,2024-02-18,2025-05-24,Medicare
+87,F,154.9,42.0,159,85,66,36.5,242,138,Normal,Metformin,2025-04-22,2025-08-26,Uninsured
+75,M,143.2,75.9,102,74,113,36.6,290,142,Underweight,None,2023-11-24,2025-01-09,Private
+53,F,189.5,73.9,96,72,53,36.7,161,105,Normal,Metformin,2024-02-23,2025-04-17,Uninsured
+67,M,177.2,72.8,119,66,116,36.5,210,119,High Cholesterol,Lisinopril,2024-07-05,2025-02-11,Medicaid
+46,M,167.2,82.4,102,72,78,37.0,138,191,Cardiovascular Disease,None,2024-11-02,2025-01-19,Medicare
+61,Other,172.6,83.1,172,68,108,37.0,134,168,High Cholesterol,Insulin,2024-12-30,2025-07-03,Medicare
+95,Other,166.0,51.9,173,60,108,36.6,284,95,Underweight,Metformin,2024-03-14,2025-08-30,Medicare
+53,M,150.7,81.6,123,114,85,36.7,130,174,Diabetes,Aspirin,2024-07-01,2024-12-07,Medicaid
+41,F,182.9,62.0,118,65,55,36.8,155,83,High Cholesterol,Insulin,2023-12-10,2024-10-19,Medicaid
+32,M,180.5,68.2,128,110,107,36.6,208,115,Obesity,Insulin,2023-10-11,2025-01-14,Uninsured
+62,Other,175.3,103.6,96,64,98,36.8,184,169,Normal,Insulin,2024-02-03,2024-11-17,Medicare
+54,Other,152.3,59.9,104,89,119,36.4,183,168,High Cholesterol,Metformin,2024-04-21,2025-03-19,Medicaid
+39,M,165.8,91.5,122,99,113,36.6,258,157,Obesity,Aspirin,2024-03-05,2024-10-26,Private
+21,F,181.3,62.6,116,64,72,36.7,213,70,Diabetes,Insulin,2023-11-16,2025-03-24,Uninsured
+80,M,174.6,56.7,98,87,89,36.1,145,117,Normal,Aspirin,2024-01-15,2025-08-24,Uninsured
+20,Other,160.2,66.7,147,107,113,36.6,195,140,Normal,Lisinopril,2025-02-28,2025-02-05,Medicare
+85,M,172.6,51.6,116,119,100,36.6,196,163,Hypertension,None,2025-08-21,2024-12-30,Medicare
+48,M,180.4,80.4,130,92,57,37.4,124,187,Hypertension,Multiple,2025-03-24,2024-12-14,Medicare
+41,Other,171.3,85.3,168,75,99,36.6,132,100,Cardiovascular Disease,Multiple,2025-08-19,2025-03-17,Medicare
+59,F,186.3,101.9,117,76,65,35.7,135,149,Diabetes,Atorvastatin,2024-09-28,2024-10-25,Medicaid
+54,M,190.0,57.6,105,78,99,36.6,197,133,Obesity,Lisinopril,2025-08-28,2025-04-09,Private
+59,F,174.9,67.1,133,84,99,36.4,239,170,Cardiovascular Disease,Atorvastatin,2024-06-04,2025-05-15,Uninsured
+42,Other,182.4,55.6,153,91,61,37.6,131,130,High Cholesterol,Aspirin,2024-09-10,2025-05-31,Private
+66,M,144.9,64.3,123,86,115,37.0,245,181,Hypertension,Aspirin,2024-11-02,2025-07-07,Medicaid
+51,F,157.3,82.1,101,96,57,36.6,224,191,Hypertension,Metformin,2025-04-07,2025-07-01,Medicaid
+43,Other,160.2,45.4,112,93,62,35.7,265,95,Hypertension,Aspirin,2023-11-03,2025-02-23,Uninsured
+50,F,147.9,63.2,125,72,52,36.6,218,130,High Cholesterol,Multiple,2024-07-05,2024-12-13,Medicaid
+58,F,182.3,64.1,170,117,66,36.5,258,114,Cardiovascular Disease,Aspirin,2024-11-02,2025-09-03,Medicaid
+65,F,179.3,68.9,171,68,68,36.7,172,91,Cardiovascular Disease,Multiple,2024-08-11,2025-01-21,Uninsured
+83,Other,132.2,52.5,115,105,115,36.5,234,175,Underweight,Multiple,2025-07-08,2024-12-12,Private
+54,Other,195.3,35.2,153,77,94,36.7,170,182,Obesity,Insulin,2024-12-25,2024-09-18,Private
+22,Other,159.1,78.6,119,65,119,36.7,266,153,High Cholesterol,Lisinopril,2024-03-06,2024-09-23,Medicaid
+67,F,163.5,72.3,103,61,83,36.4,255,146,Normal,Metformin,2023-10-22,2024-12-26,Medicaid
+93,Other,153.3,77.6,171,79,118,37.1,287,152,Diabetes,None,2024-06-29,2025-01-28,Medicaid
+39,F,202.6,45.0,104,107,120,35.9,222,180,High Cholesterol,Lisinopril,2023-10-01,2025-09-09,Uninsured
+59,Other,160.4,58.0,126,77,66,36.8,181,105,Normal,Aspirin,2024-01-20,2025-04-29,Medicare
+62,F,176.9,75.5,91,111,83,36.1,203,83,Diabetes,Lisinopril,2025-03-06,2025-01-20,Private
+68,M,159.8,70.0,177,61,102,37.1,234,164,High Cholesterol,Insulin,2024-05-24,2025-08-17,Medicaid
+38,F,180.9,45.3,91,114,101,37.2,218,82,Cardiovascular Disease,Atorvastatin,2024-02-12,2025-06-09,Private
+28,F,141.5,60.2,117,84,53,35.7,243,178,Obesity,Insulin,2023-11-25,2024-10-27,Uninsured
+91,F,160.5,85.1,118,90,98,36.5,221,74,Underweight,Insulin,2024-07-06,2024-10-02,Medicaid
+41,Other,202.2,85.1,173,80,54,35.9,237,84,Normal,Multiple,2023-11-29,2025-02-10,Private
+70,F,165.3,70.7,150,86,107,36.6,150,155,High Cholesterol,Multiple,2025-01-09,2025-08-19,Private
+57,M,155.8,69.3,158,78,95,35.6,179,133,Hypertension,Insulin,2025-03-25,2025-07-21,Private
+95,F,176.3,66.5,102,105,89,36.4,124,172,Normal,Aspirin,2023-11-26,2025-04-06,Medicare
+40,M,148.4,76.1,96,72,100,37.2,176,113,Underweight,Multiple,2025-06-26,2024-12-23,Private
+94,F,168.8,75.5,96,111,89,36.5,181,121,Cardiovascular Disease,Lisinopril,2025-08-05,2024-11-13,Uninsured
+100,Other,149.4,62.0,159,81,98,37.0,260,76,Normal,Metformin,2025-07-26,2025-08-11,Medicare
+38,F,140.4,84.6,97,69,89,36.3,223,140,High Cholesterol,Lisinopril,2025-06-30,2025-03-18,Private
+79,F,160.6,81.9,124,71,63,36.8,174,88,High Cholesterol,None,2024-04-27,2025-06-12,Uninsured
+75,F,179.4,82.2,99,85,96,36.5,251,195,Cardiovascular Disease,Insulin,2024-07-20,2024-09-16,Medicaid
+67,Other,178.5,52.3,131,66,50,36.1,222,197,Hypertension,None,2023-10-29,2025-02-23,Medicare
+95,M,160.8,69.1,105,70,80,37.0,133,118,Obesity,None,2024-11-23,2024-10-04,Medicare
+76,Other,181.9,68.7,179,96,80,36.9,138,111,Normal,Multiple,2025-03-28,2025-02-03,Medicaid
+79,F,172.3,66.1,156,95,106,37.2,149,131,Diabetes,Aspirin,2025-06-19,2024-10-02,Medicaid
+90,Other,164.4,36.3,128,61,115,36.8,298,97,Obesity,None,2023-12-06,2025-08-20,Medicaid
+74,Other,186.1,87.7,95,93,89,36.6,120,118,High Cholesterol,Metformin,2023-09-28,2025-02-06,Medicaid
+85,Other,193.0,75.8,107,105,52,35.9,243,191,High Cholesterol,Metformin,2024-01-12,2025-03-14,Medicare
+32,M,174.3,83.6,99,70,51,35.7,256,124,Underweight,None,2024-04-13,2024-09-25,Uninsured
+75,F,175.5,70.5,105,82,71,36.3,276,191,Normal,Lisinopril,2024-12-01,2025-08-29,Uninsured
+97,F,172.8,67.9,125,75,112,37.0,241,157,Diabetes,None,2025-09-11,2024-09-24,Medicaid
+72,F,145.1,54.0,143,79,62,36.4,262,109,Underweight,Aspirin,2024-02-29,2025-03-18,Medicaid
+35,F,180.2,93.2,98,117,69,36.6,207,95,High Cholesterol,Atorvastatin,2024-10-15,2025-04-29,Medicaid
+37,F,167.8,57.8,141,117,83,37.7,239,164,Obesity,Insulin,2024-10-26,2024-11-14,Private
+42,Other,189.2,48.0,100,120,73,36.6,129,126,Cardiovascular Disease,Atorvastatin,2025-01-25,2025-06-27,Uninsured
+56,F,160.3,77.8,151,87,52,37.4,292,87,High Cholesterol,Lisinopril,2024-03-18,2025-05-15,Uninsured
+24,Other,160.2,60.4,160,93,100,35.3,177,188,Cardiovascular Disease,Aspirin,2023-12-20,2024-10-26,Private
+65,F,164.8,76.5,171,102,61,36.8,270,187,High Cholesterol,Insulin,2025-07-24,2024-12-24,Medicaid
+51,F,171.1,95.6,154,65,58,36.7,153,130,Hypertension,Insulin,2024-01-11,2025-08-04,Uninsured
+58,M,160.9,38.0,156,72,72,36.8,234,99,Hypertension,Atorvastatin,2024-05-14,2024-10-14,Medicaid
+77,F,145.1,48.5,162,107,71,36.8,262,77,Obesity,Lisinopril,2024-08-29,2025-04-19,Uninsured
+65,F,203.8,36.9,106,90,56,36.1,284,149,Hypertension,Metformin,2024-02-07,2025-07-27,Medicaid
+36,M,176.9,57.2,109,73,63,37.3,255,181,High Cholesterol,Metformin,2024-01-29,2025-06-20,Private
+21,M,180.3,54.4,144,75,56,36.5,197,181,Normal,Multiple,2024-11-25,2025-06-11,Medicaid
+42,F,175.0,72.8,91,99,52,36.2,185,146,Underweight,Atorvastatin,2025-05-09,2025-08-26,Private
+47,F,165.1,70.1,166,83,111,35.9,266,168,Underweight,Metformin,2024-06-28,2025-02-09,Private
+85,M,138.7,93.8,176,63,63,37.1,128,148,High Cholesterol,None,2025-02-24,2025-05-12,Private
+18,Other,171.3,81.7,106,85,55,37.2,161,141,Obesity,Metformin,2025-04-30,2024-09-28,Uninsured
+94,M,161.5,21.1,125,70,92,36.0,299,136,Diabetes,Multiple,2025-02-23,2025-05-09,Private
+19,Other,173.0,80.4,112,67,87,36.8,219,153,Underweight,Metformin,2024-12-14,2024-10-24,Medicare
+75,M,168.5,95.1,150,102,75,35.9,153,143,Normal,Aspirin,2024-10-21,2025-08-02,Medicare
+90,M,174.0,45.6,137,62,67,37.4,199,127,Obesity,Lisinopril,2024-11-29,2025-01-28,Uninsured
+51,M,169.4,62.2,140,103,120,35.4,192,188,Underweight,Atorvastatin,2024-10-18,2025-04-09,Private
+20,Other,180.8,92.4,148,64,97,36.0,143,110,Normal,Lisinopril,2023-12-29,2025-07-26,Medicare
+37,M,149.0,73.4,155,66,64,37.5,222,197,Normal,Atorvastatin,2025-04-06,2024-12-01,Uninsured
+45,M,177.6,75.8,114,77,64,36.3,207,127,Normal,Insulin,2023-09-30,2025-03-15,Uninsured
+31,Other,191.3,89.9,156,65,78,36.3,266,153,Normal,Metformin,2023-11-25,2025-06-06,Medicaid
+100,M,156.1,81.1,129,61,58,35.6,156,191,Hypertension,Lisinopril,2024-03-21,2025-06-04,Medicaid
+26,M,154.0,66.7,113,105,88,36.2,162,199,High Cholesterol,Multiple,2024-02-11,2024-09-21,Private
+65,Other,167.4,66.5,126,77,59,36.8,201,71,Cardiovascular Disease,Insulin,2024-03-26,2025-02-16,Private
+78,M,198.3,67.9,175,75,88,35.4,184,135,Diabetes,Metformin,2024-12-14,2024-11-05,Medicare
+46,Other,148.3,91.3,134,119,53,36.1,160,163,Hypertension,None,2024-05-08,2025-04-10,Private
+18,Other,193.8,53.6,151,60,120,35.7,212,158,Normal,Aspirin,2023-10-02,2025-08-17,Uninsured
+88,F,179.9,71.9,107,62,54,36.3,138,167,High Cholesterol,Insulin,2025-03-19,2025-03-19,Private
+55,Other,154.5,49.3,114,66,59,36.2,198,154,Obesity,Multiple,2025-04-14,2024-11-13,Medicare
+68,Other,175.0,74.3,135,105,117,36.4,244,200,Diabetes,Metformin,2025-08-10,2025-09-01,Medicare
+97,F,170.1,94.2,136,68,98,37.1,175,181,High Cholesterol,Atorvastatin,2025-04-24,2024-10-16,Medicaid
+48,Other,135.3,81.9,111,120,120,36.0,292,124,Normal,Metformin,2025-03-02,2025-01-26,Private
+80,F,196.6,86.7,98,103,113,37.1,160,124,Hypertension,Multiple,2024-08-27,2024-12-07,Uninsured
+75,F,162.4,70.6,166,115,111,35.7,225,101,Obesity,Insulin,2025-02-24,2025-02-19,Uninsured
+72,Other,178.2,70.9,166,117,70,36.0,290,173,Hypertension,Multiple,2025-07-03,2025-02-07,Uninsured
+47,Other,188.8,74.4,145,111,86,36.5,201,105,Underweight,Lisinopril,2024-08-22,2024-10-16,Medicaid
+77,M,174.4,65.4,96,86,98,36.5,260,102,Normal,Atorvastatin,2024-03-09,2025-07-12,Uninsured
+73,F,175.8,66.9,138,103,65,35.5,290,174,Diabetes,Lisinopril,2024-05-16,2024-09-19,Private
+30,M,163.0,50.5,122,89,107,36.4,241,126,High Cholesterol,Multiple,2024-06-05,2025-05-23,Private
+40,F,167.9,39.5,96,96,66,36.2,219,154,Hypertension,Insulin,2025-03-04,2025-06-10,Medicare
+21,Other,180.8,63.5,166,64,94,36.7,136,128,Cardiovascular Disease,Atorvastatin,2024-02-04,2025-08-29,Medicaid
+52,F,147.5,66.9,119,100,54,36.8,251,124,Hypertension,Atorvastatin,2025-03-12,2025-01-30,Medicaid
+19,Other,175.7,74.0,144,85,89,36.0,282,87,Obesity,Multiple,2024-07-04,2024-12-19,Private
+79,F,157.9,50.1,97,118,93,37.1,290,181,Cardiovascular Disease,None,2024-10-29,2025-03-22,Medicaid
+65,Other,182.8,99.7,178,81,108,36.5,286,107,Hypertension,Metformin,2024-09-02,2024-11-04,Medicaid
+54,Other,148.9,63.3,160,72,85,36.5,250,106,High Cholesterol,None,2024-10-28,2024-09-18,Uninsured
+36,M,178.4,77.8,104,101,81,36.1,244,90,Normal,Aspirin,2023-12-16,2024-12-10,Medicaid
+33,Other,153.0,78.8,147,87,103,36.7,125,180,Hypertension,Metformin,2025-08-23,2025-01-29,Medicare
+94,M,140.2,74.3,94,75,55,37.8,166,122,High Cholesterol,Lisinopril,2023-12-14,2025-05-10,Medicaid
+32,M,154.7,68.7,165,104,72,36.5,214,80,Cardiovascular Disease,Multiple,2025-05-13,2025-05-08,Medicaid
+30,F,157.7,93.0,123,92,92,36.5,276,186,High Cholesterol,Metformin,2024-05-14,2025-01-11,Uninsured
+62,Other,167.2,57.7,101,108,96,35.8,259,136,Hypertension,Aspirin,2025-04-27,2025-05-22,Uninsured
+50,F,179.7,72.3,177,92,67,36.7,253,75,Hypertension,Metformin,2025-04-09,2024-12-27,Medicaid
+56,M,165.1,79.3,156,67,78,35.9,166,126,Normal,Metformin,2024-02-16,2025-01-10,Uninsured
+96,Other,140.7,73.2,104,119,61,36.8,280,151,Normal,Insulin,2024-04-03,2024-12-31,Medicare
+70,Other,121.1,62.3,94,64,57,36.8,218,170,High Cholesterol,Insulin,2024-02-27,2025-09-13,Medicaid
+62,F,189.6,56.7,116,62,90,36.8,152,152,Underweight,Lisinopril,2024-07-09,2025-07-22,Medicare
+94,F,162.2,63.1,150,71,104,36.1,186,88,Obesity,Metformin,2025-02-19,2025-03-10,Medicare
+22,F,143.2,38.1,179,96,109,36.5,257,127,High Cholesterol,None,2024-09-28,2024-10-29,Uninsured
+81,M,185.5,57.0,128,71,84,35.7,125,129,Underweight,Multiple,2025-06-29,2025-06-24,Medicare
+52,M,170.8,75.0,132,98,65,36.3,287,81,Cardiovascular Disease,None,2025-01-05,2025-02-10,Uninsured
+68,Other,162.0,82.3,130,117,118,36.9,246,71,Underweight,None,2024-01-01,2025-05-09,Private
+55,F,151.9,83.1,179,83,79,36.3,253,188,Cardiovascular Disease,Metformin,2024-07-30,2025-08-18,Medicaid
+54,Other,176.1,84.9,130,93,116,36.8,267,85,Underweight,Multiple,2025-03-06,2025-09-07,Uninsured
+33,Other,187.6,67.7,105,88,78,36.3,284,91,Hypertension,Multiple,2023-09-21,2025-06-04,Medicare
+99,F,175.9,52.6,170,116,75,36.8,224,169,High Cholesterol,None,2025-05-31,2025-01-26,Uninsured
+70,F,169.7,87.5,177,84,88,36.3,259,197,Normal,None,2025-03-25,2025-04-10,Private
+30,F,182.6,67.0,101,109,98,36.4,236,91,Normal,Multiple,2024-05-05,2025-03-16,Uninsured
+83,Other,170.4,72.4,129,76,96,35.9,223,95,Obesity,Multiple,2024-05-21,2025-06-18,Private
+85,Other,176.0,79.9,90,83,106,36.5,293,185,Normal,Insulin,2024-09-12,2025-04-13,Private
+70,F,183.8,67.9,120,113,119,37.3,300,126,Diabetes,Aspirin,2024-04-17,2025-08-07,Medicare
+57,F,167.8,65.2,114,108,94,36.5,157,164,Cardiovascular Disease,None,2025-05-31,2025-03-11,Medicare
+49,F,188.6,91.3,99,102,98,36.6,283,150,High Cholesterol,Aspirin,2025-08-12,2024-12-04,Medicaid
+70,M,160.5,102.4,180,68,115,36.0,168,100,Obesity,Lisinopril,2025-01-08,2025-04-17,Uninsured
+96,F,175.0,71.0,144,117,95,37.4,151,91,Hypertension,Insulin,2025-09-10,2025-01-28,Medicaid
+55,F,176.9,87.6,95,107,107,37.0,137,145,Obesity,Atorvastatin,2024-02-21,2025-08-11,Uninsured
+40,M,183.8,61.6,134,97,80,36.3,217,75,Normal,Lisinopril,2024-04-24,2025-03-05,Private
+84,Other,152.1,92.8,99,91,116,37.0,186,87,Normal,Multiple,2024-12-16,2024-12-05,Medicare
+94,F,167.0,56.5,140,75,51,35.8,147,83,Hypertension,Lisinopril,2024-09-29,2025-05-23,Medicaid
+100,F,192.4,82.3,102,71,115,37.1,230,160,Diabetes,Metformin,2024-08-17,2025-08-27,Private
+55,M,181.0,67.7,180,114,103,36.5,146,89,Underweight,Atorvastatin,2024-08-07,2024-09-22,Uninsured
+38,Other,131.7,50.5,168,119,85,36.6,288,82,Normal,Atorvastatin,2024-05-07,2024-11-09,Medicare
+50,M,153.6,56.4,117,67,80,36.1,257,184,High Cholesterol,Metformin,2024-11-02,2025-09-12,Medicaid
+30,F,182.2,73.6,167,96,104,37.0,173,141,Hypertension,Multiple,2025-04-06,2025-03-15,Private
+95,M,183.8,65.6,127,86,66,36.3,278,78,Hypertension,Multiple,2025-02-10,2024-12-11,Medicaid
+32,M,183.0,67.7,121,73,55,36.7,136,77,Diabetes,Multiple,2023-10-29,2024-11-15,Private
+35,Other,163.3,58.7,103,82,72,36.8,236,185,Obesity,Atorvastatin,2025-08-04,2024-10-15,Medicare
+91,M,180.2,88.6,180,75,111,36.6,283,72,High Cholesterol,Aspirin,2024-10-12,2025-06-01,Uninsured
+71,Other,155.4,51.1,172,72,59,36.5,242,90,Diabetes,Aspirin,2025-06-04,2025-09-06,Medicare
+80,Other,173.1,83.6,134,112,56,36.0,160,154,Normal,None,2024-05-14,2025-07-15,Uninsured
+94,M,167.9,62.8,113,93,66,36.9,256,106,Diabetes,Multiple,2024-05-31,2025-07-25,Uninsured
+25,M,150.9,72.3,172,74,112,37.3,206,182,High Cholesterol,Aspirin,2024-08-06,2025-07-28,Private
+34,Other,155.2,65.6,118,87,89,37.2,230,98,Diabetes,Aspirin,2024-10-05,2024-11-26,Uninsured
+95,F,182.7,75.2,172,75,109,35.8,185,194,Diabetes,Lisinopril,2024-11-03,2025-05-11,Medicare
+87,Other,146.4,50.0,102,84,106,36.4,226,85,Cardiovascular Disease,Metformin,2023-11-10,2025-03-20,Medicare
+66,Other,181.3,73.5,121,81,104,36.8,151,200,Hypertension,Lisinopril,2025-07-25,2025-02-14,Medicare
+89,Other,153.3,46.3,159,106,53,36.7,241,84,Normal,Metformin,2024-09-17,2025-05-11,Medicaid
+77,M,135.1,64.9,114,77,55,36.6,295,169,Obesity,Aspirin,2025-09-16,2025-05-23,Medicare
+56,Other,185.7,55.8,167,104,93,36.4,290,81,Underweight,Insulin,2025-02-22,2024-12-03,Uninsured
+23,M,156.2,40.9,97,108,54,35.7,282,171,Cardiovascular Disease,Multiple,2024-01-26,2025-05-18,Medicare
+56,M,173.3,80.8,136,97,104,35.6,223,73,Cardiovascular Disease,Aspirin,2024-01-12,2025-08-13,Medicare
+55,Other,160.3,70.4,119,93,74,37.1,164,105,Cardiovascular Disease,Metformin,2025-07-24,2025-01-19,Private
+30,F,153.1,31.9,149,113,90,37.1,150,178,Obesity,Lisinopril,2025-09-13,2024-09-28,Uninsured
+39,F,160.3,62.3,134,87,85,37.0,143,163,Cardiovascular Disease,Insulin,2025-02-08,2024-11-19,Medicare
+41,F,153.7,65.8,118,95,117,36.6,300,150,Obesity,None,2024-02-13,2025-02-08,Uninsured
+90,Other,167.3,76.0,119,66,103,36.6,276,126,Hypertension,Metformin,2024-07-26,2024-10-13,Uninsured
+66,M,169.8,86.0,170,73,56,37.1,240,194,Hypertension,Multiple,2024-10-20,2025-05-07,Uninsured
+78,M,168.3,79.9,104,120,63,36.7,240,165,Obesity,Lisinopril,2025-05-03,2025-03-14,Medicaid
+90,Other,179.5,54.7,113,101,73,36.9,151,127,Cardiovascular Disease,Aspirin,2025-07-31,2024-12-08,Uninsured
+43,Other,162.8,29.4,177,105,84,37.2,247,192,Diabetes,Insulin,2023-10-15,2025-08-13,Medicare
+26,M,178.3,86.4,164,91,54,37.2,285,199,Hypertension,None,2024-07-23,2025-02-14,Medicare
+67,M,171.0,74.8,146,85,78,37.2,198,174,Obesity,Multiple,2025-04-10,2025-04-23,Medicaid
+91,Other,155.4,58.4,168,79,72,36.2,283,142,Diabetes,Insulin,2024-08-17,2025-08-20,Medicaid
+86,Other,190.2,51.0,149,66,95,36.7,154,146,Obesity,Aspirin,2025-05-07,2024-10-24,Medicare
+83,Other,155.8,86.5,101,64,60,37.0,274,190,Normal,Metformin,2024-06-11,2024-12-31,Medicaid
+50,M,177.4,71.3,159,86,106,37.7,181,183,Diabetes,Lisinopril,2023-12-28,2025-07-28,Medicaid
+44,Other,185.6,70.8,170,92,72,37.1,276,158,Cardiovascular Disease,Multiple,2025-02-27,2024-09-20,Medicare
+25,Other,164.7,58.9,102,82,103,37.2,165,92,Obesity,Multiple,2024-03-02,2025-05-27,Medicare
+68,M,179.0,52.7,159,72,101,36.3,160,153,Diabetes,Metformin,2025-04-13,2025-09-11,Medicare
+85,Other,143.0,80.3,95,72,82,36.7,162,123,Cardiovascular Disease,Insulin,2024-09-29,2025-01-13,Medicaid
+52,Other,164.1,49.7,115,120,58,36.2,222,200,Obesity,Metformin,2024-03-18,2025-06-29,Medicaid
+52,F,184.5,51.8,125,107,95,35.9,240,140,Hypertension,Multiple,2024-06-03,2025-06-30,Private
+93,M,173.0,62.2,114,112,75,37.2,139,83,High Cholesterol,Aspirin,2024-10-07,2025-07-08,Private
+73,M,202.9,73.2,121,83,84,36.4,286,190,Cardiovascular Disease,Lisinopril,2024-08-31,2025-03-12,Medicare
+45,F,187.0,67.4,176,109,50,37.4,241,193,Obesity,Atorvastatin,2025-01-16,2025-09-05,Medicare
+31,M,174.9,84.2,114,101,104,36.2,265,160,Obesity,Aspirin,2024-09-13,2025-01-26,Private
+82,M,157.6,84.3,112,81,110,36.2,202,182,Diabetes,Aspirin,2024-04-11,2025-08-02,Uninsured
+44,Other,163.8,51.7,111,81,109,37.0,246,105,High Cholesterol,Aspirin,2024-04-11,2025-01-27,Medicaid
+62,M,196.3,70.4,104,65,100,37.0,198,106,Underweight,Aspirin,2024-08-09,2024-09-26,Medicaid
+93,Other,159.2,94.1,169,117,52,35.8,224,172,Diabetes,None,2024-10-01,2025-06-15,Private
+95,Other,158.7,55.1,108,75,92,36.0,170,83,High Cholesterol,Metformin,2024-02-10,2025-07-03,Uninsured
+70,F,174.2,52.0,163,108,120,36.2,278,90,Cardiovascular Disease,Lisinopril,2024-05-08,2025-03-02,Private
+20,Other,168.6,56.7,166,119,71,36.2,230,170,Obesity,Multiple,2024-01-07,2025-06-06,Medicaid
+59,M,167.9,78.3,135,78,97,36.4,146,157,Cardiovascular Disease,Atorvastatin,2025-05-13,2024-10-09,Medicare
+34,Other,156.1,45.5,180,72,105,36.6,200,147,Diabetes,Metformin,2023-11-29,2024-09-22,Private
+57,F,186.1,63.0,178,106,106,36.0,285,196,Cardiovascular Disease,Metformin,2024-02-13,2025-06-04,Medicaid
+59,M,164.2,73.1,115,65,103,36.4,222,109,High Cholesterol,Aspirin,2023-10-13,2024-09-19,Private
+77,F,165.3,55.7,134,119,90,36.5,288,109,Obesity,Insulin,2024-03-17,2025-06-18,Private
+88,M,162.2,46.3,120,90,93,36.0,236,118,Obesity,Multiple,2025-05-07,2024-11-21,Medicare
+84,M,149.6,50.0,161,69,76,36.5,237,83,Obesity,None,2024-10-20,2024-09-24,Medicaid
+46,Other,154.6,73.8,164,60,115,36.5,253,186,Normal,Insulin,2025-05-10,2024-10-05,Private
+60,M,188.9,63.3,120,99,96,37.4,255,192,Obesity,Multiple,2023-12-23,2025-01-08,Medicaid
+83,M,166.1,67.7,145,111,98,37.3,271,103,Cardiovascular Disease,None,2024-06-27,2025-08-14,Medicaid
+27,Other,178.8,69.6,113,94,51,36.8,156,192,Obesity,Insulin,2024-12-14,2024-11-13,Uninsured
+93,F,174.0,75.3,142,89,113,36.5,145,168,Cardiovascular Disease,Atorvastatin,2024-09-27,2025-01-08,Uninsured
+31,M,159.0,71.3,174,76,73,36.5,219,91,Underweight,Metformin,2025-03-07,2025-02-08,Medicare
+32,F,178.0,69.7,121,109,88,36.1,150,127,Obesity,Multiple,2025-01-26,2025-08-06,Private
+95,F,175.4,76.7,121,74,58,36.2,125,110,High Cholesterol,Metformin,2024-08-25,2024-09-22,Medicaid
+24,Other,157.5,60.3,115,82,110,36.2,296,129,Cardiovascular Disease,Atorvastatin,2025-01-12,2025-06-21,Private
+53,F,174.3,88.5,175,61,93,36.2,151,72,Hypertension,Metformin,2024-10-11,2025-04-18,Private
+52,Other,164.7,64.8,161,68,68,36.6,137,110,Normal,Multiple,2025-02-23,2025-03-17,Private
+28,Other,171.8,74.8,106,62,101,36.6,232,132,Cardiovascular Disease,Metformin,2024-06-15,2025-02-03,Private
+75,F,185.3,79.0,150,101,120,36.8,120,110,Obesity,Atorvastatin,2025-08-29,2024-12-15,Private
+83,M,157.5,59.0,146,117,117,36.1,191,167,High Cholesterol,Metformin,2023-09-21,2025-05-09,Private
+71,F,171.6,65.3,108,82,97,37.2,154,127,Underweight,Insulin,2025-01-02,2025-03-15,Medicaid
+40,F,210.6,51.8,119,110,51,35.6,282,179,Normal,Lisinopril,2025-08-24,2025-03-29,Medicare
+36,M,171.4,60.3,129,112,111,36.8,286,157,Hypertension,Atorvastatin,2025-08-02,2025-05-16,Medicare
+68,F,185.9,88.8,144,72,105,36.5,197,172,Diabetes,Atorvastatin,2023-09-29,2024-12-24,Medicare
+95,F,187.6,84.6,132,90,89,36.5,273,184,Cardiovascular Disease,Atorvastatin,2024-09-25,2025-03-05,Private
+50,M,178.0,77.2,109,109,63,37.0,164,151,Obesity,Lisinopril,2025-09-07,2024-10-10,Medicaid
+56,Other,187.5,72.6,159,93,78,36.6,297,148,Underweight,Multiple,2024-07-08,2025-01-14,Uninsured
+55,F,144.4,82.3,137,92,60,36.6,250,196,Normal,Atorvastatin,2024-07-07,2025-03-27,Medicaid
+33,M,166.0,77.2,123,69,80,35.9,220,89,Underweight,Lisinopril,2025-02-09,2025-04-22,Private
+19,M,181.6,29.8,115,89,74,36.3,187,171,Cardiovascular Disease,Multiple,2025-05-19,2025-02-22,Medicare
+34,F,168.8,90.1,177,87,95,36.0,169,179,Cardiovascular Disease,Aspirin,2025-01-23,2024-11-14,Uninsured
+72,Other,186.6,49.1,135,68,118,38.0,162,154,Cardiovascular Disease,Lisinopril,2025-03-04,2025-07-11,Medicaid
+55,M,163.8,56.3,95,120,79,36.1,135,125,Hypertension,Metformin,2024-03-15,2025-05-06,Medicare
+21,F,182.6,81.5,125,90,54,36.5,209,161,Obesity,Insulin,2024-03-28,2025-08-29,Private
+81,F,161.8,75.1,112,95,79,36.4,238,172,High Cholesterol,None,2025-08-13,2024-11-24,Uninsured
+60,Other,173.5,80.6,123,107,104,35.5,256,113,High Cholesterol,Multiple,2025-02-17,2025-06-16,Uninsured
+99,Other,183.2,51.3,145,112,105,36.6,268,170,Diabetes,Lisinopril,2023-10-21,2025-09-14,Private
+99,F,183.5,57.3,97,95,85,36.0,214,160,Normal,Aspirin,2025-06-18,2024-12-01,Private
+68,F,174.3,76.9,103,96,57,36.2,194,114,Obesity,Lisinopril,2024-12-01,2025-01-29,Medicaid
+67,F,139.7,81.5,132,117,104,36.5,126,199,Normal,Metformin,2025-05-08,2025-01-28,Medicare
+50,M,155.8,79.3,165,92,57,36.5,285,134,Hypertension,Atorvastatin,2024-04-30,2024-12-14,Uninsured
+100,F,171.4,64.3,176,80,70,36.1,230,127,Cardiovascular Disease,Lisinopril,2024-04-10,2024-11-15,Medicaid
+18,Other,165.9,68.2,152,77,80,36.8,254,124,High Cholesterol,Insulin,2025-09-05,2025-09-05,Medicaid
+69,F,192.1,80.2,109,87,91,36.5,148,94,Cardiovascular Disease,Lisinopril,2025-03-15,2025-04-24,Medicare
+21,Other,186.6,61.3,153,86,64,35.4,120,106,Diabetes,Aspirin,2024-09-13,2025-08-28,Uninsured
+56,Other,183.9,76.8,132,74,80,36.6,221,95,Hypertension,Multiple,2024-01-30,2024-12-07,Medicare
+21,Other,188.9,82.8,110,63,63,36.0,147,172,Normal,Atorvastatin,2024-07-10,2024-11-13,Uninsured
+68,F,172.7,74.2,170,65,105,36.5,205,129,Underweight,Insulin,2023-11-17,2025-05-30,Private
+21,Other,157.3,58.7,112,70,93,36.1,229,132,Normal,Metformin,2024-06-16,2024-11-15,Medicaid
+43,M,174.2,89.8,137,119,111,37.2,142,161,Cardiovascular Disease,Aspirin,2025-08-19,2025-06-14,Uninsured
+23,M,178.2,44.6,125,68,65,36.3,279,193,High Cholesterol,Multiple,2023-12-18,2025-04-14,Uninsured
+31,F,169.8,51.3,148,95,119,37.3,157,99,Cardiovascular Disease,None,2024-11-30,2025-07-05,Medicare
+55,Other,168.0,94.8,115,72,118,37.3,262,95,Underweight,Lisinopril,2024-03-16,2025-08-05,Uninsured
+88,F,165.6,76.2,109,71,94,36.4,180,197,Cardiovascular Disease,Metformin,2024-03-15,2025-07-29,Uninsured
+47,M,172.9,67.2,163,87,50,36.6,213,75,Normal,Insulin,2024-08-27,2025-02-05,Uninsured
+43,Other,175.8,99.6,165,108,99,36.2,236,154,Hypertension,None,2024-02-18,2025-07-27,Private
+86,Other,165.0,55.6,168,82,105,36.8,202,87,Diabetes,Metformin,2024-11-15,2025-01-01,Uninsured
+19,Other,165.0,58.6,90,70,89,35.6,153,73,Normal,None,2025-06-28,2025-05-15,Medicaid
+47,F,160.8,57.4,109,81,51,35.6,192,88,Underweight,Multiple,2025-08-10,2024-10-11,Medicare
+79,M,161.6,68.2,115,118,64,36.3,271,93,Hypertension,Lisinopril,2023-09-25,2025-04-01,Medicaid
+78,M,175.3,71.2,168,82,99,36.0,207,152,High Cholesterol,Lisinopril,2024-06-02,2025-04-22,Medicare
+49,M,171.4,83.9,132,73,90,35.1,296,159,Cardiovascular Disease,Insulin,2025-05-31,2025-09-08,Medicare
+51,M,168.4,50.7,102,116,71,36.8,121,88,High Cholesterol,Aspirin,2023-12-19,2025-07-25,Private
+74,Other,174.1,86.4,160,109,53,36.6,171,139,Hypertension,Aspirin,2024-11-20,2025-08-09,Medicare
+74,Other,155.2,89.6,112,97,107,37.4,139,122,Obesity,Multiple,2025-08-21,2024-12-21,Private
+45,M,168.9,44.2,176,67,61,36.7,261,112,Hypertension,Lisinopril,2025-06-22,2025-03-15,Uninsured
+20,F,176.1,82.0,152,74,82,35.7,274,178,Hypertension,Metformin,2025-09-09,2025-01-19,Uninsured
+73,Other,179.9,50.5,100,106,109,35.9,129,98,Diabetes,None,2024-01-04,2025-09-04,Medicaid
+50,M,168.4,47.3,93,73,69,36.9,198,115,Normal,Atorvastatin,2025-07-30,2024-12-10,Private
+28,F,149.1,73.9,161,120,111,36.3,223,122,High Cholesterol,None,2024-07-15,2024-10-06,Private
+38,F,177.8,66.7,147,77,64,36.0,137,125,High Cholesterol,Lisinopril,2025-05-10,2025-07-30,Private
+43,M,158.5,77.3,141,64,60,36.0,166,71,Diabetes,Atorvastatin,2024-09-01,2024-10-05,Medicaid
+82,M,185.6,92.7,159,107,74,37.0,176,102,Hypertension,Atorvastatin,2025-02-07,2025-02-18,Uninsured
+48,Other,155.4,69.0,116,67,95,36.9,134,75,Hypertension,Lisinopril,2025-03-10,2024-09-30,Private
+72,M,142.1,76.8,145,110,50,36.6,237,119,Underweight,Metformin,2023-12-24,2024-10-14,Uninsured
+83,Other,172.8,77.1,175,67,83,36.8,121,78,Underweight,Aspirin,2024-03-17,2024-11-21,Medicaid
+78,F,167.8,58.1,118,97,89,36.4,195,181,Underweight,Atorvastatin,2024-04-12,2025-09-16,Uninsured
+95,M,199.4,56.0,142,68,79,36.2,134,99,Obesity,Atorvastatin,2025-05-01,2025-01-12,Private
+51,Other,154.9,53.8,106,114,113,36.0,120,165,Normal,Lisinopril,2024-12-08,2025-07-23,Medicare
+19,Other,142.5,67.9,178,119,105,35.4,235,152,Obesity,Lisinopril,2024-09-05,2025-07-18,Private
+89,M,173.6,60.3,97,67,116,37.1,229,106,High Cholesterol,None,2024-07-18,2024-12-18,Medicaid
+41,M,175.8,40.6,125,70,59,36.2,124,195,Cardiovascular Disease,Atorvastatin,2024-10-11,2024-12-07,Medicaid
+62,F,198.3,90.1,177,79,54,37.3,256,70,High Cholesterol,Atorvastatin,2024-03-11,2024-11-08,Uninsured
+48,M,163.9,67.4,158,98,61,35.9,282,169,Diabetes,Lisinopril,2025-05-01,2025-06-30,Medicaid
+86,F,166.8,73.5,96,116,64,36.3,128,76,Cardiovascular Disease,Atorvastatin,2024-07-03,2025-01-21,Medicare
+79,Other,165.2,91.3,169,66,95,35.7,172,161,Cardiovascular Disease,Aspirin,2025-03-20,2024-11-29,Private
+88,F,174.8,67.8,158,96,97,37.7,136,117,Diabetes,Atorvastatin,2024-06-09,2025-08-16,Uninsured
+78,Other,163.7,50.3,135,89,115,36.6,154,163,Obesity,Lisinopril,2024-05-21,2025-08-13,Private
+64,Other,178.8,98.8,172,93,99,37.1,174,129,Obesity,None,2024-06-19,2024-12-08,Medicare
+28,Other,163.0,96.7,151,115,88,36.6,285,108,Normal,None,2024-04-09,2025-05-11,Private
+38,Other,158.8,58.4,144,104,72,37.0,281,182,Obesity,Insulin,2024-08-03,2025-05-02,Private
+65,M,195.9,57.2,127,93,77,36.3,249,135,Cardiovascular Disease,Metformin,2025-04-28,2025-08-14,Medicaid
+71,Other,192.4,60.6,125,99,69,36.5,156,141,Cardiovascular Disease,Atorvastatin,2025-08-29,2025-08-01,Uninsured
+21,F,155.3,79.7,125,88,97,35.8,185,86,Diabetes,Metformin,2024-01-22,2025-02-17,Medicaid
+36,M,155.3,68.7,107,66,87,37.3,198,77,High Cholesterol,Atorvastatin,2025-01-01,2025-02-20,Uninsured
+59,M,151.2,59.3,131,73,65,36.3,270,90,Cardiovascular Disease,None,2025-01-18,2025-02-22,Medicaid
+77,M,196.9,86.3,133,104,95,37.0,248,112,Diabetes,Atorvastatin,2024-12-06,2025-07-27,Uninsured
+74,F,188.9,52.7,111,63,70,35.1,181,151,Diabetes,Atorvastatin,2024-08-09,2025-08-02,Medicare
+28,Other,178.6,56.9,90,67,94,37.2,279,88,Obesity,Atorvastatin,2024-07-14,2025-04-09,Medicaid
+53,M,152.4,74.5,118,71,74,36.3,295,193,Obesity,Multiple,2024-02-11,2024-10-08,Private
+30,F,154.1,64.1,107,68,97,36.6,245,188,Underweight,Metformin,2025-01-22,2025-06-27,Medicaid
+65,Other,169.9,88.7,165,101,86,36.8,130,165,Hypertension,Aspirin,2024-11-04,2025-03-26,Private
+44,M,164.1,73.7,91,104,70,36.8,270,176,Underweight,Aspirin,2024-12-15,2024-11-29,Uninsured
+36,F,171.5,64.0,110,70,99,36.7,229,150,Underweight,None,2023-12-07,2025-03-10,Medicaid
+46,M,168.4,67.5,107,99,80,37.0,156,158,Underweight,Multiple,2023-09-21,2025-07-31,Medicaid
+36,Other,152.9,73.4,137,80,71,36.3,230,129,Underweight,Atorvastatin,2025-08-15,2025-09-02,Medicare
+67,M,196.1,75.7,133,63,77,36.4,136,82,Normal,Atorvastatin,2025-04-01,2025-01-11,Medicaid
+74,M,178.8,62.9,104,87,55,36.4,295,175,Normal,Metformin,2025-05-12,2025-05-05,Uninsured
+89,M,163.4,67.0,136,67,120,36.7,273,97,Hypertension,Metformin,2025-01-13,2025-04-12,Medicare
+35,F,194.2,57.0,149,91,100,36.2,157,142,Diabetes,Multiple,2024-04-04,2025-06-09,Uninsured
+80,M,186.1,70.0,152,106,110,37.2,212,116,Diabetes,Metformin,2024-09-15,2025-04-08,Uninsured
+27,F,176.6,79.7,159,86,89,36.4,266,95,Cardiovascular Disease,Atorvastatin,2023-12-30,2025-07-15,Medicaid
+57,M,169.6,89.9,166,73,80,35.5,180,73,Hypertension,Insulin,2023-11-29,2025-05-26,Medicare
+95,Other,164.1,62.2,151,80,88,36.5,179,109,Obesity,Insulin,2023-12-31,2025-04-26,Medicare
+62,Other,164.7,96.3,147,96,105,36.6,265,144,Cardiovascular Disease,Multiple,2024-06-25,2025-07-05,Uninsured
+26,M,167.7,55.4,90,119,82,37.2,246,166,Obesity,Atorvastatin,2024-11-09,2025-01-28,Medicare
+54,M,175.5,74.5,96,97,112,37.1,179,164,Normal,Atorvastatin,2024-10-11,2024-10-23,Private
+20,Other,175.2,69.5,111,69,113,37.1,184,124,Underweight,Multiple,2025-03-18,2025-04-19,Medicare
+86,M,188.0,69.7,155,86,101,37.0,149,157,Hypertension,Insulin,2024-12-12,2025-04-20,Medicare
+24,F,161.9,88.4,147,93,70,36.0,268,199,Obesity,Atorvastatin,2025-02-25,2025-03-13,Uninsured
+56,F,151.4,111.2,154,75,79,36.4,278,168,Hypertension,Multiple,2024-10-10,2025-03-14,Medicare
+67,M,144.7,61.1,127,80,103,36.3,287,100,Normal,Metformin,2024-06-07,2025-01-16,Private
+27,M,163.4,68.2,149,118,120,36.8,211,77,Normal,Lisinopril,2024-03-30,2025-01-17,Medicare
+99,F,135.1,62.0,154,89,60,35.7,282,129,Hypertension,Aspirin,2025-02-09,2025-04-24,Uninsured
+81,M,143.2,50.8,133,108,73,37.3,286,198,Underweight,Atorvastatin,2025-01-29,2024-10-12,Uninsured
+85,Other,158.6,62.1,162,108,116,36.2,202,70,Normal,Multiple,2023-10-01,2025-03-10,Medicaid
+74,M,161.7,100.1,119,71,89,37.4,204,159,High Cholesterol,Aspirin,2024-03-18,2024-09-26,Medicare
+69,Other,188.5,66.8,177,118,56,36.7,179,98,Hypertension,Insulin,2025-06-14,2024-11-30,Private
+43,F,159.2,53.4,120,79,89,36.8,278,145,High Cholesterol,Aspirin,2024-06-03,2025-04-11,Medicaid
+75,M,160.6,81.4,98,100,100,36.6,259,159,High Cholesterol,None,2024-08-30,2025-06-26,Private
+99,F,178.1,64.6,124,80,61,35.5,242,146,High Cholesterol,Atorvastatin,2025-03-15,2024-09-21,Medicare
+46,F,157.4,58.7,151,85,70,35.3,128,146,Underweight,Insulin,2024-04-15,2025-07-01,Uninsured
+64,Other,145.1,58.5,104,61,77,37.0,231,73,Diabetes,Atorvastatin,2024-01-31,2025-07-18,Uninsured
+44,Other,165.0,73.3,104,108,104,36.9,220,127,Underweight,None,2024-07-31,2025-01-07,Medicaid
+66,M,183.0,91.7,109,79,94,37.0,226,175,High Cholesterol,Atorvastatin,2024-01-19,2025-08-04,Private
+49,F,179.0,61.4,104,65,63,36.8,121,159,Diabetes,None,2025-03-05,2024-10-16,Medicaid
+64,Other,166.8,61.1,100,86,108,36.1,163,185,Cardiovascular Disease,Aspirin,2024-07-16,2025-05-24,Private
+34,Other,149.0,54.2,173,70,86,37.2,225,172,Cardiovascular Disease,Atorvastatin,2025-04-30,2025-01-11,Private
+89,M,170.7,75.6,117,107,99,36.1,123,102,Hypertension,Metformin,2024-08-07,2024-09-22,Uninsured
+36,F,160.2,84.8,126,115,116,37.2,151,115,Underweight,Multiple,2024-04-29,2025-05-03,Medicare
+81,F,148.2,52.9,171,71,70,36.0,179,197,Hypertension,Insulin,2025-05-01,2025-02-07,Private
+64,M,185.3,59.3,116,115,62,37.3,270,181,Hypertension,Metformin,2024-05-13,2025-07-02,Private
+83,F,192.3,68.8,108,96,115,35.8,233,124,Underweight,Metformin,2023-10-26,2024-11-17,Private
+99,Other,162.4,88.9,153,60,72,36.6,136,125,Normal,Lisinopril,2023-12-22,2025-07-03,Medicare
+40,Other,192.3,105.3,98,107,71,37.0,235,118,Diabetes,None,2024-09-07,2025-01-01,Medicare
+85,Other,163.2,69.6,132,74,88,36.4,264,79,Normal,Insulin,2024-08-28,2024-11-16,Private
+24,F,161.6,84.6,113,77,68,37.0,251,168,Diabetes,Insulin,2023-11-16,2024-10-30,Medicaid
+74,Other,182.4,62.5,94,60,51,36.1,288,96,Obesity,None,2025-04-19,2025-08-04,Medicare
+79,M,158.4,80.9,157,64,80,36.6,217,72,Diabetes,Atorvastatin,2024-06-25,2025-09-16,Uninsured
+43,Other,175.6,57.6,169,60,65,36.5,148,198,Cardiovascular Disease,Atorvastatin,2025-01-24,2025-08-19,Medicaid
+100,Other,182.2,78.9,151,93,108,37.3,220,170,Cardiovascular Disease,Atorvastatin,2025-03-01,2025-04-29,Private
+92,F,162.9,88.0,165,71,65,36.0,186,135,Obesity,Metformin,2024-07-14,2024-12-07,Medicaid
+67,Other,141.6,49.1,155,94,93,36.8,273,165,High Cholesterol,Atorvastatin,2024-09-09,2025-05-10,Private
+45,Other,158.9,66.9,102,107,117,36.9,280,141,Normal,Aspirin,2023-10-08,2024-12-23,Uninsured
+21,M,161.0,70.2,142,89,101,36.6,229,101,Hypertension,Atorvastatin,2025-02-26,2025-02-19,Uninsured
+87,Other,175.5,59.6,126,106,66,36.4,271,179,Normal,Insulin,2024-08-27,2025-07-20,Uninsured
+21,M,164.1,72.3,124,66,81,36.8,133,182,High Cholesterol,Multiple,2024-05-16,2025-07-20,Uninsured
+75,Other,173.2,68.9,98,72,76,36.0,157,162,Diabetes,Multiple,2025-04-04,2024-11-04,Medicare
+54,Other,199.5,94.0,127,71,84,36.4,220,185,Diabetes,Insulin,2025-08-07,2025-07-24,Uninsured
+34,F,173.7,72.9,142,82,94,36.7,224,187,Hypertension,Lisinopril,2024-08-29,2025-02-18,Medicaid
+70,F,166.5,60.5,102,74,52,36.5,189,169,Obesity,Multiple,2023-11-28,2025-05-19,Medicaid
+61,Other,147.4,89.4,123,85,63,36.7,278,113,High Cholesterol,Insulin,2024-03-20,2025-08-10,Private
+62,M,178.5,93.8,129,107,100,35.7,149,198,Cardiovascular Disease,Metformin,2024-02-28,2025-02-11,Private
+81,Other,152.6,28.8,147,63,69,36.8,144,89,Cardiovascular Disease,Aspirin,2024-01-23,2025-02-27,Private
+100,F,167.6,71.6,153,95,99,37.2,237,191,Cardiovascular Disease,Metformin,2024-05-14,2025-08-19,Private
+59,M,161.7,89.2,132,118,100,36.9,163,146,Obesity,Multiple,2024-07-05,2025-07-12,Uninsured
+84,F,154.8,83.7,170,65,58,36.7,192,107,Normal,Multiple,2024-10-30,2024-10-05,Medicaid
+59,Other,189.2,67.1,130,89,111,35.9,165,70,High Cholesterol,Aspirin,2025-02-20,2025-08-27,Medicare
+22,Other,173.2,63.6,135,87,91,36.6,193,142,High Cholesterol,Aspirin,2024-12-13,2025-01-08,Private
+40,F,172.5,84.5,116,83,71,36.9,180,139,Diabetes,Aspirin,2023-12-04,2025-06-02,Medicaid
+79,F,158.8,71.4,153,98,73,36.7,191,132,Cardiovascular Disease,None,2023-11-30,2025-07-07,Private
+100,F,184.9,76.6,174,111,105,36.3,257,107,High Cholesterol,None,2024-02-24,2024-12-29,Uninsured
+32,M,150.9,63.2,125,85,82,35.5,156,99,Diabetes,None,2024-04-29,2025-08-27,Private
+87,Other,147.4,75.6,146,93,82,36.6,271,96,Underweight,Aspirin,2024-04-30,2025-01-01,Medicaid
+69,Other,161.2,84.1,148,80,55,37.2,261,109,Normal,Aspirin,2024-06-28,2025-05-31,Medicaid
+59,Other,170.5,68.8,142,115,73,36.7,298,94,Cardiovascular Disease,Atorvastatin,2024-09-27,2025-06-18,Medicaid
+21,M,132.9,78.6,137,79,95,36.9,139,107,Normal,Atorvastatin,2025-07-03,2025-07-01,Medicare
+85,Other,165.7,86.3,139,110,83,37.3,232,82,Hypertension,Insulin,2024-12-17,2025-02-28,Uninsured
+44,F,193.2,66.5,95,75,86,36.2,200,120,Hypertension,Multiple,2025-06-18,2025-01-04,Medicaid
+35,M,169.3,97.0,147,117,99,37.4,244,127,Hypertension,Atorvastatin,2024-03-06,2025-06-19,Medicaid
+59,Other,167.7,64.4,94,62,120,36.1,270,150,Hypertension,Aspirin,2024-09-07,2024-10-13,Medicaid
+19,M,199.6,58.4,125,112,74,36.2,235,155,High Cholesterol,Aspirin,2025-02-27,2025-09-12,Medicare
+39,Other,182.1,51.6,143,109,117,36.1,243,171,Cardiovascular Disease,Aspirin,2025-06-18,2025-02-23,Uninsured
+29,F,171.6,65.5,114,98,101,35.5,288,84,Obesity,Aspirin,2023-11-28,2024-12-06,Private
+24,Other,169.2,58.9,140,108,71,36.5,230,174,Obesity,Atorvastatin,2023-11-06,2024-10-20,Medicaid
+81,Other,135.0,64.4,180,120,113,37.2,251,159,Obesity,Atorvastatin,2025-03-25,2025-01-18,Medicare
+92,M,184.0,61.8,158,100,93,36.6,226,115,Diabetes,Atorvastatin,2023-12-26,2024-12-23,Medicare
+49,M,160.7,86.4,123,109,106,36.5,260,172,Underweight,Lisinopril,2025-08-14,2025-07-04,Uninsured
+57,Other,188.5,81.9,109,88,118,36.1,204,77,Cardiovascular Disease,Insulin,2024-01-08,2025-09-08,Medicaid
+54,M,181.8,82.9,99,76,77,37.1,290,173,Obesity,Aspirin,2024-05-03,2024-12-29,Medicare
+48,M,181.0,63.8,156,120,57,36.5,219,94,Underweight,Lisinopril,2023-11-22,2025-03-16,Medicare
+90,M,195.0,94.0,134,105,88,35.9,150,82,Hypertension,None,2023-09-17,2024-11-20,Uninsured
+66,F,159.0,72.7,90,100,96,36.7,154,151,High Cholesterol,Aspirin,2025-08-22,2025-08-16,Uninsured
+99,M,172.4,50.6,167,71,68,36.3,175,117,Underweight,None,2025-04-03,2024-10-06,Uninsured
+90,Other,163.1,71.3,157,83,106,35.7,163,180,High Cholesterol,Lisinopril,2025-06-25,2025-08-24,Private
+19,Other,166.4,54.2,131,65,99,36.4,130,161,Cardiovascular Disease,Metformin,2024-02-20,2025-05-23,Medicaid
+92,Other,157.5,47.7,160,73,109,36.1,298,109,Diabetes,Lisinopril,2025-03-08,2025-02-20,Private
+36,F,165.1,62.2,173,72,85,36.0,178,84,High Cholesterol,Multiple,2024-04-12,2025-02-27,Private
+32,Other,168.4,90.0,90,81,109,36.6,260,182,Diabetes,Lisinopril,2025-01-23,2025-01-15,Medicaid
+56,F,164.9,71.8,99,91,63,36.4,188,72,Normal,Lisinopril,2024-03-11,2025-04-05,Uninsured
+69,M,180.3,74.4,162,82,53,36.1,244,72,Cardiovascular Disease,Metformin,2025-08-24,2025-07-31,Uninsured
+89,Other,190.7,71.3,175,72,114,36.1,233,103,Hypertension,None,2024-04-14,2025-03-25,Medicare
+85,Other,188.3,74.0,118,119,116,37.2,293,180,Underweight,Multiple,2024-09-19,2025-01-04,Medicare
+23,F,199.0,69.2,167,84,59,35.8,197,136,Obesity,Atorvastatin,2025-09-12,2025-07-04,Medicaid
+90,F,175.4,60.2,158,78,114,36.1,132,185,Underweight,None,2023-10-14,2025-08-01,Medicaid
+29,M,176.9,74.6,130,70,104,36.1,188,86,Underweight,Aspirin,2023-11-14,2025-03-15,Medicaid
+80,F,164.7,78.3,107,86,57,36.8,224,119,Obesity,Aspirin,2025-09-04,2025-06-16,Private
+31,F,150.6,61.6,135,62,88,36.2,266,199,Cardiovascular Disease,Atorvastatin,2024-08-30,2025-09-15,Medicaid
+100,F,156.1,67.8,149,71,115,36.2,171,101,Hypertension,Lisinopril,2024-11-10,2025-08-13,Medicare
+90,Other,171.6,87.3,134,91,108,37.1,148,89,Hypertension,Multiple,2024-10-25,2025-05-31,Private
+45,M,183.8,79.7,147,70,64,36.8,132,198,Hypertension,Metformin,2023-11-19,2025-04-27,Uninsured
+45,M,164.6,77.8,180,116,59,37.3,238,110,Obesity,Aspirin,2024-12-18,2025-05-22,Uninsured
+32,M,166.8,96.6,93,97,113,35.7,157,195,Hypertension,None,2024-03-01,2024-11-15,Uninsured
+45,F,156.4,87.9,157,69,79,36.9,199,105,Hypertension,None,2024-11-05,2024-10-26,Medicaid
+92,M,158.1,86.1,113,118,110,36.6,137,186,High Cholesterol,None,2025-01-24,2025-05-23,Uninsured
+95,F,191.8,62.9,123,109,75,36.2,150,128,Normal,Multiple,2023-11-13,2025-02-17,Uninsured
+38,Other,154.7,67.8,150,99,111,36.8,262,116,Cardiovascular Disease,Aspirin,2025-09-04,2025-01-04,Medicaid
+75,F,177.0,64.7,154,70,102,36.2,245,175,Diabetes,Aspirin,2024-05-13,2025-05-15,Medicaid
+70,F,171.4,50.8,167,113,106,36.8,171,152,High Cholesterol,Aspirin,2023-10-31,2024-11-26,Uninsured
+46,Other,187.5,55.8,108,86,89,36.0,236,77,Underweight,None,2024-11-29,2025-06-24,Private
+95,M,175.6,97.9,163,96,96,36.8,136,169,Diabetes,Atorvastatin,2024-10-30,2025-06-01,Uninsured
+38,Other,150.8,90.3,177,66,53,36.6,292,120,Obesity,None,2024-02-18,2025-07-24,Uninsured
+45,M,171.2,62.4,143,110,72,36.3,298,192,Cardiovascular Disease,Lisinopril,2025-03-22,2024-12-18,Medicaid
+87,M,163.5,68.4,136,68,115,36.7,189,182,Hypertension,Atorvastatin,2025-05-12,2025-08-12,Medicaid
+85,Other,162.0,65.7,135,70,118,36.0,213,109,High Cholesterol,None,2024-01-25,2025-03-18,Medicare
+88,M,180.3,70.8,164,101,116,35.8,261,91,Obesity,Aspirin,2024-07-18,2024-11-11,Medicaid
+31,Other,171.0,72.1,178,93,120,36.9,228,199,Hypertension,None,2024-11-16,2025-07-25,Medicaid
+83,Other,168.6,82.6,179,104,55,35.6,141,89,Normal,Aspirin,2024-09-22,2025-01-22,Medicare
+87,M,177.0,56.9,92,89,91,36.6,284,96,Obesity,Multiple,2024-06-30,2025-08-17,Medicare
+38,F,178.2,56.1,100,76,61,36.6,165,119,Diabetes,Lisinopril,2025-03-30,2025-01-23,Uninsured
+99,F,170.9,62.8,152,89,118,36.8,201,98,Underweight,Multiple,2024-01-03,2025-03-09,Private
+98,Other,192.6,59.3,133,72,77,36.5,123,134,High Cholesterol,Metformin,2024-10-27,2024-12-06,Private
+27,M,172.1,87.5,167,67,110,37.0,215,74,Underweight,None,2024-01-10,2024-09-30,Medicaid
+53,Other,155.4,62.1,159,65,112,36.9,255,154,Cardiovascular Disease,None,2024-08-29,2024-12-20,Medicare
+78,M,169.0,58.8,91,104,107,37.6,150,100,Cardiovascular Disease,Aspirin,2025-08-26,2025-01-20,Private
+88,Other,196.9,86.7,140,100,100,36.1,203,148,Normal,Metformin,2025-01-06,2025-03-30,Private
+21,F,159.5,87.0,145,84,86,36.8,160,83,Hypertension,None,2024-10-12,2025-01-04,Medicaid
+62,F,201.3,88.9,175,118,79,36.5,156,70,Normal,Atorvastatin,2023-10-18,2024-12-21,Uninsured
+88,Other,159.4,73.7,116,79,74,36.3,208,100,Cardiovascular Disease,Metformin,2025-04-28,2025-08-21,Private
+52,Other,185.5,99.0,152,71,78,36.2,275,73,Underweight,None,2024-07-05,2025-04-05,Medicare
+50,Other,177.3,64.8,164,116,76,35.8,181,119,Cardiovascular Disease,Aspirin,2025-03-16,2024-10-06,Medicaid
+58,M,164.2,63.5,101,86,63,36.5,155,128,Diabetes,Atorvastatin,2024-07-07,2024-11-26,Uninsured
+18,F,168.8,31.1,173,107,73,36.8,128,125,Underweight,Metformin,2024-11-27,2025-09-13,Private
+39,F,169.4,74.9,166,85,50,36.4,250,110,Underweight,Metformin,2024-10-12,2024-12-11,Private
+40,F,145.4,80.8,107,93,81,35.5,161,184,Normal,None,2023-09-21,2024-11-25,Medicare
+95,M,177.9,49.6,99,97,61,37.2,276,121,Normal,Lisinopril,2025-03-15,2025-06-13,Private
+54,F,193.9,63.8,137,102,71,36.7,150,90,Obesity,Metformin,2025-04-19,2025-03-06,Medicare
+31,Other,179.8,85.9,160,107,117,37.4,300,146,Cardiovascular Disease,Insulin,2025-09-08,2024-11-21,Medicaid
+93,Other,172.2,86.2,136,113,118,37.2,225,123,Diabetes,Aspirin,2025-03-20,2025-04-09,Medicaid
+86,Other,152.2,82.4,148,60,115,36.6,216,103,Hypertension,Atorvastatin,2024-11-25,2024-09-27,Medicaid
+93,M,170.7,42.7,165,88,109,36.9,203,117,Underweight,Atorvastatin,2024-04-28,2025-08-11,Uninsured
+89,M,173.9,76.3,112,77,59,36.0,210,134,Cardiovascular Disease,Aspirin,2023-12-03,2025-02-10,Medicare
+49,F,162.5,55.8,114,105,106,36.7,159,122,Obesity,Atorvastatin,2025-09-14,2024-10-17,Medicaid
+19,F,152.7,71.5,135,104,87,36.9,228,122,Hypertension,Aspirin,2024-02-16,2024-12-24,Private
+46,Other,167.2,70.6,177,96,99,36.9,183,132,Normal,Metformin,2024-03-30,2025-02-11,Uninsured
+79,M,166.2,78.3,178,88,65,36.1,228,143,Normal,Metformin,2025-03-21,2025-05-19,Medicare
+61,Other,174.7,83.6,108,82,102,36.9,218,185,High Cholesterol,None,2024-03-10,2025-03-04,Medicare
+45,Other,166.0,53.2,130,82,120,36.6,217,79,Normal,Atorvastatin,2024-06-13,2025-03-31,Medicare
+47,M,179.0,97.3,167,70,86,36.6,239,74,Underweight,None,2025-08-02,2024-12-09,Uninsured
+25,M,162.2,80.7,93,96,55,36.0,292,183,Diabetes,Multiple,2024-02-15,2025-01-31,Private
+27,Other,146.8,110.0,107,63,92,36.4,211,145,High Cholesterol,Aspirin,2024-06-06,2024-11-01,Private
+27,Other,181.1,99.7,109,89,76,35.8,191,160,Diabetes,Metformin,2024-04-29,2025-06-22,Uninsured
+98,Other,171.5,49.3,146,90,109,36.5,221,186,Underweight,Insulin,2023-12-13,2025-05-28,Private
+92,F,197.1,96.0,159,117,87,37.1,162,85,Cardiovascular Disease,None,2025-05-23,2025-07-16,Private
+56,F,188.3,67.8,173,104,84,37.0,279,158,Diabetes,Aspirin,2025-03-01,2025-08-01,Medicaid
+28,Other,158.8,89.0,177,106,92,37.4,181,198,Cardiovascular Disease,None,2025-03-17,2024-10-25,Uninsured
+46,F,189.8,68.4,166,108,83,36.3,149,72,Normal,Aspirin,2025-07-20,2025-04-10,Private
+44,Other,151.4,75.5,161,107,111,36.0,290,198,High Cholesterol,Metformin,2024-02-21,2025-03-13,Private
+30,M,191.8,64.5,95,114,101,36.6,204,169,Hypertension,Insulin,2025-04-27,2024-10-29,Private
+49,Other,161.3,70.3,179,92,104,37.5,258,137,Obesity,Metformin,2023-10-01,2024-09-24,Medicaid
+78,M,173.2,64.2,145,64,82,37.6,141,129,Hypertension,Aspirin,2025-01-04,2025-03-21,Medicaid
+54,Other,146.9,88.2,170,80,96,36.8,138,197,High Cholesterol,Multiple,2023-12-24,2025-04-26,Uninsured
+71,M,160.5,85.4,90,67,90,35.8,162,98,Underweight,Insulin,2024-11-22,2025-07-15,Medicare
+54,F,174.4,88.3,127,103,86,37.3,228,79,High Cholesterol,Metformin,2025-08-19,2024-11-02,Medicare
+69,F,148.5,73.6,100,78,66,36.5,220,79,Normal,Insulin,2024-07-26,2024-12-05,Medicare
+88,F,180.0,102.0,150,70,61,36.5,223,85,Underweight,Metformin,2024-04-14,2025-08-28,Medicaid
+20,M,140.5,88.9,113,90,63,36.8,226,182,Diabetes,Lisinopril,2025-05-03,2025-02-24,Medicaid
+92,Other,173.3,77.8,172,117,82,37.0,295,145,Hypertension,Aspirin,2025-04-26,2025-02-01,Uninsured
+21,M,170.6,68.8,148,106,51,37.0,245,145,Normal,Aspirin,2024-11-23,2025-08-18,Uninsured
+65,M,161.4,79.8,124,108,64,37.3,300,174,Obesity,Atorvastatin,2025-01-02,2025-03-27,Private
+99,Other,171.0,73.4,103,96,68,36.5,207,108,Normal,Metformin,2024-11-01,2025-02-13,Uninsured
+78,F,167.6,86.0,109,81,98,36.3,176,115,Underweight,Lisinopril,2025-03-07,2025-06-09,Uninsured
+59,M,161.1,76.2,157,90,93,37.4,217,192,Hypertension,Insulin,2024-12-12,2024-10-26,Medicaid
+90,F,147.7,73.3,108,87,97,36.1,258,150,Normal,Atorvastatin,2024-03-15,2024-09-21,Medicare
+100,F,182.2,84.7,106,74,72,36.6,278,130,Obesity,Multiple,2024-03-15,2025-01-03,Private
+56,Other,140.6,101.0,126,84,107,35.9,288,146,Normal,Lisinopril,2024-06-06,2025-04-24,Medicaid
+36,M,160.6,59.0,162,95,98,35.5,146,105,Normal,Lisinopril,2025-05-10,2025-03-09,Uninsured
+61,M,162.6,59.8,117,98,68,36.2,233,82,Underweight,None,2024-05-25,2024-11-02,Private
+19,M,144.8,84.4,138,118,50,35.7,206,121,Diabetes,Lisinopril,2024-12-10,2024-09-23,Medicaid
+95,Other,153.1,56.1,121,97,69,37.5,216,150,Normal,Insulin,2023-11-09,2025-02-28,Private
+86,F,176.0,61.9,143,83,52,36.4,196,94,Diabetes,Atorvastatin,2025-09-10,2025-09-05,Medicaid
+55,F,204.2,75.9,99,61,110,36.4,259,192,High Cholesterol,Metformin,2024-03-30,2025-03-06,Uninsured
+72,Other,186.9,98.5,144,105,74,36.0,256,182,Diabetes,Metformin,2024-12-05,2025-09-07,Private
+93,Other,146.4,71.2,161,112,79,36.6,150,177,Underweight,Insulin,2025-04-08,2025-03-30,Medicare
+74,F,148.4,67.4,167,77,118,36.8,195,168,Cardiovascular Disease,Lisinopril,2025-06-05,2025-08-17,Private
+90,Other,179.8,74.3,167,68,54,37.0,138,183,Normal,Atorvastatin,2025-09-04,2025-07-21,Medicare
+93,F,188.9,52.5,141,94,51,36.3,185,112,Obesity,Lisinopril,2025-04-11,2025-08-27,Private
+71,F,169.6,63.2,161,95,61,36.3,138,181,Obesity,None,2024-12-28,2025-01-14,Private
+74,M,197.3,61.8,137,81,118,36.0,215,180,Underweight,Metformin,2024-11-25,2025-01-16,Medicare
+44,Other,167.6,79.3,141,120,116,36.2,289,181,Hypertension,Insulin,2024-07-25,2025-08-21,Private
+45,Other,178.6,94.7,97,65,57,36.5,207,169,Hypertension,Atorvastatin,2023-10-20,2024-10-30,Private
+42,M,183.3,55.0,90,118,110,36.1,249,198,High Cholesterol,Multiple,2023-10-17,2025-05-26,Uninsured
+33,F,166.8,74.6,148,92,63,36.8,256,200,High Cholesterol,Insulin,2024-11-16,2025-02-22,Uninsured
+54,F,178.4,110.4,124,112,116,37.2,173,154,Underweight,None,2023-10-16,2025-05-12,Uninsured
+97,F,173.3,67.4,131,98,62,36.6,219,104,Underweight,Lisinopril,2024-07-26,2025-04-16,Uninsured
+86,M,168.7,94.0,96,60,96,36.9,149,200,Obesity,Metformin,2025-07-31,2025-01-07,Medicaid
+58,Other,168.4,67.0,154,65,99,36.8,185,79,Diabetes,Lisinopril,2025-03-18,2025-05-23,Medicaid
+32,M,206.5,103.3,146,93,92,35.9,138,81,Hypertension,Aspirin,2024-07-22,2025-04-23,Medicare
+73,F,159.8,67.1,148,99,118,37.2,158,168,High Cholesterol,Lisinopril,2024-10-31,2025-01-13,Uninsured
+77,F,165.1,58.3,98,89,52,36.4,291,92,Obesity,Lisinopril,2024-05-07,2025-06-09,Medicaid
+67,F,178.1,69.1,149,73,56,36.3,136,76,Normal,Insulin,2025-01-03,2025-04-28,Private
+67,F,187.1,84.7,106,73,94,37.8,251,99,Hypertension,Aspirin,2024-01-20,2025-05-02,Uninsured
+85,M,131.8,63.3,134,116,82,36.5,180,193,High Cholesterol,Atorvastatin,2024-07-30,2024-11-28,Private
+75,F,173.7,51.8,101,77,81,36.3,205,103,Diabetes,Insulin,2025-09-03,2025-03-06,Medicaid
+77,F,188.0,47.7,177,102,119,36.8,224,96,High Cholesterol,Multiple,2025-05-07,2025-07-29,Medicare
+26,Other,183.0,57.2,113,118,79,37.4,132,142,Underweight,Metformin,2025-08-17,2025-06-30,Uninsured
+81,Other,158.0,71.0,107,73,70,36.2,191,190,Normal,Insulin,2024-03-23,2024-10-01,Uninsured
+49,F,166.1,73.7,111,115,113,36.1,227,116,Cardiovascular Disease,Atorvastatin,2024-02-16,2024-10-13,Medicare
+88,Other,169.6,78.3,165,88,100,35.8,295,187,Normal,Insulin,2024-04-23,2024-11-15,Uninsured
+49,Other,130.5,88.3,131,93,102,36.7,163,173,Obesity,Aspirin,2024-12-06,2025-06-16,Private
+91,F,184.2,81.7,165,67,102,37.0,184,133,Diabetes,Aspirin,2024-08-16,2025-05-29,Uninsured
+49,F,172.5,50.8,118,99,102,36.2,267,75,Underweight,Lisinopril,2025-05-02,2025-06-05,Private
+23,Other,148.2,56.4,102,93,93,35.5,159,197,Hypertension,Aspirin,2024-05-16,2025-08-31,Uninsured
+74,M,177.5,65.9,120,102,53,36.9,193,154,High Cholesterol,Atorvastatin,2023-12-11,2025-05-07,Uninsured
+97,Other,180.2,57.1,159,108,88,37.0,274,142,Obesity,Aspirin,2023-12-30,2025-06-23,Medicare
+60,M,151.4,72.3,110,112,91,35.7,126,181,High Cholesterol,Insulin,2023-11-27,2024-11-03,Medicaid
+82,Other,178.5,87.7,92,115,116,36.7,226,192,Diabetes,Multiple,2023-09-20,2025-06-15,Private
+57,F,152.9,89.1,95,61,64,36.3,277,199,Normal,None,2023-12-15,2024-10-03,Private
+92,F,164.9,66.6,103,97,56,36.3,142,157,Hypertension,Atorvastatin,2024-10-05,2024-09-17,Private
+82,Other,183.1,92.6,99,103,104,36.8,201,173,Obesity,Multiple,2024-02-16,2025-03-07,Medicaid
+36,Other,187.3,58.6,154,86,69,36.7,276,125,Hypertension,Aspirin,2025-01-13,2025-06-30,Private
+50,F,171.9,52.7,176,64,120,36.9,282,157,Underweight,Metformin,2025-07-23,2025-06-25,Medicaid
+72,M,162.0,77.8,94,112,98,37.2,205,120,Underweight,Insulin,2023-10-18,2025-09-11,Medicaid
+18,M,135.6,67.6,171,112,62,37.0,199,198,Diabetes,Atorvastatin,2025-06-10,2025-03-30,Uninsured
+71,F,178.9,90.6,171,77,100,35.5,178,92,Normal,Atorvastatin,2023-10-03,2025-07-09,Medicare
+68,Other,195.4,59.2,105,120,104,36.9,129,133,Underweight,Multiple,2024-02-14,2024-12-16,Private
+49,F,173.3,74.4,102,84,91,37.2,215,147,High Cholesterol,Lisinopril,2023-11-28,2025-01-25,Medicare
+18,Other,186.2,88.7,122,115,99,36.3,272,140,Underweight,Atorvastatin,2024-04-11,2025-01-17,Uninsured
+81,Other,186.0,48.4,176,107,68,36.2,271,77,High Cholesterol,Metformin,2023-12-06,2025-08-11,Medicare
+24,M,177.0,84.8,142,105,60,36.4,131,139,Hypertension,Insulin,2025-01-13,2025-02-07,Medicaid
+50,F,157.3,60.8,161,96,94,36.4,238,179,High Cholesterol,Aspirin,2023-09-27,2024-12-05,Private
+84,F,182.2,64.3,170,101,115,36.4,216,122,Hypertension,None,2025-09-11,2025-06-15,Medicare
+64,M,142.4,59.1,168,83,56,37.3,277,92,Underweight,Aspirin,2025-08-10,2025-03-13,Private
+44,Other,156.1,67.2,164,105,61,36.6,120,83,High Cholesterol,Metformin,2024-11-03,2025-05-05,Medicare
+42,F,162.3,88.6,91,98,103,36.1,191,84,Diabetes,Insulin,2025-02-10,2024-10-15,Uninsured
+72,F,176.9,96.6,115,105,100,37.4,295,193,Underweight,Atorvastatin,2025-06-07,2025-07-27,Medicaid
+44,M,187.5,72.0,152,108,112,36.4,286,190,Diabetes,Aspirin,2025-09-15,2025-05-02,Medicaid
+36,F,160.2,82.4,104,96,79,37.0,134,181,High Cholesterol,Metformin,2023-10-27,2024-12-08,Medicare
+31,Other,178.7,73.8,180,104,113,36.4,259,151,Obesity,None,2024-02-05,2025-05-29,Medicare
+34,M,149.2,69.7,172,77,86,35.6,221,101,Normal,Lisinopril,2025-04-30,2025-05-22,Medicare
+19,Other,133.9,82.2,148,71,89,35.8,157,116,Normal,Aspirin,2024-01-01,2025-04-02,Medicare
+98,M,184.1,49.3,177,71,109,36.8,294,87,High Cholesterol,Metformin,2023-10-11,2025-03-29,Medicaid
+23,M,168.3,66.1,136,93,107,37.1,125,89,Hypertension,None,2025-04-06,2025-06-20,Uninsured
+79,M,161.6,73.2,120,72,99,36.2,249,157,Cardiovascular Disease,Aspirin,2023-10-14,2025-09-01,Medicaid
+55,F,179.1,61.8,134,87,59,36.8,237,148,Normal,Atorvastatin,2025-06-29,2025-08-20,Medicaid
+58,F,177.5,101.4,117,89,105,37.5,278,105,Hypertension,Insulin,2024-06-09,2025-04-24,Medicare
+35,Other,190.7,53.1,114,89,101,36.6,233,163,Normal,None,2024-08-18,2024-10-14,Uninsured
+90,M,164.1,70.0,146,115,86,36.5,263,86,Hypertension,Aspirin,2024-09-09,2025-07-01,Medicare
+95,Other,168.8,63.4,157,70,114,35.3,137,146,Normal,Insulin,2023-10-22,2025-06-18,Private
+36,F,184.3,82.6,157,117,83,36.6,161,189,Underweight,Insulin,2025-07-02,2025-06-25,Uninsured
+55,Other,188.2,75.6,177,116,112,35.8,286,163,Underweight,None,2023-11-29,2024-12-20,Uninsured
+37,Other,143.7,77.6,131,114,103,37.8,292,132,High Cholesterol,Insulin,2024-06-24,2025-02-06,Private
+74,M,156.7,56.1,165,114,89,36.4,162,129,Diabetes,None,2025-02-28,2024-11-30,Uninsured
+77,M,160.9,63.5,103,102,73,37.6,139,192,Underweight,None,2025-09-13,2024-11-09,Private
+50,M,150.9,68.2,109,67,51,36.7,242,79,Normal,Metformin,2025-08-23,2024-10-30,Medicare
+31,M,192.9,56.0,109,84,102,36.4,219,149,Cardiovascular Disease,None,2024-11-19,2025-03-10,Uninsured
+49,F,142.4,71.0,124,62,108,36.1,273,105,Diabetes,Lisinopril,2024-09-08,2025-05-31,Medicare
+86,Other,173.9,71.1,141,68,101,36.8,263,196,Diabetes,Lisinopril,2023-10-07,2025-06-02,Private
+28,Other,174.4,71.4,168,116,99,36.3,223,126,Hypertension,Atorvastatin,2023-10-09,2025-07-06,Medicaid
+25,F,170.2,98.4,94,90,112,36.8,273,110,Hypertension,Atorvastatin,2023-12-31,2024-10-14,Uninsured
+46,F,148.9,74.8,132,120,106,36.2,145,119,Underweight,Metformin,2025-05-02,2025-06-12,Medicare
+28,F,178.7,94.0,167,76,106,36.8,144,79,Diabetes,Insulin,2024-09-04,2025-02-25,Uninsured
+19,F,153.5,58.9,167,87,65,36.3,183,114,Underweight,Lisinopril,2024-06-05,2025-05-31,Medicare
+79,M,174.9,85.8,168,70,76,36.6,212,104,Cardiovascular Disease,Insulin,2024-12-04,2025-07-17,Private
+93,F,172.5,72.3,134,99,101,36.5,272,187,Underweight,Metformin,2025-06-06,2025-06-22,Uninsured
+72,F,192.4,73.0,120,62,86,35.2,167,166,Underweight,None,2024-11-25,2025-01-26,Medicaid
+61,Other,177.4,69.2,110,75,83,36.9,202,164,Cardiovascular Disease,Metformin,2025-08-01,2025-08-16,Private
+33,M,182.5,83.9,127,73,73,36.3,273,181,Normal,None,2025-06-10,2024-12-30,Uninsured
+85,M,186.1,66.8,102,87,74,36.3,293,114,Normal,Lisinopril,2023-11-16,2025-02-10,Private
+23,M,165.6,55.6,153,107,52,36.2,167,76,Diabetes,Atorvastatin,2024-04-04,2025-09-16,Private
+50,F,189.3,85.5,150,110,57,37.9,229,159,High Cholesterol,Multiple,2025-04-07,2025-06-17,Uninsured
+94,F,166.1,55.6,106,100,108,36.9,181,198,High Cholesterol,Insulin,2024-03-09,2025-08-08,Private
+78,Other,194.7,101.2,124,61,69,36.4,258,100,Cardiovascular Disease,Lisinopril,2023-09-17,2024-09-16,Medicare
+97,M,168.7,51.7,167,90,92,37.0,225,90,Hypertension,Multiple,2023-12-22,2024-11-13,Medicaid
+86,F,168.2,76.5,173,69,95,37.6,204,137,High Cholesterol,Aspirin,2024-05-13,2025-07-30,Private
+60,F,190.0,79.2,137,67,98,36.4,239,199,Hypertension,Aspirin,2024-04-18,2025-04-20,Private
+57,Other,153.9,52.3,104,66,55,36.0,238,158,Obesity,Lisinopril,2023-10-20,2025-02-19,Uninsured
+61,F,188.5,62.4,165,94,112,36.2,178,167,Diabetes,Metformin,2025-01-15,2025-02-14,Private
+65,Other,193.4,75.4,108,120,88,36.6,236,166,Normal,None,2024-10-25,2024-12-01,Uninsured
+97,Other,185.7,75.2,133,105,64,35.8,233,106,Obesity,Aspirin,2024-03-13,2025-03-11,Medicaid
+75,F,167.7,72.8,115,108,98,36.1,297,75,Diabetes,Multiple,2025-09-11,2025-06-03,Medicaid
+62,M,192.8,59.5,108,76,64,36.8,129,187,Cardiovascular Disease,Atorvastatin,2023-11-20,2024-12-25,Medicare
+38,Other,165.9,99.0,128,115,89,36.9,129,188,High Cholesterol,Atorvastatin,2024-02-01,2024-09-23,Medicare
+86,F,179.9,67.5,135,60,114,36.6,242,83,Underweight,Aspirin,2024-09-08,2025-02-25,Uninsured
+97,Other,171.0,73.1,115,81,57,36.7,285,165,Cardiovascular Disease,Lisinopril,2025-07-03,2025-05-18,Medicare
+35,F,167.3,75.3,162,79,106,36.2,176,174,High Cholesterol,Aspirin,2024-10-26,2025-05-30,Medicaid
+69,F,146.6,74.3,101,120,67,35.7,236,128,Normal,Lisinopril,2024-02-16,2024-10-30,Medicare
+36,Other,176.8,65.1,152,82,79,36.3,147,115,Underweight,Multiple,2025-03-23,2025-07-08,Medicare
+96,M,148.3,71.0,123,111,83,36.7,286,198,Cardiovascular Disease,Lisinopril,2023-10-10,2025-02-21,Uninsured
+95,M,169.2,66.4,119,108,65,36.2,268,112,Obesity,Insulin,2024-08-03,2025-04-06,Medicare
+29,F,174.1,66.7,138,102,112,37.1,206,156,Obesity,Lisinopril,2025-01-21,2025-04-08,Medicare
+98,M,183.9,68.0,178,76,79,36.4,266,147,High Cholesterol,Insulin,2024-04-04,2025-01-30,Uninsured
+80,Other,147.0,69.3,122,61,62,37.1,261,132,High Cholesterol,Metformin,2024-04-15,2025-06-10,Private
+51,F,173.5,70.0,143,112,57,37.5,162,103,Obesity,Atorvastatin,2024-10-24,2025-02-26,Medicare
+82,F,146.6,49.3,137,100,100,36.4,264,197,Obesity,Multiple,2024-01-04,2025-08-23,Medicare
+78,Other,164.4,73.1,123,108,91,37.0,255,82,Obesity,Metformin,2025-07-16,2025-09-13,Uninsured
+61,M,186.3,54.6,150,86,70,36.0,132,150,Cardiovascular Disease,None,2024-05-19,2025-01-07,Private
+90,Other,148.6,41.7,180,86,107,36.2,275,184,Cardiovascular Disease,Insulin,2025-04-24,2025-06-09,Medicare
+36,Other,141.8,60.2,130,93,89,36.5,298,152,Obesity,Aspirin,2024-11-04,2025-03-20,Uninsured
+95,Other,196.7,99.9,178,86,64,35.9,204,87,Normal,Insulin,2024-11-11,2025-03-06,Medicaid
+40,Other,153.3,78.0,171,86,114,37.0,140,103,Underweight,Lisinopril,2024-09-16,2025-04-22,Private
+95,F,148.2,108.5,104,65,50,35.9,288,143,Obesity,Metformin,2024-08-07,2024-11-09,Private
+64,M,154.4,55.8,143,63,86,36.0,274,108,High Cholesterol,Insulin,2023-11-14,2025-05-20,Uninsured
+74,Other,180.2,87.7,141,90,67,36.4,155,165,Obesity,Multiple,2025-04-14,2025-04-24,Medicare
+70,F,184.8,88.7,133,68,115,36.0,124,128,Diabetes,None,2025-05-28,2024-11-26,Private
+68,M,191.9,62.6,157,105,69,36.1,121,152,Obesity,None,2024-06-05,2025-04-19,Medicare
+73,M,176.3,50.2,172,103,61,37.6,144,175,Hypertension,Lisinopril,2024-10-18,2024-11-24,Uninsured
+60,M,183.0,66.0,168,103,64,36.3,299,95,Normal,Aspirin,2024-11-21,2024-11-21,Uninsured
+37,M,153.9,56.2,168,69,51,37.3,221,145,Normal,None,2023-12-11,2024-10-30,Private
+20,M,151.8,57.4,131,77,112,36.5,268,108,Diabetes,Insulin,2024-08-25,2025-02-08,Medicare
+48,M,169.1,70.6,120,108,91,36.4,288,76,Underweight,Aspirin,2024-06-11,2025-05-30,Private
+58,Other,174.9,61.9,167,74,80,36.2,226,93,Hypertension,Aspirin,2024-07-13,2025-06-08,Private
+80,M,141.2,82.6,139,109,105,36.4,134,128,Hypertension,Insulin,2024-12-25,2025-07-16,Uninsured
+67,F,158.6,58.8,170,98,56,36.7,264,132,Obesity,Insulin,2025-05-27,2025-02-08,Medicaid
+23,F,157.4,54.4,139,87,75,36.9,245,78,Hypertension,Atorvastatin,2025-08-02,2025-06-18,Private
+41,Other,158.5,61.3,131,76,64,35.8,191,100,Hypertension,Multiple,2025-01-26,2025-01-01,Private
+57,M,159.8,95.8,179,108,52,36.6,274,73,Diabetes,Aspirin,2024-06-02,2025-04-18,Medicare
+23,Other,175.1,53.7,148,118,77,36.9,202,87,Obesity,Insulin,2025-06-23,2025-09-02,Uninsured
+48,F,196.9,49.5,119,73,105,36.4,247,156,Obesity,Atorvastatin,2024-06-07,2025-05-18,Uninsured
+50,M,167.1,71.5,106,95,91,36.5,278,151,Normal,Insulin,2025-01-03,2025-04-02,Medicaid
+35,F,198.3,64.4,127,79,117,36.6,246,148,Underweight,Lisinopril,2025-06-02,2025-06-05,Uninsured
+40,F,187.0,82.8,114,103,90,37.0,267,130,Cardiovascular Disease,Insulin,2023-11-05,2025-05-12,Medicaid
+88,F,177.9,91.4,154,119,115,36.2,200,70,Hypertension,Metformin,2024-02-06,2024-10-07,Medicare
+81,Other,135.4,91.4,144,66,98,36.2,281,126,Underweight,None,2024-09-01,2025-02-21,Medicare
+83,Other,181.1,81.9,164,117,75,36.4,172,126,Cardiovascular Disease,Multiple,2023-11-19,2025-03-26,Medicare
+65,Other,164.5,80.5,140,77,52,36.4,152,167,High Cholesterol,None,2024-01-05,2025-03-22,Medicare
+94,Other,154.0,28.2,123,62,72,36.1,197,123,Obesity,Atorvastatin,2025-07-22,2025-07-18,Private
+65,M,158.1,87.5,94,83,104,36.7,145,124,Diabetes,None,2024-08-06,2025-09-04,Medicaid
+45,M,162.2,51.6,139,116,61,36.7,295,97,Normal,Insulin,2024-12-13,2024-11-26,Private
+43,F,152.5,71.7,132,65,109,37.3,260,175,High Cholesterol,Lisinopril,2025-06-22,2024-12-20,Uninsured
+89,Other,175.7,52.4,94,78,86,36.8,263,140,Obesity,None,2025-05-20,2025-04-22,Medicaid
+49,F,181.7,76.0,97,92,97,36.6,295,123,Hypertension,None,2025-08-30,2025-08-17,Private
+30,F,185.3,60.4,119,71,105,36.1,142,145,Underweight,Insulin,2024-12-25,2025-05-27,Private
+52,Other,191.3,79.4,97,106,61,36.1,201,152,Cardiovascular Disease,Metformin,2023-12-30,2025-09-02,Uninsured
+25,M,168.2,79.2,117,98,103,36.6,122,153,Hypertension,Lisinopril,2024-03-03,2024-10-03,Medicaid
+71,F,171.0,77.5,148,98,83,36.0,268,196,Normal,Aspirin,2025-03-03,2025-01-28,Medicare
+49,M,163.1,95.3,135,99,67,36.5,121,104,Cardiovascular Disease,Multiple,2023-10-13,2025-04-02,Medicaid
+27,F,162.0,69.5,94,69,107,36.8,187,88,Obesity,None,2025-03-17,2025-01-02,Medicaid
+22,F,161.7,77.6,141,84,104,36.3,206,192,Diabetes,Insulin,2024-04-28,2025-06-26,Medicare
+27,M,184.9,71.9,156,67,60,36.4,123,143,Underweight,Metformin,2024-03-03,2025-03-08,Uninsured
+91,F,187.3,76.1,155,104,100,36.1,247,131,Normal,Multiple,2025-07-29,2025-05-08,Medicaid
+55,F,183.5,76.9,122,73,92,37.1,175,105,High Cholesterol,Metformin,2024-12-13,2025-03-15,Uninsured
+89,Other,179.5,81.7,93,71,83,37.7,217,190,High Cholesterol,Atorvastatin,2025-03-09,2025-08-27,Uninsured
+53,M,165.1,83.9,175,89,56,36.4,168,174,Diabetes,Atorvastatin,2025-03-12,2025-06-28,Medicare
+20,Other,168.7,70.9,102,115,53,37.0,253,185,High Cholesterol,None,2025-09-14,2024-10-26,Medicare
+52,F,170.7,52.1,153,111,104,37.0,176,163,Cardiovascular Disease,Atorvastatin,2025-08-28,2024-11-18,Uninsured
+36,F,176.9,84.8,175,74,50,37.1,236,183,Underweight,Metformin,2024-10-28,2024-12-30,Medicare
+99,F,159.7,98.7,155,90,79,37.0,168,143,Normal,Multiple,2024-09-17,2025-03-12,Medicare
+30,F,159.7,84.7,97,76,62,36.5,165,74,Hypertension,Atorvastatin,2025-07-17,2024-10-14,Private
+96,F,156.2,60.4,123,79,87,36.1,172,95,High Cholesterol,Aspirin,2024-06-26,2025-09-07,Uninsured
+80,Other,162.6,83.6,99,120,76,36.5,290,120,Diabetes,Insulin,2024-04-07,2025-03-11,Medicaid
+30,Other,189.1,58.5,170,64,113,36.8,231,178,Cardiovascular Disease,Metformin,2024-06-19,2025-06-19,Medicare
+18,Other,171.8,64.7,125,89,80,35.8,247,76,High Cholesterol,Lisinopril,2024-04-30,2025-03-19,Medicare
+63,F,169.5,67.2,177,114,93,37.0,196,125,Cardiovascular Disease,Aspirin,2024-07-22,2025-05-06,Uninsured
+41,Other,177.5,70.7,123,113,95,35.9,286,75,Hypertension,Atorvastatin,2024-09-11,2024-10-18,Medicare
+83,Other,132.2,68.4,94,89,85,36.1,280,74,Cardiovascular Disease,None,2025-01-11,2025-01-05,Medicare
+32,Other,150.2,86.2,138,63,62,35.4,137,176,Obesity,Insulin,2024-10-26,2025-01-08,Private
+25,F,196.6,84.5,103,105,53,35.9,159,126,Underweight,Atorvastatin,2025-01-18,2024-10-23,Medicaid
+79,M,179.2,40.0,107,117,59,36.2,180,147,Normal,Atorvastatin,2024-06-12,2025-07-03,Private
+62,F,166.6,66.1,130,101,110,36.7,266,156,High Cholesterol,Multiple,2025-06-06,2025-06-24,Uninsured
+38,F,160.4,67.3,164,92,117,36.8,171,188,Diabetes,Aspirin,2025-04-23,2025-06-06,Medicare
+35,Other,168.2,95.1,174,84,68,36.7,179,115,Diabetes,None,2025-04-30,2024-12-20,Private
+30,M,161.3,77.6,101,98,50,36.3,270,118,Underweight,None,2023-10-07,2025-08-26,Medicare
+25,M,148.1,54.9,96,69,108,36.5,222,144,Cardiovascular Disease,Multiple,2023-09-30,2025-09-13,Medicaid
+91,Other,148.1,59.6,166,86,88,36.6,152,112,Cardiovascular Disease,Multiple,2024-06-21,2025-05-28,Medicare
+28,M,160.3,87.7,124,67,78,36.5,180,186,High Cholesterol,Multiple,2024-02-12,2024-11-30,Medicare
+73,M,172.7,79.6,162,76,61,36.3,274,138,Hypertension,Atorvastatin,2025-09-05,2025-02-25,Medicare
+60,Other,151.4,63.5,101,62,58,36.0,173,87,High Cholesterol,Insulin,2025-07-21,2024-11-26,Medicare
+52,Other,173.6,77.0,157,104,99,36.2,274,91,Cardiovascular Disease,Metformin,2025-07-12,2025-01-29,Private
+47,Other,135.0,73.7,126,102,56,36.2,151,155,Diabetes,Metformin,2024-02-20,2025-02-12,Medicare
+66,M,175.9,64.2,124,64,50,36.2,222,131,Normal,Insulin,2024-11-02,2025-01-26,Medicaid
+78,F,137.5,64.2,159,94,57,35.7,259,122,Diabetes,Multiple,2024-02-02,2024-12-25,Medicare
+57,M,164.2,27.7,106,118,109,36.7,272,72,Hypertension,Metformin,2025-09-09,2025-07-15,Private
+39,Other,167.6,54.3,179,101,107,36.6,141,151,High Cholesterol,Multiple,2024-05-30,2025-05-13,Medicare
+77,F,196.0,79.3,91,79,61,35.7,214,98,Normal,None,2024-12-12,2025-04-15,Uninsured
+22,M,191.5,63.9,107,105,62,37.1,253,86,Cardiovascular Disease,Insulin,2024-09-09,2024-11-17,Uninsured
+71,Other,169.5,85.9,179,118,66,36.3,219,76,High Cholesterol,Insulin,2025-04-20,2025-02-22,Medicaid
+84,Other,180.2,67.5,120,101,82,36.3,178,132,Hypertension,Atorvastatin,2024-10-31,2025-01-22,Uninsured
+87,M,164.7,78.6,144,98,71,36.6,184,118,High Cholesterol,Aspirin,2024-08-14,2025-03-12,Uninsured
+43,Other,170.4,56.0,97,113,73,36.7,158,196,Cardiovascular Disease,Insulin,2024-07-01,2024-12-15,Medicaid
+49,M,190.0,58.1,154,67,93,37.2,181,120,Hypertension,Metformin,2025-06-17,2025-07-08,Medicare
+85,F,176.8,67.7,105,70,50,36.7,155,168,Cardiovascular Disease,Metformin,2025-04-18,2025-03-19,Medicaid
+96,Other,182.5,100.8,94,65,67,36.5,227,89,Underweight,Multiple,2023-10-21,2025-02-25,Private
+23,F,140.6,79.3,179,69,80,36.8,230,130,Obesity,Insulin,2024-01-16,2024-11-29,Medicare
+75,M,172.6,72.3,156,74,66,36.6,300,173,Underweight,Insulin,2025-07-15,2024-12-09,Uninsured
+28,M,163.4,89.9,101,91,86,35.1,255,169,Normal,Atorvastatin,2024-11-02,2025-02-12,Private
+72,Other,162.8,72.8,170,91,59,37.2,212,130,Underweight,Metformin,2024-05-10,2025-06-22,Medicare
+72,F,199.5,66.2,105,74,88,36.2,223,144,Diabetes,Multiple,2025-06-03,2025-07-05,Medicare
+97,M,179.5,61.0,177,116,93,36.4,253,165,Underweight,Lisinopril,2024-07-05,2025-09-16,Medicaid
+73,F,171.8,53.6,117,109,56,36.7,262,115,Obesity,Lisinopril,2024-04-06,2024-12-25,Private
+76,Other,165.2,89.4,135,109,117,35.9,149,193,Normal,Atorvastatin,2024-08-30,2025-03-10,Uninsured
+90,M,164.6,65.7,94,67,66,36.4,131,127,Cardiovascular Disease,Aspirin,2025-05-27,2025-03-21,Medicaid
+20,F,185.5,45.9,130,112,96,36.6,283,125,Hypertension,Aspirin,2024-09-28,2025-08-01,Private
+74,Other,176.7,45.3,114,67,105,36.7,287,113,Hypertension,Insulin,2024-01-07,2025-08-29,Uninsured
+80,Other,183.1,85.7,123,77,113,36.3,204,141,Obesity,Metformin,2024-10-30,2025-05-15,Medicaid
+85,F,172.3,85.6,103,87,55,36.3,230,133,Normal,Multiple,2024-11-25,2024-12-04,Private
+66,Other,190.1,82.4,145,111,63,36.6,247,194,High Cholesterol,Multiple,2024-09-04,2024-12-25,Uninsured
+46,M,179.6,81.4,117,92,76,36.9,226,106,Hypertension,None,2023-10-12,2025-01-20,Uninsured
+51,F,173.8,78.5,159,96,68,35.6,182,107,Obesity,Lisinopril,2024-06-09,2025-04-09,Medicaid
+25,F,173.4,101.7,138,75,65,36.4,138,142,Underweight,Aspirin,2025-01-29,2025-01-15,Medicaid
+86,Other,185.6,69.1,161,85,89,37.0,192,130,Hypertension,Insulin,2025-06-18,2025-03-04,Uninsured
+20,M,140.6,53.6,129,117,58,36.0,235,115,Hypertension,Lisinopril,2025-01-23,2024-09-17,Uninsured
+77,M,188.8,50.6,111,95,107,36.7,297,193,High Cholesterol,Aspirin,2025-04-26,2024-10-14,Medicare
+62,F,153.5,82.6,123,98,92,36.7,254,126,Obesity,None,2024-10-26,2025-09-01,Medicaid
+19,Other,173.1,85.9,100,118,75,36.2,120,163,Underweight,None,2024-04-22,2025-04-04,Medicare
+98,Other,152.5,46.5,134,113,113,37.7,289,78,Obesity,Metformin,2025-01-02,2024-12-31,Uninsured
+87,Other,180.0,47.3,161,114,100,36.8,212,146,High Cholesterol,Atorvastatin,2024-09-23,2025-06-17,Medicare
+34,F,166.3,57.7,156,83,82,36.9,137,181,Cardiovascular Disease,Atorvastatin,2024-05-16,2025-08-20,Medicaid
+75,F,154.3,44.8,122,95,116,36.7,279,110,Normal,Multiple,2023-12-19,2025-04-28,Uninsured
+75,M,180.1,82.9,142,78,80,36.3,295,144,Obesity,Multiple,2025-01-16,2024-11-17,Medicare
+51,Other,157.0,57.7,163,99,63,36.2,210,181,Diabetes,None,2024-12-03,2025-05-15,Private
+34,F,183.1,65.1,172,86,90,36.8,206,116,Diabetes,Metformin,2024-03-17,2025-03-07,Medicare
+94,F,170.8,101.1,171,94,99,36.3,173,107,High Cholesterol,None,2023-11-14,2025-08-15,Medicaid
+60,F,185.1,89.5,91,100,111,36.9,255,76,Hypertension,Multiple,2024-04-13,2025-01-28,Medicare
+48,F,168.4,57.8,116,85,89,36.4,150,157,Cardiovascular Disease,Metformin,2025-01-23,2025-01-01,Private
+53,Other,182.5,90.1,154,68,93,37.0,212,148,Obesity,Atorvastatin,2025-09-14,2025-05-01,Medicare
+24,F,156.8,64.5,171,103,67,37.1,157,199,Obesity,None,2025-05-06,2024-11-18,Medicare
+57,F,162.8,81.4,107,66,52,36.5,243,178,High Cholesterol,Metformin,2023-10-01,2025-04-22,Medicare
+66,Other,144.1,72.7,147,66,68,36.0,135,138,Underweight,Lisinopril,2024-06-09,2025-07-15,Medicaid
+86,F,183.5,63.4,155,74,69,37.2,161,132,High Cholesterol,Atorvastatin,2025-06-25,2025-05-23,Medicaid
+26,M,161.9,74.8,138,105,66,36.2,272,72,Hypertension,None,2024-02-07,2025-01-15,Medicare
+98,F,147.2,66.0,120,108,76,37.3,174,184,Underweight,Lisinopril,2024-06-17,2025-02-05,Medicaid
+40,M,155.9,66.3,111,84,80,36.8,269,190,Hypertension,None,2023-12-01,2025-06-17,Medicare
+23,Other,169.8,80.0,151,108,103,36.4,182,100,Normal,Lisinopril,2025-04-13,2024-12-31,Private
+72,M,185.6,86.9,169,71,61,37.5,250,190,High Cholesterol,Metformin,2023-11-28,2025-07-19,Uninsured
+42,Other,195.8,65.1,168,64,72,36.7,195,182,Cardiovascular Disease,Atorvastatin,2024-03-29,2024-12-03,Private
+75,M,146.6,73.7,105,112,102,36.0,148,192,Normal,None,2023-10-14,2025-03-11,Private
+25,M,169.8,63.7,113,63,66,35.9,218,93,Normal,Metformin,2024-12-01,2024-11-16,Private
+46,M,155.9,66.9,105,115,115,36.1,144,84,Underweight,Insulin,2024-05-19,2025-02-04,Medicaid
+78,M,156.0,54.3,96,80,58,36.4,162,152,Cardiovascular Disease,Lisinopril,2024-07-19,2025-08-12,Uninsured
+43,F,165.4,101.9,122,75,120,36.7,228,182,Hypertension,Metformin,2024-07-27,2025-04-12,Private
+45,M,157.9,65.5,122,108,114,36.5,296,91,Normal,Multiple,2024-02-29,2025-05-14,Medicare
+38,Other,159.1,61.9,175,98,91,36.1,290,84,Underweight,None,2024-05-27,2025-03-06,Uninsured
+52,M,171.8,88.0,159,91,83,36.1,221,82,Underweight,Insulin,2025-08-06,2024-10-13,Medicaid
+45,Other,189.9,78.9,145,107,71,36.4,127,124,Obesity,Multiple,2024-12-07,2024-09-17,Medicaid
+55,F,181.3,41.1,130,101,72,37.1,235,80,Diabetes,Multiple,2024-02-14,2024-11-19,Private
+76,M,156.0,60.4,174,76,101,35.6,254,82,High Cholesterol,Metformin,2023-11-01,2025-04-11,Private
+76,Other,161.2,82.7,117,79,104,35.8,172,156,Underweight,Lisinopril,2024-08-19,2025-07-10,Private
+64,Other,145.2,64.7,114,61,75,36.7,199,167,Normal,Aspirin,2023-11-07,2025-07-08,Medicaid
+82,F,167.8,84.5,102,99,59,36.6,263,104,Hypertension,Metformin,2024-08-28,2025-04-11,Uninsured
+48,Other,177.1,81.7,133,88,82,35.7,174,149,Cardiovascular Disease,Insulin,2024-06-11,2024-12-03,Uninsured
+40,Other,184.8,64.5,160,101,68,35.1,276,80,Normal,Insulin,2024-12-16,2025-07-10,Medicaid
+68,Other,177.7,48.0,158,111,59,36.3,226,89,Diabetes,Metformin,2024-05-02,2025-07-03,Uninsured
+85,Other,183.3,78.4,161,71,98,37.8,259,182,Obesity,Aspirin,2024-10-05,2025-08-22,Private
+33,Other,173.7,100.7,162,118,72,35.7,132,124,Hypertension,Metformin,2024-04-28,2025-06-11,Medicare
+74,Other,170.2,90.8,116,93,93,36.6,272,196,High Cholesterol,Multiple,2024-01-16,2025-03-08,Private
+57,M,182.3,69.6,161,107,118,37.0,294,81,Underweight,Insulin,2025-07-31,2025-01-18,Uninsured
+72,F,150.4,61.4,102,71,92,36.3,170,162,Obesity,Multiple,2024-11-19,2024-11-07,Uninsured
+91,F,156.1,67.4,166,119,91,36.7,188,119,Cardiovascular Disease,Multiple,2023-12-12,2024-09-28,Medicare
+75,Other,182.7,102.5,153,119,73,37.0,259,118,Obesity,Multiple,2023-11-08,2025-04-13,Private
+71,M,179.4,70.4,103,107,71,36.6,234,85,High Cholesterol,Insulin,2024-05-13,2025-04-30,Medicare
+73,Other,171.7,64.0,157,84,51,35.7,151,111,High Cholesterol,Lisinopril,2025-05-21,2024-12-08,Medicare
+43,M,179.8,90.2,160,62,107,36.4,221,170,Cardiovascular Disease,None,2025-08-14,2025-04-30,Uninsured
+60,F,190.1,59.9,115,62,87,35.9,267,82,Diabetes,Lisinopril,2024-11-11,2025-04-28,Medicare
+72,M,186.4,88.7,169,65,60,36.0,190,71,Cardiovascular Disease,Lisinopril,2024-02-04,2024-09-17,Medicaid
+88,F,167.4,74.4,130,104,98,36.4,251,152,Normal,Metformin,2024-04-15,2025-01-22,Private
+89,M,178.2,68.3,151,111,114,36.9,207,105,Hypertension,Atorvastatin,2024-06-22,2025-07-23,Private
+66,F,179.3,58.7,112,82,55,36.5,120,83,Hypertension,Metformin,2024-10-10,2025-08-20,Private
+49,M,158.5,37.9,129,117,61,36.8,183,75,Normal,None,2025-02-12,2024-12-24,Medicaid
+54,M,175.4,63.3,116,94,100,36.7,128,137,Hypertension,Insulin,2025-08-02,2025-08-08,Uninsured
+86,M,164.1,63.5,112,118,89,36.4,282,188,Cardiovascular Disease,None,2023-12-14,2025-06-17,Private
+72,Other,185.6,68.7,102,69,52,35.8,286,162,Cardiovascular Disease,Lisinopril,2025-01-01,2025-05-12,Medicare
+70,M,154.6,58.4,172,62,81,36.8,278,90,Cardiovascular Disease,Multiple,2024-05-30,2025-08-29,Medicaid

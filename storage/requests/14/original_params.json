@@ -1,0 +1,16 @@
+{
+  "dateRange": {
+    "from": "home",
+    "to": "still"
+  },
+  "country": "tonight",
+  "currency": "kind",
+  "fields": [
+    "outside",
+    "number",
+    "difference",
+    "similar",
+    "say",
+    "whole"
+  ]
+}

@@ -1,0 +1,1001 @@
+first_name,last_name,email,phone,date_of_birth,country,registration_date,last_login,total_orders,total_spent,loyalty_tier,preferred_category,is_active,marketing_consent
+Nicole,Barnes,nicolehill@example.net,949.930.6136x39047,1945-12-15,Turkmenistan,2022-08-16,2025-05-07 04:19:05,87.02024989202853,15729.1149035885,Platinum,Electronics,True,False
+Kenneth,Wright,robertsmary@example.net,(773)230-8848x16734,1956-06-07,Costa Rica,2021-04-18,2025-04-05 14:37:16,19.31058586731766,31136.044288437806,Silver,Automotive,False,True
+John,Tate,grantfrank@example.org,001-299-830-2799,1952-01-31,Morocco,2025-07-25,2025-03-28 01:39:21,45.298078275772724,47838.7659166312,Platinum,Sports,False,False
+Jason,Warner,robinsonphillip@example.com,001-284-912-3926x84071,1952-02-18,Finland,2023-03-28,2024-11-19 06:16:24,54.5515725679841,2549.6190153920707,Gold,Food & Beverage,False,True
+Steven,Perez,joebaker@example.net,001-607-737-7721x55412,1961-12-16,Albania,2022-08-14,2025-06-02 04:56:27,81.72408632974161,25217.579064013917,Silver,Automotive,True,False
+William,Smith,miguel96@example.org,907.951.2811x121,2002-03-01,Guinea,2023-05-24,2024-11-26 07:31:41,73.92774584419931,3228.0657252646124,Platinum,Electronics,True,True
+James,Schwartz,sclark@example.com,+1-650-644-4158x772,1951-11-19,Turkmenistan,2023-11-16,2025-01-18 08:39:23,18.407945704422573,10173.739773274036,Gold,Books,True,False
+Michael,Rodriguez,morrisonlindsey@example.org,001-605-589-1984,1960-10-21,Guatemala,2024-01-28,2024-10-12 03:10:51,56.25466265754553,29358.500894848676,Platinum,Home & Garden,False,True
+Anna,Rojas,fpetersen@example.com,939.513.7865x180,1980-12-29,Hungary,2022-07-27,2025-07-15 17:52:20,16.44666307427238,4622.503240386338,Gold,Books,False,True
+Jeffrey,Jackson,walter41@example.net,478.807.3439,1979-07-06,Georgia,2023-11-18,2024-10-21 23:39:12,40.31345170660889,19262.164290084525,Platinum,Food & Beverage,True,True
+Larry,Johnson,campbellmarc@example.org,+1-334-267-7660x7634,1995-06-25,Tunisia,2022-10-08,2025-06-11 14:56:04,18.311003662842115,17593.266664325994,Platinum,Beauty,True,True
+Julie,Martinez,cmcmillan@example.org,+1-739-673-0879x252,1986-07-11,United Kingdom,2024-04-11,2025-05-28 00:37:59,30.663893212122044,40257.85445380911,Gold,Clothing,False,True
+David,Daniels,kortega@example.net,001-862-783-9492x4636,1990-07-29,Namibia,2022-10-13,2025-09-06 18:33:42,91.57542357808609,18145.002318950883,Bronze,Electronics,True,False
+Rebecca,Simon,anthony42@example.org,(920)457-7712x566,1968-11-27,Azerbaijan,2023-06-26,2024-09-27 11:38:48,54.41424154653578,13429.127358051494,Platinum,Sports,True,False
+Kelly,Miles,smithjavier@example.com,+1-214-356-2989,1956-06-10,Antarctica (the territory South of 60 deg S),2022-10-09,2025-03-06 00:48:43,23.095216749007946,27550.297547510247,Gold,Food & Beverage,False,False
+Lori,Gonzalez,andersonjohnny@example.com,+1-789-246-5018x4451,1948-03-26,Saint Kitts and Nevis,2023-09-16,2025-07-27 03:19:48,69.68540429770182,29557.202168455162,Bronze,Clothing,True,False
+Miranda,Holt,reesebelinda@example.com,821.424.5766,1949-09-17,Finland,2023-06-23,2024-09-23 19:01:08,94.51723766623687,38321.96000000392,Silver,Food & Beverage,True,True
+Donna,Figueroa,emartinez@example.org,001-555-629-0310x947,1982-11-25,Netherlands Antilles,2021-08-15,2025-07-24 00:23:25,68.97200346140097,27513.89245954041,Gold,Home & Garden,False,True
+Stephanie,Fletcher,vhamilton@example.org,+1-728-866-8077x866,1955-12-22,Turkey,2025-07-23,2024-10-28 02:12:05,78.52758171004503,29227.62014708419,Bronze,Automotive,False,True
+Stephen,Baker,michele63@example.net,427-308-3335x17146,1977-01-05,Lesotho,2022-06-12,2025-04-03 03:43:03,85.19219963493774,19541.766570065138,Silver,Food & Beverage,False,False
+Kelly,Gonzalez,williamhall@example.org,001-335-988-9273x9859,1947-01-27,Peru,2025-06-01,2025-06-10 12:06:25,92.37797926472298,13410.811965500008,Silver,Sports,True,False
+Sarah,Jensen,branchtammy@example.com,669-968-9298x661,1971-07-06,Palau,2024-06-18,2025-01-11 17:56:59,7.284033407723789,45894.85294929562,Silver,Clothing,False,False
+Maureen,Snyder,andrearodriguez@example.com,001-987-869-8159,1969-10-20,Jordan,2024-08-01,2024-12-28 00:08:16,0.9555018465283478,11415.448052176833,Bronze,Food & Beverage,False,False
+Robert,Johnson,michelle18@example.org,+1-963-984-3229x12519,1954-12-30,India,2025-03-27,2025-07-13 20:20:10,95.38480376682156,7743.886700841639,Bronze,Home & Garden,True,False
+Melissa,Snyder,courtney03@example.net,676.939.3718,1959-08-04,Korea,2022-09-21,2025-04-24 01:13:01,63.075329855562636,37711.815409267736,Gold,Sports,False,False
+Ashley,Hoffman,connerbrian@example.net,986-895-7320x4333,1964-03-07,Equatorial Guinea,2024-10-02,2025-09-08 14:55:01,83.46439036816089,43000.52894112319,Bronze,Clothing,True,False
+Melissa,Evans,kimberlyrose@example.com,+1-625-626-5116x185,1974-10-19,Benin,2021-11-11,2025-08-26 03:05:07,14.799100140394167,39106.25853029337,Platinum,Beauty,True,False
+Stephanie,Reed,yferguson@example.org,833-648-7025x23684,1945-01-26,Guatemala,2022-04-24,2025-06-27 03:22:13,7.25784862222963,37204.73324147946,Bronze,Automotive,False,True
+Colleen,James,kempjeffrey@example.com,001-507-289-9999x6090,1954-02-12,Greece,2021-11-18,2024-12-22 16:42:23,21.273252677828747,38968.04355962907,Silver,Food & Beverage,False,True
+Nichole,Gray,ycallahan@example.net,325.662.1776x22703,1964-04-03,Papua New Guinea,2023-05-30,2025-04-04 23:06:08,41.72471933066578,10277.260093818306,Gold,Food & Beverage,False,True
+Christine,Day,mcdonaldjames@example.net,264-260-2566,1983-08-02,Tuvalu,2023-07-15,2025-08-14 07:52:59,41.751106274333026,36324.06089123162,Bronze,Beauty,True,False
+Benjamin,Gonzalez,xhumphrey@example.org,001-474-661-2268x3488,1952-10-31,Barbados,2024-04-19,2025-07-30 17:02:07,33.275255312636595,22034.56744609032,Platinum,Automotive,True,True
+Austin,Wood,evansmiranda@example.net,5712010358,1966-07-18,Bosnia and Herzegovina,2025-04-17,2025-02-14 22:40:51,84.8698618403068,41426.2774991997,Bronze,Beauty,True,False
+Lauren,Bryant,joseph85@example.com,841.856.2344x137,1965-03-11,Switzerland,2023-12-30,2025-02-22 06:53:38,60.9919937370375,43656.8073823252,Platinum,Food & Beverage,False,True
+Laura,Wilson,leejames@example.org,905-558-3370x607,2006-02-01,Montserrat,2025-05-05,2024-10-21 17:10:44,96.91647927506511,46022.746722751705,Gold,Sports,True,False
+Terrance,Figueroa,ykelly@example.com,584.542.2343,1967-09-28,Nauru,2023-08-25,2025-03-21 11:48:09,83.7830926088145,50464.74219597215,Silver,Books,False,False
+Carly,Hartman,kelsey08@example.net,894-356-1096,1978-09-09,Australia,2024-04-06,2024-10-08 22:23:02,47.74696434290667,9494.453934985835,Gold,Clothing,False,True
+Alison,Giles,xlam@example.net,(711)226-2896x319,1950-03-11,Uganda,2022-05-15,2025-03-09 23:04:19,65.67373417654338,47807.65638726365,Silver,Beauty,False,False
+April,Ortiz,kathrynrichardson@example.org,001-769-964-7558x01086,1953-12-01,Sierra Leone,2021-05-25,2025-02-04 13:51:13,48.49085515355811,36982.5252428172,Platinum,Home & Garden,True,False
+Laura,James,kfrench@example.net,464-294-8765,1953-04-15,Korea,2024-06-17,2025-04-06 13:37:26,-1.9383857554603228,32008.823989019085,Bronze,Books,False,False
+Tony,Francis,garciaadam@example.org,(898)698-0545,1969-02-27,Algeria,2022-06-20,2025-04-16 05:34:54,8.15475376452315,29568.860085523633,Gold,Beauty,True,True
+Christine,Edwards,patricksanders@example.net,6146223669,1945-09-08,Philippines,2023-08-26,2024-09-24 07:43:50,13.274134004466498,19674.155591017137,Platinum,Electronics,True,True
+Alexandria,Lin,gilmoreandrew@example.net,366-227-8836,1986-05-25,Jordan,2023-02-17,2025-03-23 20:07:19,46.15576301282432,29066.94694983989,Bronze,Home & Garden,True,False
+Matthew,Scott,wallison@example.org,460.425.7908,1996-01-22,Guinea,2025-07-15,2025-06-05 18:46:31,2.1924108350852727,17260.230366150587,Gold,Electronics,False,False
+Dillon,Walsh,sheilaparrish@example.net,440.412.3937,1960-10-05,Dominica,2025-05-13,2025-08-27 02:58:53,88.90352263092105,25456.568097826483,Bronze,Electronics,False,False
+Erin,Novak,smithalexandra@example.org,+1-739-249-3260x0764,1961-06-19,Burkina Faso,2024-04-13,2025-04-08 21:30:52,12.368506566275848,12279.785100798383,Platinum,Books,False,False
+James,Rodriguez,johnbrock@example.org,001-592-692-1640x926,1947-04-05,Congo,2021-10-11,2025-03-27 11:18:52,35.485310914165375,26685.83153589311,Gold,Books,False,True
+Kenneth,Campos,harnold@example.com,001-821-764-6812x00432,1981-02-18,Comoros,2023-11-25,2025-04-20 11:03:26,85.11354733702733,43181.41888622032,Platinum,Electronics,True,True
+Mary,Campbell,eric68@example.org,925-208-3604x1060,1983-12-20,Brunei Darussalam,2021-08-01,2025-07-24 14:48:27,82.06911518531736,14778.833197461998,Gold,Books,False,True
+Patricia,Salazar,agarcia@example.org,(848)747-8756,1984-01-24,United Arab Emirates,2024-11-27,2025-09-04 02:58:02,92.81740757971572,9357.506113947262,Silver,Clothing,False,False
+Dylan,Robinson,lindsaygriffith@example.net,4369459127,1963-08-06,Iran,2025-06-28,2025-01-31 12:40:26,29.457153554337925,37488.85567583391,Bronze,Books,False,False
+Sean,Murray,beckynash@example.net,(498)481-1012x4071,1989-05-21,Pakistan,2025-04-06,2025-05-30 01:04:53,34.801632133852436,21132.77693700141,Silver,Sports,False,False
+Michael,Massey,urobinson@example.net,+1-851-609-4834x109,1944-12-23,Western Sahara,2021-07-08,2025-06-30 18:39:28,46.07592621805398,5200.135343795055,Gold,Beauty,True,True
+Jesse,Luna,chandlerjonathan@example.com,001-312-236-8711x690,1951-11-03,Lebanon,2024-01-31,2024-10-12 10:28:45,62.630629866158216,4148.912072931702,Platinum,Beauty,False,True
+Cathy,Harmon,perryashley@example.net,001-564-596-9943x09700,2000-06-16,Serbia,2023-08-01,2025-06-28 11:42:46,98.04499995267929,40995.69875787464,Silver,Books,True,False
+Amber,Burton,kevin68@example.org,512.496.9404x291,1974-12-20,Guadeloupe,2023-10-10,2025-01-06 20:09:12,93.4848643991101,42895.90931454528,Platinum,Home & Garden,True,True
+Alexandria,Zhang,tracyjones@example.com,(695)527-3410x98747,1959-03-11,Guadeloupe,2022-03-22,2025-07-25 02:52:38,77.40348287993628,34458.64331228054,Gold,Clothing,False,False
+Tina,Everett,juliaharris@example.org,+1-428-404-7345,2001-06-22,Brazil,2024-06-14,2025-01-09 13:55:05,76.40774607860382,9431.753666352653,Silver,Automotive,False,False
+Tom,Harris,ann89@example.net,286.373.5143x0675,1986-09-22,Seychelles,2024-09-07,2024-09-22 18:17:56,3.773342979261068,34800.50613269813,Platinum,Electronics,False,False
+Karen,Franklin,aaron16@example.com,582-773-8932,1987-09-08,Malta,2024-02-04,2025-09-13 04:22:30,-0.9400427824640976,33190.53712845859,Silver,Clothing,False,False
+Mathew,Wade,aalexander@example.net,+1-252-889-9952x0446,1965-06-24,Mozambique,2021-05-16,2025-01-02 18:59:24,66.72710454191063,761.2320728743748,Gold,Electronics,False,True
+Christopher,Smith,pameladaugherty@example.net,+1-295-899-8920x093,1950-09-11,Libyan Arab Jamahiriya,2022-08-30,2025-04-30 19:44:57,39.056818076654814,15482.185487678757,Silver,Sports,True,True
+Tara,Foster,uwilliams@example.com,(844)598-3176x3305,1972-02-23,Mozambique,2022-05-06,2025-08-29 05:09:20,49.48725755482502,48451.58117900391,Gold,Home & Garden,False,True
+Danielle,Goodwin,emilygriffin@example.com,8549340728,2004-10-13,Lebanon,2022-01-03,2025-09-05 12:40:14,18.62472390011341,30102.17101411944,Silver,Automotive,True,True
+Jerry,Cummings,justin54@example.org,(851)777-3982,1995-08-03,Comoros,2023-03-28,2025-01-13 12:39:48,95.96356838790587,16269.39713647724,Silver,Sports,True,True
+Danielle,Sanchez,craig22@example.org,001-857-686-5198,1987-04-30,El Salvador,2021-02-26,2025-03-15 02:25:09,69.4579963224969,6305.541517706012,Bronze,Food & Beverage,True,True
+Michael,Cabrera,donald87@example.org,589.295.5505x3270,1954-10-20,Russian Federation,2022-09-08,2024-11-16 14:28:26,4.22500877132911,8860.657109091522,Bronze,Automotive,True,False
+Ronald,Anderson,kenneth67@example.org,001-649-646-6189x9936,2001-07-25,Trinidad and Tobago,2022-06-15,2024-10-19 23:14:34,18.1994592595656,24680.696434099704,Gold,Beauty,True,True
+Monica,Torres,swells@example.net,001-261-463-5167x985,1955-01-16,Portugal,2021-07-08,2025-05-27 05:39:57,96.89188382534965,19152.242614273717,Silver,Beauty,False,False
+Jonathan,Nguyen,zsmith@example.net,+1-488-337-5445x85201,1998-08-17,Antigua and Barbuda,2023-08-05,2024-10-30 13:38:36,25.596056318792552,5480.989758893362,Gold,Clothing,False,False
+Angie,Harris,vbutler@example.org,2653608425,1966-05-08,Tajikistan,2022-02-21,2024-12-30 15:46:41,18.85565934964941,17337.203244038963,Bronze,Beauty,True,True
+Brittany,Compton,jillwoods@example.com,+1-773-647-4703x17371,1945-11-01,Liberia,2024-12-08,2025-06-09 02:37:40,52.497814074432,26666.358799987935,Platinum,Books,True,True
+Sharon,Bryan,jonesandrew@example.org,(899)975-6202x01861,1971-10-31,Cocos (Keeling) Islands,2024-12-29,2025-01-12 16:02:51,73.3278330498651,22958.311584858842,Gold,Sports,False,False
+David,Newman,scotttheresa@example.org,(220)597-3244x8563,1948-09-02,Paraguay,2025-06-09,2025-07-17 05:53:41,33.01363757018788,28747.210080316774,Silver,Sports,False,True
+Amanda,Salinas,crystalmorales@example.net,(552)588-4115x2023,1949-04-05,Lesotho,2023-08-24,2025-07-18 14:51:28,81.60103790086798,16760.527403373675,Gold,Beauty,True,False
+Angela,Rodriguez,orozcochristopher@example.com,(951)702-5019,2003-04-13,El Salvador,2024-01-14,2025-03-11 16:15:00,53.90509227243936,41013.55526580771,Bronze,Electronics,True,True
+David,Sanchez,shari00@example.net,+1-516-437-8797x32009,1968-02-01,United Arab Emirates,2024-05-12,2024-10-07 20:28:40,5.626412022337682,37472.521833279534,Bronze,Electronics,True,True
+Michelle,Alvarado,johncollins@example.org,700.412.8107,2000-06-20,American Samoa,2021-02-21,2025-03-20 21:36:21,45.46430432517318,5389.487616243961,Silver,Automotive,False,True
+Natalie,Hill,smithdenise@example.net,795-909-1449x3162,1962-09-22,Seychelles,2022-09-04,2025-07-31 15:13:09,94.33694689715735,18458.144847169173,Bronze,Clothing,True,False
+Jackie,Kline,davidpatton@example.com,001-272-408-2149x6387,1952-06-26,Saudi Arabia,2022-12-22,2025-08-03 11:41:09,25.419531959979317,6660.051518355762,Platinum,Electronics,True,True
+Diana,Hatfield,schneiderlisa@example.net,001-345-594-2811x79231,1976-05-16,Nigeria,2024-07-09,2025-01-18 20:59:28,83.17162927985709,46795.894799920745,Silver,Clothing,True,True
+Jamie,Nelson,pjackson@example.org,+1-995-258-9078x84170,1999-05-15,Tokelau,2020-11-08,2025-01-04 05:24:44,30.42339598784649,29393.620387827104,Bronze,Clothing,True,True
+Annette,Shepard,gortega@example.net,656.723.4480x5350,1944-09-21,Sweden,2022-11-10,2025-03-19 17:26:19,99.117086722637,30768.002608546012,Bronze,Beauty,False,False
+Paige,Berry,stanleyjonathan@example.com,001-218-416-3833,1944-12-17,Costa Rica,2022-10-08,2025-07-24 22:43:03,91.8454814138658,1020.5261770474149,Silver,Clothing,False,False
+Tyler,Ewing,pblair@example.org,904-353-7671,1959-12-07,Angola,2023-06-26,2025-05-08 22:00:12,21.755577870931003,48196.311402714506,Silver,Beauty,False,True
+Carrie,Kramer,colemandavid@example.net,+1-978-791-0706,1950-07-04,Isle of Man,2021-04-22,2025-05-18 03:03:10,9.790886709962734,40591.873044289,Platinum,Home & Garden,False,False
+Margaret,Russell,lindsay02@example.com,+1-654-552-1673,1972-09-08,Maldives,2023-10-31,2025-02-19 01:28:37,23.206044940277877,9942.749940185435,Gold,Sports,False,False
+Stacey,Patton,felicia11@example.net,882.445.1882x2356,1990-03-21,Mozambique,2024-08-17,2024-11-19 03:47:00,10.507643670761848,27981.139823134592,Bronze,Sports,True,False
+Willie,Reed,brian65@example.com,+1-820-949-3199x514,1957-02-28,Guinea,2024-11-24,2024-11-07 07:39:54,28.60307571718088,4030.066159336254,Gold,Books,True,True
+Bryan,Nichols,jennifer12@example.net,766-494-5772,2005-09-03,Holy See (Vatican City State),2021-06-27,2025-01-24 19:12:31,22.4386908091179,47839.06704504427,Gold,Electronics,True,True
+Kenneth,Pierce,ddavis@example.com,(709)296-3727,1997-08-16,Jordan,2021-04-16,2025-09-05 06:34:57,45.685696079721765,40165.634092951106,Bronze,Clothing,True,False
+Roger,Chung,mgarcia@example.com,(693)377-2152,1984-03-18,Maldives,2022-05-13,2025-05-28 20:51:18,15.593495933809788,29191.79520011119,Platinum,Sports,False,False
+Patrick,Rhodes,arielcole@example.com,4188924662,1955-12-22,Turkey,2021-07-23,2025-05-10 10:00:14,99.06026149257292,12305.437342504185,Platinum,Beauty,False,True
+Sean,Cook,pamhill@example.net,(818)883-4092,1967-04-22,Netherlands,2025-05-06,2024-10-12 18:42:17,77.14375678727474,49955.21137368799,Silver,Home & Garden,False,True
+Amber,King,stephenbernard@example.net,(545)553-3535,1992-03-14,United Arab Emirates,2024-01-21,2025-06-29 18:14:11,14.40843776349778,38153.933730862365,Bronze,Clothing,True,False
+Dean,Curtis,jenniferjordan@example.net,+1-872-292-6090,1949-12-13,Qatar,2025-01-06,2024-11-01 20:56:44,10.21556265249518,24100.66807726657,Bronze,Food & Beverage,True,True
+Ryan,Wilson,kimberlyhiggins@example.com,538-988-8769x64984,1957-06-01,Portugal,2023-10-16,2025-08-20 18:49:33,55.05964833412617,4002.5687309304885,Bronze,Sports,True,True
+Eric,Kelly,natashamoore@example.com,627-784-4953x8754,1949-11-12,Ireland,2024-11-16,2025-07-22 23:50:29,85.68873083435912,26642.65923081537,Silver,Home & Garden,False,True
+William,Garcia,jeffreytran@example.org,825-856-0827,1964-08-20,Saint Lucia,2023-05-23,2024-12-11 22:52:27,17.439005252609153,9464.496811313547,Bronze,Books,True,False
+Rhonda,Knox,sean68@example.com,001-958-439-9341x9451,1968-06-04,Micronesia,2022-06-21,2025-01-27 04:48:37,16.79123995117041,1335.0455149850206,Gold,Electronics,False,True
+Victoria,Matthews,bnichols@example.net,(932)364-2888,1987-08-11,Estonia,2021-07-07,2025-01-10 04:35:28,17.40425470091358,14465.638299904633,Silver,Sports,True,False
+Kenneth,Gardner,littlekimberly@example.net,745.319.5031,1998-03-12,Saint Martin,2021-07-24,2025-09-03 17:39:39,54.876190463594256,21485.009202134508,Bronze,Beauty,True,False
+Jose,Moore,michael18@example.com,001-766-601-7894x1180,1976-06-04,United States Minor Outlying Islands,2022-02-13,2025-08-24 12:52:38,9.739584458965082,5016.257766231172,Platinum,Beauty,True,False
+Daniel,Mason,kennethconrad@example.com,(485)732-0490x02755,1962-06-27,Brunei Darussalam,2021-11-24,2025-07-23 09:19:25,44.81190612407752,-33.30575503489263,Gold,Beauty,False,True
+Scott,Wilson,wdrake@example.net,(456)483-5089x8827,2000-09-15,Liechtenstein,2024-07-02,2024-12-03 03:50:53,37.61244297590212,15290.004507771542,Gold,Home & Garden,False,False
+Cassandra,Griffin,teresarose@example.net,257.900.2811x174,2006-02-22,Congo,2023-07-18,2024-09-24 15:57:41,77.98940399699492,10884.084349725048,Gold,Automotive,False,True
+Sarah,Reed,dlopez@example.org,528-375-6929x60222,1982-08-03,Zambia,2025-04-01,2025-05-24 20:43:01,6.827316900963922,1859.5878854224375,Gold,Sports,False,True
+Emily,Jones,saundersrussell@example.com,289-706-9074x7476,2003-06-19,Saint Pierre and Miquelon,2021-12-05,2025-09-03 10:32:31,72.8409365146709,28573.53130251483,Bronze,Clothing,False,True
+Spencer,Stewart,karinasmith@example.com,528-819-4451,1958-07-31,Serbia,2022-09-17,2024-12-31 21:15:26,37.50155552521485,30860.88526958256,Platinum,Clothing,False,True
+Nicole,Garcia,samantha44@example.org,9747571168,1964-04-27,Ukraine,2024-07-12,2024-12-08 05:00:23,80.17660598211351,41842.39166459443,Gold,Automotive,False,True
+Travis,Hawkins,ann31@example.net,927.369.9875x21659,2003-05-05,Lao People's Democratic Republic,2022-09-15,2025-08-15 11:09:13,96.51669557018843,28350.080940620133,Bronze,Home & Garden,False,False
+Thomas,Mendoza,christopher05@example.net,+1-344-273-2846x520,1985-03-20,Liberia,2024-10-06,2024-12-17 04:39:52,44.33863825019513,46587.68453877034,Silver,Clothing,False,True
+Thomas,Vega,lynn21@example.org,687-968-2533x9654,1949-02-17,Barbados,2025-02-24,2025-08-13 19:22:52,93.21605012083542,34269.86743072933,Bronze,Food & Beverage,True,False
+Jacqueline,Scott,brittney69@example.com,001-945-840-4728x1248,1992-02-19,Croatia,2024-02-10,2025-08-14 16:50:25,94.7090918790432,41938.39374269472,Silver,Sports,True,True
+Christopher,Gates,alane@example.net,+1-234-656-4565,1983-01-18,Canada,2024-10-09,2025-02-07 14:41:12,92.84331189885371,19153.58569866273,Gold,Home & Garden,False,True
+Wendy,Moyer,rubenbrennan@example.com,+1-883-353-8081,1987-12-13,French Southern Territories,2020-10-22,2024-10-05 14:33:13,77.20863584847123,2754.367563421484,Platinum,Clothing,True,True
+Spencer,Garner,nathan63@example.com,+1-890-424-2904,1974-05-10,Iraq,2022-02-03,2025-02-18 05:27:25,81.33107437134818,12042.173948992486,Bronze,Automotive,True,False
+Jack,Jackson,michael24@example.org,677.676.5924,1992-04-29,Dominican Republic,2024-05-30,2024-10-20 17:36:14,52.563884392357416,38399.088227065964,Platinum,Electronics,True,False
+Deborah,Sutton,robinmoore@example.org,001-303-577-1661,1981-01-17,Gibraltar,2020-11-01,2025-01-27 20:52:39,61.06396280510842,44362.37084785363,Gold,Books,False,True
+John,Castro,ashleybarnett@example.org,+1-248-563-2675x4358,1984-05-07,Finland,2022-04-25,2025-08-21 18:12:37,51.44295600460649,46518.26921977963,Bronze,Home & Garden,False,True
+Arthur,Powell,allenbrian@example.com,001-292-531-8825x80044,1984-04-05,Holy See (Vatican City State),2024-09-11,2025-01-31 23:15:30,39.52619121112548,33213.38670481134,Silver,Automotive,True,False
+Nathan,Matthews,wallmariah@example.org,+1-308-278-0500x6445,1960-04-16,Iraq,2023-06-01,2025-02-08 18:58:27,68.99582175577227,42144.06342851778,Silver,Automotive,True,False
+Brandon,White,sandrajordan@example.net,(978)960-8907,1958-08-21,Montserrat,2024-08-27,2025-01-14 22:43:56,43.52478496273201,46749.44937694631,Bronze,Clothing,False,False
+Catherine,Solis,vstrickland@example.com,(760)655-5528x798,1979-03-15,Cayman Islands,2025-06-14,2025-09-01 14:39:52,9.167935624911827,38470.3755132146,Gold,Home & Garden,True,False
+Jason,Smith,mark45@example.net,558-572-3752,1982-05-20,Jordan,2021-05-25,2025-05-06 18:48:08,12.155887173287773,9124.227613727458,Silver,Books,False,True
+Dorothy,Martinez,schwartzstephanie@example.net,(400)620-2443x471,2006-06-14,Malaysia,2021-08-08,2024-10-31 00:16:43,68.27810372695906,12258.86160237886,Gold,Books,False,False
+Robin,Schwartz,michaelacevedo@example.net,571.342.5118,2005-08-02,Lesotho,2023-03-26,2025-09-15 19:58:48,86.5626867857289,28111.06166001687,Silver,Beauty,False,True
+Melissa,Curtis,howellkevin@example.net,735-482-5483x21596,1947-01-04,Swaziland,2023-08-17,2025-02-23 02:44:23,11.019327266962087,16429.11318139899,Platinum,Home & Garden,True,True
+David,Baldwin,jacob62@example.org,+1-695-577-1861x171,1947-06-03,Tajikistan,2022-09-19,2025-02-03 16:14:06,33.9060595298022,35516.85495671423,Silver,Food & Beverage,True,True
+Kyle,Myers,cody25@example.net,(588)236-3477x743,1954-01-13,Gambia,2024-07-26,2025-08-30 14:21:53,83.58158009959712,50501.47154764335,Silver,Home & Garden,True,False
+Michael,Harris,lesliejackson@example.com,656.954.8869,1996-07-14,Canada,2023-12-21,2024-11-15 13:10:01,90.45536078977705,27606.974647498762,Silver,Electronics,True,True
+Brittany,Pearson,vincentnewton@example.org,(276)691-4458,1973-01-08,Bosnia and Herzegovina,2022-01-14,2025-09-07 14:25:11,44.809559670328404,26787.267702393074,Bronze,Books,False,False
+Margaret,Barber,kevinanderson@example.org,904-493-8943x08313,1982-08-24,Guyana,2022-03-26,2025-06-19 13:27:26,95.08776149435542,34294.37937663528,Platinum,Electronics,False,False
+Kenneth,Anderson,bryandouglas@example.org,+1-905-536-5927x590,1949-04-01,Sao Tome and Principe,2025-03-22,2024-10-17 19:13:37,65.04000942464354,36409.82477612357,Gold,Sports,False,True
+Rebecca,Morris,david22@example.com,368-238-3319x22780,1960-09-23,Cayman Islands,2021-02-19,2024-12-06 16:59:42,4.189898986116363,26061.462935894553,Platinum,Electronics,False,False
+Rachel,Singleton,michelle62@example.org,001-715-451-0801x06612,1954-09-14,Switzerland,2023-12-01,2025-05-29 18:14:15,15.713367888501773,27144.81653957204,Bronze,Automotive,True,True
+Jessica,Joseph,donald95@example.com,830.223.0165x001,1964-07-28,French Southern Territories,2023-10-02,2025-07-29 08:19:52,45.49446333898055,21605.603859634553,Platinum,Books,False,False
+Cindy,Lewis,jjames@example.com,+1-568-786-0090x95958,1993-02-15,Lithuania,2022-10-11,2024-11-03 16:21:41,76.37068440201695,22550.033167068992,Gold,Electronics,True,True
+Robert,Butler,michaelschwartz@example.net,(747)650-4151,1953-03-26,Mali,2022-05-22,2024-12-24 17:22:41,61.80052122753276,41064.91861278866,Bronze,Electronics,True,True
+Melissa,Bridges,erika64@example.net,201-758-8816,1982-12-18,South Georgia and the South Sandwich Islands,2021-01-14,2025-05-19 12:24:55,2.472794860638418,25530.872335237473,Bronze,Food & Beverage,False,True
+Bradley,Phillips,trevor91@example.net,+1-796-607-7214,1972-06-30,Cape Verde,2025-09-07,2025-07-08 00:17:16,20.11316501705413,40677.78897811791,Platinum,Automotive,True,True
+Sarah,Carter,traviscole@example.com,001-901-976-7419x12463,1999-08-04,Togo,2024-10-07,2025-02-11 22:49:53,92.69172178032393,11321.24378333388,Silver,Sports,False,False
+Erin,Kelly,sally15@example.net,+1-794-622-4697x0704,1997-05-23,Jamaica,2022-01-19,2024-10-22 15:17:36,71.99853930239507,9775.189015437962,Bronze,Automotive,True,False
+Angel,Newton,rachelcampos@example.net,001-390-795-7410x73639,1989-12-14,Sri Lanka,2021-07-28,2025-07-16 21:13:27,4.986626336065958,19139.32489374627,Gold,Food & Beverage,False,True
+Kyle,Bond,joshua54@example.org,964.360.4134,2005-07-07,Mexico,2024-10-31,2025-08-08 10:34:47,82.4274920079871,12625.168955680321,Bronze,Books,True,True
+Sean,Russell,jayphillips@example.com,735-837-6107x293,1966-10-10,Guernsey,2025-07-09,2025-06-15 20:20:17,2.6117698584349744,22325.621027885354,Bronze,Automotive,False,False
+Lisa,Pittman,jessedorsey@example.org,001-635-431-6925x68486,1970-12-14,Cayman Islands,2024-05-12,2024-09-17 10:28:49,17.34018065045068,40196.80868927638,Bronze,Clothing,False,False
+Matthew,Johnson,wolfealvin@example.org,(616)795-8787x820,1996-07-11,Malta,2021-08-08,2025-08-09 11:43:31,39.483736658084965,20341.721150142814,Platinum,Beauty,True,True
+Edward,Gibson,fryjoshua@example.org,001-631-388-7272,1965-12-18,Canada,2023-11-24,2024-11-11 19:03:53,52.245673979665256,38253.795349402826,Platinum,Books,True,False
+Brandon,Clark,donnafrye@example.net,555.874.9844x4163,1966-04-26,Saint Kitts and Nevis,2021-12-09,2025-07-27 07:31:55,89.4933639804387,10126.811311351006,Gold,Beauty,True,True
+James,Brooks,william95@example.com,530.609.1279x5856,1953-04-21,Romania,2021-05-30,2024-12-15 18:50:31,89.97820748218521,29930.424293361768,Silver,Clothing,True,False
+David,Lewis,porterronald@example.net,001-932-367-5765x76823,1947-02-11,Finland,2021-11-05,2025-04-12 18:36:31,65.38742676810386,47861.86126715091,Gold,Electronics,False,True
+Patricia,Harris,krystal31@example.com,(858)297-8032x90011,1956-12-09,Jordan,2023-01-15,2025-05-14 02:20:43,58.05553890700541,35317.70642395748,Silver,Automotive,True,True
+Elizabeth,Medina,gardnerjames@example.org,+1-409-661-5588x1444,1988-02-17,Belarus,2020-10-22,2024-10-07 20:47:17,79.23232491952831,7079.153531133588,Platinum,Books,False,True
+Michael,Johnson,richardreyes@example.net,898.346.2617,1991-01-28,Sudan,2025-05-20,2025-08-14 10:22:33,63.61819918096931,46742.7674918917,Silver,Home & Garden,True,True
+Kevin,Berg,lfox@example.org,630.934.2693x357,1980-08-03,Oman,2024-08-19,2025-06-12 01:55:43,53.43677802558554,41328.78851957991,Platinum,Beauty,False,True
+Joshua,Hanson,brianna85@example.net,879-501-1324,1950-09-13,Germany,2022-10-14,2024-10-29 10:53:33,-5.308786429834873,22494.15314317829,Platinum,Home & Garden,False,False
+Kimberly,Romero,brandon92@example.com,784.627.2286,1951-09-25,Central African Republic,2022-04-30,2024-09-22 08:25:30,32.71532271479972,12562.373534617782,Silver,Beauty,True,False
+Dean,Clark,aaron48@example.com,(644)968-4334x502,2001-01-05,Gabon,2025-07-08,2025-08-14 02:09:10,41.799810024015294,45955.13074383705,Gold,Sports,True,True
+Michelle,Matthews,kevin66@example.org,001-240-276-9474x89222,1969-09-08,Netherlands,2021-01-02,2025-02-26 09:06:08,39.28891834779425,12993.135230849804,Platinum,Electronics,True,False
+Jesse,Whitaker,lhansen@example.com,3772479334,2002-07-29,Netherlands Antilles,2025-07-05,2025-04-13 23:06:47,45.09130578944132,47935.62228471524,Bronze,Automotive,False,True
+Sandra,Lawrence,heather31@example.org,900.693.8862x456,1983-04-11,Jordan,2021-02-26,2025-02-26 19:59:33,68.28611620875263,22118.065080349726,Bronze,Automotive,True,False
+Alan,Brown,psaunders@example.com,+1-673-364-0364x6093,1992-02-08,Macao,2021-01-21,2024-11-22 13:19:57,39.02269697986584,36510.70276725997,Gold,Books,False,True
+Gary,Smith,hernandezstacy@example.org,691.832.5198x27501,2007-08-23,Taiwan,2023-05-19,2025-03-19 05:11:44,53.74165097147526,50590.76488865484,Bronze,Books,True,True
+Kimberly,Ferguson,melissataylor@example.org,(300)915-2209x3084,1967-04-14,Montenegro,2024-02-18,2025-01-08 08:02:28,14.343714184380904,13303.887789829383,Platinum,Home & Garden,False,True
+Nicole,Smith,seanandrews@example.com,993.219.5484x7146,1980-11-28,Liberia,2022-12-16,2024-10-27 14:26:02,98.69016032258781,30232.48152664435,Gold,Books,False,False
+Brenda,Bird,farias@example.org,(274)989-2058x848,1992-09-16,Mauritius,2020-11-01,2025-03-22 10:37:57,58.10285013702437,16020.475173328705,Gold,Electronics,True,False
+Sarah,Woodward,cole38@example.org,(730)214-0984x1666,1984-02-21,Nauru,2021-08-01,2025-05-03 15:58:48,8.451392545233224,15494.663231794048,Silver,Sports,True,True
+Linda,Watts,susan35@example.org,(509)734-5865x20132,1957-05-18,Christmas Island,2025-09-11,2024-11-06 05:45:12,58.12707358725576,25495.94994171975,Bronze,Automotive,False,True
+Mark,Stephens,wallen@example.com,001-554-773-9886x47022,1958-08-10,Gibraltar,2023-05-03,2025-08-23 18:59:17,27.58541115843961,32064.562863578238,Bronze,Beauty,True,True
+Tammy,Orozco,ericgill@example.org,(544)318-1239x754,1952-02-28,Pitcairn Islands,2022-06-16,2025-01-02 15:31:38,11.992138025509341,38970.16971348027,Gold,Automotive,False,False
+Wendy,Hall,baileyhelen@example.com,(807)328-3195x68384,1949-07-13,Afghanistan,2024-03-05,2024-10-18 14:42:00,82.16577304514563,16925.867729848218,Bronze,Electronics,True,True
+Christopher,Barnes,mccarthycharles@example.org,(335)520-3800x747,1984-10-20,Israel,2021-07-02,2025-06-26 13:08:24,53.625270604819846,26461.11295377128,Bronze,Automotive,False,True
+Samuel,Farmer,bradfordevelyn@example.com,750.717.5847,1982-12-13,Egypt,2023-02-03,2025-01-26 16:14:03,21.294820380365863,20040.19938205062,Bronze,Automotive,False,True
+Nancy,Evans,stephanieperez@example.com,452-919-2010x05274,1946-01-04,Luxembourg,2022-11-25,2025-05-30 11:41:06,29.947237218172017,19398.76395128756,Gold,Clothing,True,True
+Jacqueline,Evans,jcole@example.net,+1-232-408-3585x0144,1990-04-27,Uruguay,2020-11-25,2025-08-13 05:16:13,47.941641335278256,20591.75988647182,Silver,Food & Beverage,True,True
+Ronald,Garrett,harveyangelica@example.net,+1-850-571-2579x30385,1953-07-11,Thailand,2024-04-23,2025-04-11 04:38:30,36.79217422025101,16521.271401983773,Silver,Books,False,False
+Jill,Li,misty12@example.com,935-974-5635x1673,1974-09-27,United States of America,2022-07-20,2025-07-22 08:14:01,12.046719778843999,18217.24911728888,Platinum,Beauty,True,False
+Katherine,Anderson,melissaarmstrong@example.com,283-314-8598x821,1988-06-12,French Guiana,2022-02-25,2025-03-23 08:12:00,108.50359471987997,36368.05142069823,Platinum,Books,True,False
+Sarah,Long,wyattroberts@example.net,(541)895-4231,2003-10-01,Nigeria,2022-07-11,2025-03-18 14:37:09,58.73122920758767,23243.944588828774,Silver,Food & Beverage,False,False
+Susan,Harrison,robertluna@example.net,001-311-777-4534x63458,1978-10-18,Tokelau,2023-04-09,2024-12-01 23:14:47,78.65627142572517,46063.42741581702,Silver,Electronics,False,True
+Diane,Johnson,lewiscindy@example.net,254-327-4484x248,1956-06-27,Benin,2021-04-26,2024-12-09 18:50:09,17.518404360342892,27647.291335091802,Platinum,Electronics,True,False
+John,Elliott,todd61@example.com,208.979.7820,1988-11-04,Lao People's Democratic Republic,2024-12-18,2025-07-16 14:31:48,62.04114422539851,36877.18310450257,Gold,Beauty,False,True
+Lori,Golden,teresarodriguez@example.net,001-880-630-1380x08543,1956-04-19,Bhutan,2021-03-25,2025-08-13 12:14:28,21.964090809620508,38043.266241041754,Gold,Electronics,False,True
+Joann,Heath,jennifer47@example.com,646.758.3807x4414,1987-06-07,Sudan,2024-08-20,2025-01-16 17:55:17,65.62385229727293,36843.576850466256,Gold,Electronics,False,True
+Lori,Taylor,towens@example.net,(238)894-3708,1947-09-01,Lao People's Democratic Republic,2025-03-14,2025-03-14 16:13:59,40.95980342367429,19693.782780732658,Platinum,Electronics,True,True
+Cynthia,Travis,kmiller@example.org,483.644.2461,1984-11-01,Palestinian Territory,2022-07-10,2025-03-18 22:48:46,76.38519697014861,25187.990497228366,Silver,Sports,False,False
+James,Carter,petersbrandon@example.org,708-405-4747x56702,1982-12-14,Canada,2021-10-22,2025-08-04 14:20:43,62.50102342996396,1975.4266174774002,Platinum,Home & Garden,False,True
+William,Randolph,sharon86@example.net,847-830-2066x6889,1988-08-22,Kuwait,2023-06-15,2025-05-19 13:55:26,58.34929756093775,9981.70820315227,Bronze,Automotive,False,True
+Laura,Aguirre,silvapaul@example.com,(748)405-4090x97810,2004-11-19,American Samoa,2024-01-16,2025-03-28 08:03:01,51.912864762069695,39065.82965706474,Platinum,Electronics,True,True
+Ashley,Howell,rebeccashah@example.org,5487487061,1986-11-26,Mexico,2021-03-31,2025-04-17 15:14:07,97.79568213714944,24594.50433622702,Bronze,Automotive,False,True
+Christopher,Ortiz,jessica94@example.com,+1-368-930-8338x4764,1945-05-19,Sri Lanka,2024-05-06,2025-01-06 02:07:58,87.68331578652811,17615.023770652842,Gold,Clothing,True,False
+Joe,Price,cturner@example.com,204.662.8661,1986-08-15,Swaziland,2024-03-07,2024-11-05 06:20:32,63.60055521303728,12879.45641611938,Gold,Food & Beverage,True,False
+Andrea,Newman,benjaminkirby@example.org,001-545-876-6582,1996-10-06,French Guiana,2021-01-01,2025-04-11 21:49:45,31.086617535615968,2526.771847164381,Bronze,Clothing,False,False
+Anthony,Gonzalez,dcarr@example.org,752.674.7072x10329,1974-08-02,North Macedonia,2024-06-24,2024-12-08 05:16:56,6.296512820803029,26817.401342324873,Bronze,Beauty,True,True
+Susan,Zuniga,pamela14@example.org,265-203-2188x16896,1953-12-10,Malaysia,2023-07-08,2025-05-29 07:44:40,43.789850924761524,37104.92083350846,Silver,Sports,True,True
+Brad,Torres,csmith@example.net,+1-578-932-9740,1974-02-05,Kuwait,2025-01-21,2025-03-19 15:41:24,71.18908505299963,26206.49521903595,Bronze,Electronics,False,False
+David,West,mitchellsmith@example.com,657-670-9485,1965-12-26,Ecuador,2023-06-23,2024-10-04 04:13:09,73.98801115665938,7108.688766635725,Gold,Books,False,True
+Margaret,Gilbert,xmercer@example.net,964.200.0312x1790,2002-04-16,Nigeria,2021-01-22,2025-05-13 03:07:02,12.637009027314086,44856.44078866515,Platinum,Automotive,False,True
+Kelly,Walker,laurie43@example.net,8142482866,2000-04-16,Rwanda,2025-03-04,2025-04-23 01:47:56,76.6378242747318,34593.113076580936,Platinum,Automotive,False,True
+Frederick,Woodard,kevin28@example.org,(434)892-7804x37896,1984-07-08,Bahrain,2021-02-03,2025-06-29 01:38:15,57.03619707238985,13448.957990750672,Platinum,Beauty,False,True
+Jo,Parks,eforbes@example.com,783-352-8936x90458,1965-01-19,Tanzania,2024-02-13,2025-05-08 19:56:57,68.92648036228404,41148.43735266547,Bronze,Sports,False,True
+Lisa,Williams,jasonmccoy@example.org,+1-747-989-3375,2005-04-12,Congo,2022-12-17,2025-09-04 20:52:37,85.57374580731867,14437.4342760679,Gold,Sports,True,True
+Cameron,Jackson,freed@example.net,001-472-693-1772x8142,1949-10-14,Honduras,2021-07-29,2025-06-25 02:51:26,11.91193388974352,28379.406095385868,Gold,Automotive,False,False
+Valerie,Lopez,jasmine87@example.org,489.322.0582x94258,1987-05-20,Turkey,2020-09-19,2025-01-03 16:24:59,10.025470848035512,21821.817337979162,Platinum,Home & Garden,True,False
+Melissa,Burton,walkerann@example.com,001-729-271-6428x5415,1966-10-20,Yemen,2024-01-26,2025-06-29 08:04:10,80.85138735537018,14078.636889468606,Platinum,Books,False,True
+Collin,Schultz,shannonabbott@example.org,001-226-596-1690x541,1992-03-21,Namibia,2022-04-19,2024-12-16 00:35:04,51.68805842318446,38008.29247957915,Gold,Home & Garden,True,True
+Scott,Goodman,deanna77@example.org,(844)761-2314x264,1979-09-01,Saint Martin,2024-09-07,2024-12-10 15:41:36,43.77314409758857,39577.23726289687,Gold,Food & Beverage,True,True
+Courtney,Scott,smithcolton@example.org,001-515-409-7836x7981,2006-08-07,Ethiopia,2022-03-09,2024-11-30 13:41:47,80.59834009695525,12327.755483823175,Silver,Beauty,False,False
+Kevin,Horton,chelsea64@example.org,+1-317-578-4800x08787,1981-09-20,Austria,2025-02-18,2024-10-11 02:44:50,4.141650691484867,7044.266519317742,Gold,Clothing,True,False
+Sarah,Mccormick,ericamcpherson@example.com,926.239.0886x05617,1987-05-14,Andorra,2024-10-05,2024-11-28 00:44:22,62.95646014244522,2097.933382228709,Platinum,Home & Garden,True,False
+Michael,Pittman,fwilliams@example.com,578.430.0052,2006-02-04,French Polynesia,2023-03-23,2024-12-26 10:59:15,35.24174311818635,28382.306810507045,Gold,Home & Garden,True,True
+Douglas,Barnett,johnstone@example.org,490-418-9567,1987-12-07,South Africa,2022-12-22,2025-01-24 19:39:23,9.795596320901648,39398.077537448866,Gold,Books,True,True
+Jeffrey,Baker,micheleburch@example.org,001-785-871-9513,1964-12-11,Myanmar,2023-04-07,2025-05-18 22:04:57,68.30704631846781,12354.061879780094,Platinum,Books,False,True
+Jeffrey,Logan,ugordon@example.com,957.482.7122,1976-02-22,Montserrat,2023-08-14,2024-10-13 23:01:40,23.367576651946482,4138.39690312311,Platinum,Home & Garden,False,True
+Cole,Reed,dodsonjo@example.org,348-310-0960,1958-03-19,Kiribati,2024-10-19,2025-07-11 06:06:46,49.266686667596936,42324.158228122986,Gold,Automotive,False,True
+Travis,Castillo,reillyabigail@example.net,592.688.0803,1988-06-30,Palau,2023-09-27,2025-05-30 16:26:47,64.17433381877457,2516.8833881124665,Bronze,Electronics,True,True
+Dylan,Smith,willie15@example.org,(362)496-8725x0096,1992-04-20,Croatia,2022-09-02,2025-06-17 20:35:57,4.297130948323478,28787.475881945276,Bronze,Clothing,True,True
+Andrew,Fisher,gwilliams@example.com,438-678-0042x94899,1996-12-19,Guatemala,2022-08-17,2024-09-23 19:13:21,31.21398818091211,49912.417562345785,Silver,Food & Beverage,False,True
+Jeremy,Robertson,angelabryant@example.com,448-268-4740,1973-11-25,Bhutan,2024-01-05,2025-07-08 16:06:45,28.367376225730972,24952.895651294835,Gold,Electronics,False,True
+Alexander,Carter,bradley47@example.com,408.353.5375x387,1976-07-20,Christmas Island,2024-07-19,2025-02-19 04:34:24,10.591446453477223,6380.03683510592,Gold,Sports,False,False
+William,Williams,colin50@example.com,780-706-1694x8071,1984-03-08,Saint Helena,2022-11-29,2025-08-04 01:46:08,41.56777119650884,8591.499889482317,Bronze,Automotive,True,True
+Chelsea,Thomas,jamesalicia@example.net,520-637-9468,1965-05-17,Chad,2021-03-18,2024-09-24 13:08:01,53.704603492001986,9582.729890634537,Silver,Food & Beverage,True,True
+Tracy,Klein,leealicia@example.com,+1-324-919-3357x087,1994-05-05,Cote d'Ivoire,2024-02-24,2025-05-15 23:12:36,14.874669167364704,30472.125664221574,Platinum,Home & Garden,True,True
+Bethany,Day,greenjessica@example.net,001-259-827-0163x34071,1988-12-03,Botswana,2022-03-21,2025-08-21 14:05:28,36.87158042300162,2103.262947649738,Silver,Electronics,False,True
+Austin,Davis,heathercherry@example.net,450-553-9439x23292,1976-02-23,Norway,2021-01-19,2025-08-22 21:43:02,1.1848142784163986,47726.57843051688,Silver,Clothing,False,False
+Rodney,Davies,sdavis@example.com,001-831-671-5521x3804,1947-10-09,Paraguay,2020-11-17,2024-09-17 21:29:44,20.315983198772997,876.8567897033438,Bronze,Food & Beverage,True,True
+Eric,Cortez,qbaker@example.com,2048153139,1997-03-20,Svalbard & Jan Mayen Islands,2021-12-03,2025-01-04 15:46:41,91.31231386541273,13555.2148352606,Gold,Automotive,True,True
+Brandy,Rivers,daisy79@example.org,001-453-920-6143x096,1965-03-25,Poland,2025-05-25,2025-04-04 03:04:05,34.01854701720758,10221.54301820705,Platinum,Home & Garden,False,False
+Rachel,Baird,hayesdaniel@example.org,237.630.5983,1976-12-19,Macao,2022-01-05,2025-02-09 00:13:37,94.31545653364213,17977.63934648405,Silver,Books,True,True
+Tina,Oconnell,apeters@example.net,(649)208-6946x990,2006-01-18,Namibia,2023-08-20,2025-03-15 20:55:04,45.051702383976206,3453.513852317172,Gold,Beauty,False,False
+Barbara,Kennedy,qphillips@example.com,+1-704-535-5788,1963-11-26,Niger,2025-02-06,2025-01-15 19:41:56,14.155295213055032,42697.69196196589,Gold,Sports,True,True
+Rachel,Duran,jeffery24@example.com,325-464-8741x86762,1987-10-14,Saudi Arabia,2022-07-10,2025-05-16 08:30:00,21.485849606006838,10055.404263276356,Bronze,Clothing,False,True
+Jonathan,Ross,martinezdavid@example.com,424.848.1068,1992-11-03,Holy See (Vatican City State),2022-03-11,2025-05-01 11:53:33,77.5991402777989,21720.200151654743,Bronze,Books,True,False
+Stephen,Turner,dschmidt@example.com,(736)832-7190x5767,1949-07-14,Venezuela,2021-08-15,2024-11-10 17:10:37,7.689661113063743,24603.27480362705,Bronze,Sports,True,False
+Chris,Stevens,ricejill@example.org,(328)275-6691x7591,1998-04-25,Kiribati,2024-05-05,2025-04-22 13:16:01,52.858446006408734,800.6028982478338,Bronze,Books,False,False
+William,Sanchez,ymartinez@example.org,278-841-7602,1958-12-09,Japan,2024-02-10,2024-11-07 09:36:02,60.856758318603795,31055.658366894007,Gold,Beauty,True,False
+Norman,King,ryan29@example.com,+1-642-830-7951x43491,1988-09-04,Christmas Island,2021-03-14,2024-12-08 01:03:19,77.97506475042454,20079.20690361862,Gold,Electronics,True,True
+Gary,Garcia,colerachael@example.org,001-810-947-4705x73234,1977-04-18,South Georgia and the South Sandwich Islands,2023-02-12,2025-09-01 03:27:38,54.87047935411935,6520.16833275336,Gold,Food & Beverage,True,False
+Sarah,Peterson,melissabauer@example.org,001-418-751-4384x9211,1954-04-24,Saint Lucia,2021-01-17,2025-06-06 11:23:12,20.103243083790925,41816.24379788447,Silver,Automotive,False,True
+Patricia,Orr,gonzalezandre@example.net,(898)846-1037x2918,1964-06-06,South Georgia and the South Sandwich Islands,2023-01-05,2025-07-07 16:02:25,5.825912455860939,43427.943961914876,Platinum,Food & Beverage,True,False
+Brandy,Ross,deniseramos@example.org,+1-391-747-1185x102,1955-08-08,Northern Mariana Islands,2022-01-26,2025-02-21 05:02:32,92.20816815421416,47038.28872592519,Gold,Beauty,False,False
+Nancy,Williamson,fferguson@example.com,294-590-1170x7441,1988-12-15,Costa Rica,2021-01-19,2025-09-15 22:59:19,20.817256886535226,32815.40571738189,Gold,Clothing,True,False
+Tina,Hansen,gregorywagner@example.com,(861)324-4122x54580,1964-05-20,Japan,2024-07-15,2024-09-18 13:21:27,8.485911529905682,3812.6678530857953,Gold,Food & Beverage,True,True
+Michael,Benson,zfrazier@example.org,272-360-2144x96027,2001-08-31,United Arab Emirates,2021-06-25,2024-12-11 20:40:09,72.90452533759634,51063.19264271517,Bronze,Automotive,False,True
+Marie,Knapp,jacob24@example.org,998.793.9667,1976-11-15,Antarctica (the territory South of 60 deg S),2022-04-10,2025-07-19 08:30:27,49.788667272494656,2958.5052099310556,Platinum,Beauty,False,False
+Steven,Knapp,casemary@example.com,(999)372-7224,2005-02-12,Gambia,2021-05-17,2025-01-26 03:46:13,28.793841951216812,14654.652058184593,Silver,Clothing,False,False
+Jennifer,Wood,kathleenwerner@example.org,(743)565-0914,1983-07-05,Macao,2024-01-13,2025-09-08 19:28:02,55.481879766441374,22359.01907219914,Bronze,Sports,True,False
+Stephen,Bennett,richardsims@example.com,335.614.6327x34758,2005-09-09,Jamaica,2025-08-08,2025-02-22 02:51:58,77.32115898312013,15577.678191884936,Platinum,Beauty,False,True
+Justin,Brown,paulpatrick@example.net,+1-339-728-3616x846,1983-02-06,Yemen,2022-05-13,2025-06-07 03:19:56,65.0961884874411,28205.517270499393,Silver,Sports,True,True
+Luis,Frank,ramosdaniel@example.org,001-678-668-7589x98901,2003-10-09,Togo,2022-09-13,2024-10-26 13:22:26,59.04720946085352,47216.12372874965,Platinum,Home & Garden,False,True
+Kelsey,Washington,ninalee@example.com,+1-223-356-7970x4545,1946-06-16,Israel,2022-03-06,2025-04-23 00:36:54,53.19097939691043,15488.376340496781,Platinum,Home & Garden,True,False
+Tracy,Daniels,jonescaleb@example.org,(233)467-2986x22697,1996-05-05,Pakistan,2023-05-07,2025-07-04 07:21:41,89.9779202765039,36699.94328427755,Bronze,Electronics,False,True
+Michael,Ali,bentonlori@example.com,922.269.5316x702,1977-08-20,Grenada,2023-09-09,2025-01-13 20:06:37,37.09897287344211,23414.225907191176,Bronze,Sports,False,False
+Bridget,Miller,dtaylor@example.net,309.601.0367,2003-04-15,Seychelles,2025-08-27,2025-04-30 11:58:03,82.50311789599414,13036.398920145819,Gold,Automotive,False,True
+Kelly,Robinson,wandaparker@example.net,622-466-7171,1956-05-02,Tuvalu,2021-05-25,2025-04-02 21:10:15,83.51941909732801,36294.310507079856,Silver,Beauty,True,False
+Kenneth,Phillips,rosedaniel@example.com,001-836-280-7375,1947-11-25,Norfolk Island,2025-09-04,2025-02-03 20:34:57,34.2137561744982,4683.708419618601,Gold,Beauty,True,True
+Christopher,Wolf,daviddalton@example.org,001-658-705-4537x8282,1981-03-15,Ghana,2024-05-12,2025-07-17 23:45:07,36.175891253604036,18841.990687103586,Bronze,Home & Garden,False,False
+Michael,Montes,browntimothy@example.net,(479)891-5378,1974-03-30,Antarctica (the territory South of 60 deg S),2020-12-03,2025-02-22 12:20:16,52.06584236677153,38555.663994516115,Silver,Books,True,False
+Brent,Ayala,joseph28@example.org,301.409.5323,2005-03-10,Bouvet Island (Bouvetoya),2021-09-17,2024-12-08 16:42:45,52.3260845626123,21291.138240202825,Bronze,Food & Beverage,True,False
+Rebecca,Johnson,taylorrollins@example.net,001-326-684-0537x6165,1966-08-25,Angola,2021-05-17,2025-06-18 14:03:28,104.51475154334683,33991.2266349615,Gold,Automotive,False,True
+Edward,Olson,hardinterrance@example.org,256.893.1034x507,1953-11-07,Niger,2023-09-29,2024-11-14 05:40:22,59.51612362303453,27068.477600082664,Gold,Home & Garden,False,False
+William,Gardner,timothyjackson@example.org,+1-795-516-8173x9278,1985-10-30,Denmark,2022-02-05,2025-06-07 02:50:28,6.07360355729707,18952.93499344512,Silver,Automotive,True,False
+Lisa,Montoya,gallegoskirk@example.org,(383)342-6088,1990-12-21,Israel,2020-09-16,2025-06-06 10:41:33,61.59670358878895,25015.43580969982,Bronze,Electronics,False,False
+Raymond,Conway,nelsonjennifer@example.org,953-210-5400x287,1967-01-04,Cape Verde,2022-08-29,2025-09-12 11:05:24,44.280800071225734,32014.20844571643,Gold,Beauty,False,True
+Kevin,Fisher,dharrison@example.com,201-545-9835x171,1966-11-02,Canada,2024-05-14,2025-06-13 02:11:48,27.240529966456247,19128.73899980031,Bronze,Home & Garden,True,True
+Tracy,Simmons,daniellewilliams@example.net,240-268-3553,1950-01-26,Tokelau,2022-05-20,2024-10-31 20:55:58,11.71577325009449,21025.14980525701,Silver,Beauty,True,False
+Kim,Adams,weeksjenna@example.com,(411)387-9906x4766,1978-04-16,Antigua and Barbuda,2022-05-15,2025-07-13 03:29:52,43.98792407826697,53062.55704527965,Bronze,Automotive,False,True
+Andrew,Rose,unielsen@example.net,+1-633-895-0020,1965-09-01,Bouvet Island (Bouvetoya),2024-01-07,2024-10-04 15:40:54,37.17467668637271,24211.515633086023,Platinum,Home & Garden,True,False
+Timothy,Li,rebeccalucero@example.net,631-631-4437x01112,1950-01-22,Djibouti,2021-11-14,2024-11-17 04:24:03,8.377796743546288,42395.64138089091,Platinum,Books,False,True
+Bruce,Green,prattjoanna@example.net,736-416-5392x14679,2006-03-17,Cyprus,2021-08-15,2025-03-09 01:31:12,79.87686607165223,37411.40349880614,Bronze,Clothing,False,False
+Felicia,Vaughn,kimberly09@example.org,942.921.3701x6929,1953-08-28,Cuba,2023-03-18,2024-11-04 04:37:37,85.4761855525371,14545.321956296353,Bronze,Clothing,False,False
+Paul,Hicks,carlsonkatie@example.com,001-908-352-3653x269,1947-02-09,Singapore,2020-12-05,2025-07-31 09:58:50,50.11201267077472,29816.383647635637,Platinum,Beauty,True,True
+Jacob,Brandt,anthonyholt@example.net,(286)322-0980x7990,2005-07-15,Germany,2025-08-26,2024-10-03 11:42:43,80.72186408745276,45018.87035903128,Platinum,Electronics,False,False
+Jasmine,Peterson,adouglas@example.org,001-216-522-6052x53937,1985-12-22,Antigua and Barbuda,2022-10-02,2025-01-21 22:52:23,35.75341684969793,9715.898160400955,Silver,Clothing,False,False
+Kim,Cooke,opitts@example.com,(266)838-0485x1995,1969-04-12,Slovenia,2023-03-03,2024-12-18 17:16:50,73.74207495358353,37912.25372905605,Gold,Beauty,False,True
+Judith,Blackburn,mrowland@example.org,001-686-668-8487x0668,1997-03-17,Ecuador,2024-09-27,2024-12-10 12:21:15,96.16668279696806,10451.958943603431,Gold,Food & Beverage,False,False
+Megan,Knox,carpentermelissa@example.org,001-872-686-1907x612,1981-05-16,Gambia,2021-09-01,2025-01-14 08:08:49,47.85185058571733,37653.70687741835,Gold,Electronics,True,True
+Charles,Nichols,ubarron@example.org,(361)958-0563x3978,1964-02-17,Singapore,2021-11-05,2025-08-02 10:20:30,57.848059692498,468.3925859956714,Gold,Books,False,True
+Keith,Potter,olivia93@example.net,403-880-7031x7616,1964-05-07,Ukraine,2021-08-01,2024-10-19 23:40:50,44.6463777526354,18313.64987730523,Silver,Home & Garden,False,True
+Patricia,Martinez,ystout@example.org,001-809-485-1576x22042,1965-08-24,United States Virgin Islands,2021-02-14,2025-04-23 08:09:36,101.63312597864346,51087.178057625366,Platinum,Automotive,True,False
+Paul,Rocha,znelson@example.com,(380)904-2956,2006-06-04,Monaco,2021-01-21,2024-09-17 16:09:55,11.137572417786691,9506.1868367055,Bronze,Books,False,True
+Alexander,Garner,stevenflores@example.net,(426)707-9349x76625,1946-06-25,Bosnia and Herzegovina,2024-05-14,2025-08-06 17:43:12,96.28885978034175,4462.128690118942,Gold,Sports,False,True
+Katherine,Hayes,mathewgomez@example.org,913-523-8650x07861,1969-01-22,Saint Pierre and Miquelon,2022-01-13,2024-10-18 18:02:51,44.72594783833509,23307.413868165648,Gold,Home & Garden,True,True
+Tonya,Barber,jsmith@example.com,+1-408-476-1152,1953-05-22,Mali,2021-08-19,2024-11-19 13:39:21,40.46140691648892,31117.256291901132,Bronze,Automotive,True,False
+Kathleen,Fisher,marcus01@example.org,(202)738-5644,1955-12-13,Belarus,2023-10-22,2025-06-16 06:16:45,60.3273050670149,14779.6346709098,Bronze,Electronics,True,False
+Thomas,Reyes,grichard@example.org,001-874-636-7867x43480,1959-04-08,Niger,2022-07-21,2024-10-14 02:50:18,83.20427997551393,45275.21195239126,Silver,Food & Beverage,True,False
+Melissa,Wilson,smithmark@example.org,904-603-2279x615,1950-11-01,Canada,2022-01-17,2025-06-30 09:08:07,75.85679602617266,33419.675131134616,Silver,Books,True,True
+Dustin,Patterson,smithalicia@example.org,823-636-5261x7700,1970-11-26,Lebanon,2022-11-24,2024-11-25 07:00:13,35.24225219494597,31698.928974994484,Gold,Clothing,True,True
+Adam,Ware,tammy64@example.com,820.942.2730,1978-10-20,Saint Pierre and Miquelon,2022-06-29,2025-07-08 23:52:46,56.330611207870135,29455.81307218258,Bronze,Food & Beverage,True,True
+Gary,Knight,yolanda67@example.com,645-356-6754,2000-09-26,Burundi,2023-09-11,2025-02-07 15:22:41,84.87064083024762,10380.729656303678,Bronze,Books,False,True
+Richard,Johnson,diane86@example.net,2235300962,2007-05-15,Mauritania,2023-08-04,2025-03-31 00:10:51,92.80585786828325,48028.56297240991,Silver,Books,True,False
+Ronald,Cannon,yolandamayo@example.org,+1-340-564-6899,1978-07-27,Mongolia,2024-07-16,2024-11-22 21:05:16,61.52283340233057,49084.79363086927,Platinum,Automotive,True,False
+Dorothy,Jenkins,michaeljones@example.org,836.547.6356x54285,1945-01-11,Portugal,2024-05-24,2024-10-30 02:49:49,69.07327909346598,17218.480782300703,Platinum,Clothing,False,True
+Jacob,Garcia,hartmandonald@example.com,+1-818-321-8011x2748,1955-02-23,Turkmenistan,2022-01-04,2025-06-13 00:36:34,61.30791965092167,12220.390388164566,Bronze,Beauty,True,False
+Shane,Peters,owilson@example.com,001-232-587-8828x46211,2002-08-24,Netherlands,2025-08-13,2025-06-11 10:38:57,49.134712457917786,35086.8360568829,Platinum,Sports,True,True
+Brett,Johnson,josephperkins@example.org,001-464-827-4712x76516,2000-02-23,Bangladesh,2021-12-07,2025-02-10 07:16:06,42.25038750274111,18933.907831510423,Gold,Electronics,True,False
+Kelly,Ballard,gerald64@example.com,210.418.2247,1962-01-25,Burkina Faso,2025-05-25,2025-01-22 10:07:05,39.62843051023106,32051.794904598722,Platinum,Beauty,True,False
+David,Miller,tracicurry@example.org,001-776-396-3405x6396,1996-01-29,Guernsey,2024-06-07,2025-08-20 20:18:34,69.16742766282299,43580.093055983794,Bronze,Sports,True,False
+Michael,Strickland,jenniferperez@example.com,001-538-858-2282x05602,1958-05-19,Guatemala,2020-10-15,2024-10-07 04:04:00,28.489305569090313,6441.935644560306,Gold,Food & Beverage,True,False
+Christopher,Burton,laura30@example.net,977.788.3579x745,1972-11-04,Korea,2025-02-09,2025-03-24 21:01:53,2.72283139749037,32704.565180754544,Bronze,Sports,True,True
+David,Holmes,susan94@example.net,5712345676,1995-03-22,Dominican Republic,2020-09-20,2025-02-12 18:30:45,57.988254715456215,35690.87534846328,Gold,Sports,True,True
+Kevin,Thomas,yjimenez@example.net,708-901-4544x455,1967-05-30,Mauritania,2022-02-18,2025-01-01 02:25:30,55.79690833642703,46577.31151710951,Platinum,Books,False,True
+Jessica,Young,taylorchase@example.com,(726)745-7194x0726,1984-05-09,Oman,2025-08-13,2025-01-11 16:13:46,89.9267291782288,17221.54932917583,Silver,Beauty,True,False
+Rickey,Johnson,haley62@example.com,4799758608,2003-01-09,Malawi,2023-07-03,2025-01-08 10:33:30,47.84550783052178,19246.49282211248,Silver,Home & Garden,True,False
+Nathan,Garcia,yweeks@example.com,583.752.4101x07363,1959-09-21,Swaziland,2022-10-07,2025-08-03 18:00:55,28.50126077283913,30407.422810909404,Silver,Beauty,False,False
+Megan,Lane,michelle34@example.net,+1-916-790-5111x99242,1950-04-06,Austria,2022-11-17,2025-05-14 02:11:45,24.575399983181743,28263.829264430206,Silver,Beauty,False,True
+Renee,Bell,timothy39@example.com,529.432.4485x3688,1990-09-23,South Africa,2024-11-30,2025-07-10 20:52:37,6.638982899924139,7976.12164172836,Platinum,Sports,False,False
+Dustin,Hunter,freemanchristopher@example.org,845-623-1171x586,1968-03-19,Korea,2025-06-07,2024-11-23 11:29:33,86.81249788231884,32769.12035162921,Gold,Sports,False,False
+Kevin,Mckinney,josephwalls@example.com,4394666180,1984-11-27,Kenya,2023-05-31,2024-11-25 09:55:02,67.32250700776889,32526.067362790087,Platinum,Electronics,True,True
+Steven,Nolan,timothybaldwin@example.com,581.705.6903,1955-01-17,Liberia,2021-07-04,2025-06-25 01:50:54,2.7712087010834345,10967.776018227985,Platinum,Clothing,True,True
+Robert,Duncan,gcoffey@example.com,001-974-855-1896x9219,1993-08-20,French Guiana,2023-12-01,2024-12-28 19:02:48,60.293105077040714,31598.073677443954,Platinum,Sports,False,False
+Erica,Hill,alyssa07@example.com,(783)918-2308x111,1949-12-01,Lebanon,2021-05-03,2025-03-01 06:31:53,32.52117044240735,22596.708550036576,Silver,Electronics,True,True
+Richard,Fitzgerald,millercourtney@example.org,(771)809-5311,1989-05-05,Japan,2021-12-31,2025-04-10 15:47:14,55.09705509623332,12985.880284999394,Gold,Electronics,True,True
+Gabriel,Browning,timothyodom@example.org,001-486-475-6112x6058,1992-07-02,Angola,2023-01-09,2025-04-22 08:03:47,97.07680354710483,-1985.1378291108606,Silver,Books,False,True
+Rebecca,Abbott,lindataylor@example.org,808-398-2892x0096,1973-05-13,Mongolia,2023-05-08,2024-12-20 03:30:23,54.91448976714589,42259.73376501809,Gold,Clothing,False,False
+Derrick,Sanchez,oliverjennifer@example.com,(862)266-7065x8158,1945-05-28,Korea,2025-02-09,2025-08-30 07:35:42,88.57937373676958,26298.053749329232,Silver,Food & Beverage,True,False
+Tanya,Jones,bakersandra@example.org,(902)570-0171x775,1995-12-10,Solomon Islands,2024-07-30,2025-02-16 09:00:08,17.22157467882853,25693.542296406173,Gold,Clothing,False,True
+Daniel,Rivera,csmith@example.org,(550)392-7260x98383,1944-09-29,Greenland,2023-10-08,2025-06-09 07:32:11,3.160218064765335,16247.280706161624,Platinum,Automotive,False,False
+Juan,Anderson,zallen@example.com,+1-592-427-4444x120,1949-10-15,Mozambique,2025-01-25,2025-07-08 08:36:05,44.89672408477621,28956.777872014365,Bronze,Sports,True,False
+Lisa,Walker,byork@example.com,741-753-8669,1990-04-21,Italy,2022-03-15,2024-12-26 09:37:04,44.111661919460104,29040.804656076027,Platinum,Clothing,False,False
+Richard,Dillon,michaelfuller@example.org,001-279-704-7083,1959-06-29,Reunion,2020-09-25,2024-12-07 07:05:00,84.19670122968249,27977.41472476715,Bronze,Clothing,False,False
+Claire,Dickerson,richardrobinson@example.net,502-877-8434x63663,1958-01-28,Brazil,2021-05-16,2024-11-22 04:14:07,91.51698705172319,20760.731909161645,Platinum,Sports,False,False
+Elizabeth,Nguyen,davidmccormick@example.org,8252344125,1995-09-29,Guyana,2025-03-22,2025-04-05 13:53:05,27.032180170933703,6913.807166667004,Gold,Clothing,False,False
+Brad,Jacobson,edwardscindy@example.net,555.607.1235x28213,2005-03-01,Sri Lanka,2020-11-02,2025-03-29 13:07:47,48.13557605960908,33400.07901181832,Gold,Electronics,True,True
+Andrew,Bond,hatfieldjennifer@example.net,284-891-4699x24766,1953-10-06,Reunion,2021-06-25,2025-02-08 14:19:02,25.542944692090213,35107.48469501145,Platinum,Electronics,True,False
+Terri,Leblanc,dmercer@example.com,001-823-279-3696x9640,1953-09-05,Slovakia (Slovak Republic),2022-10-13,2025-05-18 02:40:51,56.70136837719582,14357.157935905434,Platinum,Home & Garden,False,False
+Mariah,Mccarthy,fbell@example.net,569.796.3891x69806,1963-08-10,Turks and Caicos Islands,2025-01-23,2025-07-07 03:10:56,57.92266062370462,36461.40519678216,Platinum,Automotive,False,True
+Courtney,Higgins,reedchad@example.com,001-777-496-5147,1957-01-17,Iceland,2021-10-07,2025-08-23 00:35:29,80.2571325045034,16514.02731764627,Gold,Food & Beverage,True,True
+Kevin,Galvan,carolynellis@example.org,001-928-753-3537,1965-07-11,French Guiana,2024-11-26,2025-05-02 14:33:15,29.69056746584715,241.67254973717195,Silver,Home & Garden,False,False
+Bradley,Turner,bartlettcarl@example.org,252.944.3780x02345,1962-09-18,United Arab Emirates,2021-06-04,2025-01-12 13:09:49,50.67210193105585,7461.250886244019,Platinum,Beauty,True,False
+Richard,Gonzalez,steven93@example.com,327-523-3937x17409,1951-07-07,Bolivia,2025-01-11,2024-11-16 07:27:11,73.23778227928398,18340.719423485814,Gold,Food & Beverage,True,False
+Angela,Ballard,william31@example.org,615-677-9276x099,1948-04-13,Finland,2022-04-26,2025-07-29 17:04:36,32.69451050669105,13600.615477851676,Gold,Home & Garden,False,False
+Benjamin,Barnes,duanecarter@example.com,(279)260-9844x522,1960-03-13,Brazil,2025-07-21,2024-11-24 09:33:54,95.43350732564889,32841.86244047267,Gold,Home & Garden,False,True
+Natalie,French,odonnellamber@example.com,(350)834-1031x43375,1951-11-03,Cambodia,2023-05-08,2024-10-19 19:00:14,49.07714792207417,18392.45764862833,Gold,Automotive,True,True
+Vicki,Moss,pespinoza@example.net,001-214-267-7426x344,1966-06-26,Tunisia,2023-02-25,2024-12-27 16:04:28,56.87894467828832,12754.376030836269,Platinum,Electronics,True,False
+Charles,Brown,farleymatthew@example.org,631.356.8984x83399,1985-11-28,Lebanon,2024-12-25,2025-04-30 05:40:08,58.76213490221631,30542.96033518644,Gold,Beauty,True,False
+Rita,Stevens,aimee22@example.org,394-339-7936x488,2006-01-10,Bermuda,2024-08-25,2025-01-19 06:25:58,68.41859534998186,6423.18418496921,Silver,Sports,True,True
+Barbara,Ortiz,velezsophia@example.org,438-288-5845,1955-08-20,Equatorial Guinea,2022-05-21,2025-02-09 23:09:43,47.160487822725386,24149.48462461525,Gold,Beauty,False,True
+Kyle,Thompson,williamjohnson@example.org,536-351-5568,1966-07-20,South Africa,2024-02-20,2025-05-30 23:52:14,40.74367228348189,22660.628785734632,Platinum,Home & Garden,False,False
+Amy,Parks,morgan28@example.com,001-970-774-4330,2006-10-05,Senegal,2022-08-14,2025-07-31 07:09:51,63.9639055291744,34649.17878221029,Gold,Books,False,True
+Nichole,Torres,pleach@example.org,716.875.3971x05350,1946-08-23,India,2024-02-24,2025-07-21 08:35:20,5.8730559592383,30861.63290627861,Platinum,Home & Garden,False,True
+Samantha,Chapman,lozanojudy@example.org,223-500-0645x18107,1951-09-28,Philippines,2022-05-30,2025-08-28 01:46:51,80.0261008298723,25598.75825397549,Platinum,Food & Beverage,True,True
+Whitney,Becker,dylancamacho@example.com,(605)977-6588x6950,1996-02-28,United States Virgin Islands,2023-02-05,2025-02-27 09:56:12,12.888644955584255,24031.949140477267,Platinum,Electronics,False,True
+Katie,Gray,sarahhayes@example.com,470.400.9041x06018,1969-08-29,Faroe Islands,2024-04-17,2025-07-14 09:48:51,34.600433200014834,21161.0034454939,Gold,Home & Garden,True,False
+Jose,King,qwright@example.com,458.436.4630,1960-01-11,Ukraine,2025-07-17,2025-01-20 23:56:23,71.70242278170025,50666.845506286794,Platinum,Automotive,False,False
+Peggy,Delgado,charlesmiller@example.net,001-293-935-7956x6893,1945-03-19,Jordan,2023-04-16,2024-11-26 00:58:40,82.3265508406787,4747.80297431151,Platinum,Food & Beverage,True,False
+Misty,Smith,bryannicole@example.com,674.326.4825,1957-06-18,Greenland,2025-01-19,2024-12-30 07:38:37,64.52398863733376,18093.536124123362,Bronze,Sports,False,True
+Ellen,Pope,jensensarah@example.org,401-354-0753,1997-01-27,Estonia,2023-09-05,2025-02-08 12:55:42,94.90023603364536,47151.84163972619,Gold,Books,True,True
+Zachary,Jenkins,jessicascott@example.com,(705)818-5064,1988-11-21,Zambia,2021-11-28,2025-05-24 09:06:55,64.59123818587739,19198.7079829363,Platinum,Food & Beverage,True,False
+Heather,White,rfrank@example.com,001-329-446-5886x2821,1952-06-02,Indonesia,2025-07-05,2025-08-02 23:06:35,51.8477720126891,29007.181929388684,Bronze,Beauty,False,False
+Benjamin,Carter,xblack@example.net,870-445-2086x0121,1982-09-15,Uzbekistan,2025-07-27,2025-02-10 12:17:32,15.092047040210394,40727.84357201441,Platinum,Food & Beverage,True,False
+Bonnie,Anderson,dicksonrachel@example.com,517-851-1252,1991-07-13,Christmas Island,2024-10-28,2024-10-16 23:06:24,87.49085253228014,50306.55877362142,Gold,Automotive,True,False
+Juan,Moore,james29@example.org,(972)282-2124,1988-01-19,Jordan,2021-11-11,2025-07-28 18:50:06,26.907298887610757,44751.08011075445,Platinum,Home & Garden,False,True
+Patricia,Love,ashleyortiz@example.com,6232270976,1989-06-23,Saint Martin,2024-05-23,2025-01-03 23:09:49,80.35162156894724,2122.634242998716,Gold,Clothing,False,True
+Nicholas,Schroeder,larry80@example.net,+1-455-976-5276,1986-07-29,Iceland,2025-09-05,2025-09-06 20:24:23,90.31708237723157,15322.032699555504,Bronze,Sports,True,False
+Daniel,Townsend,wkelly@example.org,001-562-826-4766x5973,1957-04-30,Puerto Rico,2022-11-06,2024-11-08 07:31:06,17.709792656209427,16886.964203221236,Gold,Clothing,False,True
+Tracy,Hamilton,chasecollier@example.org,458.624.6091,1992-08-16,Gabon,2023-02-15,2025-07-17 12:52:06,69.8656397074111,22556.054051256546,Gold,Books,True,False
+Angela,Cooper,ckeith@example.org,001-648-277-6037x442,1979-03-17,Algeria,2022-02-24,2024-09-23 11:48:45,2.805020288437308,41837.85088843343,Silver,Clothing,False,True
+Laura,Conrad,jessica30@example.com,(876)740-6738x54994,1945-09-11,Algeria,2025-01-06,2025-09-10 00:25:05,50.29466931607709,34913.99222161575,Silver,Sports,True,False
+Veronica,Cannon,deborah92@example.com,723-394-2226,1989-10-18,Thailand,2020-10-07,2024-10-31 22:01:02,64.09456353463278,42618.953738872864,Silver,Sports,True,False
+Brittany,Hood,ricemelvin@example.com,257-387-1442,1990-05-12,Haiti,2020-09-25,2025-05-25 22:55:13,76.49335238534348,45638.11768833543,Gold,Books,True,True
+Julie,Powell,russellmichael@example.net,(236)463-9518,1951-08-21,Philippines,2023-04-24,2025-03-07 00:54:19,17.71936112539878,45809.23121307364,Bronze,Beauty,True,False
+Rebecca,Cox,brianmarquez@example.org,305.888.1764,1996-09-22,Liechtenstein,2024-01-31,2025-03-03 07:39:04,70.22134395706284,34686.15373094627,Silver,Clothing,True,False
+Natasha,Smith,leachkaitlin@example.net,2615021480,1953-11-08,Tonga,2021-11-30,2024-10-29 14:31:30,74.18243723041694,26297.13284216858,Silver,Food & Beverage,False,False
+John,Lee,stephenmcmillan@example.org,(347)603-8696x262,1992-06-21,Chad,2022-12-07,2024-11-07 21:54:38,87.79415726172968,18910.173124496858,Silver,Books,False,False
+Nichole,Carroll,hgonzales@example.com,421-855-2124x69349,1993-06-23,Cyprus,2024-11-04,2024-10-31 13:44:53,47.14266011881002,32792.94837729571,Gold,Books,False,True
+Gina,Ball,matthewgordon@example.org,888.910.7383x37934,1972-05-04,Zambia,2024-12-06,2025-01-26 03:55:45,92.78345198618915,35057.34386648596,Silver,Beauty,False,True
+Sandra,Chase,lisa48@example.org,(672)333-3496x455,1959-05-17,Russian Federation,2021-11-17,2025-01-06 18:24:04,11.915410137137004,40044.76503796468,Platinum,Food & Beverage,True,True
+Amy,Stokes,samuelwagner@example.org,518.214.9793,2005-09-27,Japan,2024-01-08,2025-03-08 05:18:47,65.029198297902,18697.59228300669,Gold,Automotive,False,True
+Amanda,Briggs,beth37@example.com,(823)377-2935x230,1949-03-04,Italy,2025-04-12,2025-03-17 09:44:06,4.6919680237451455,3399.7163628753115,Bronze,Beauty,True,False
+Matthew,Miller,trevinobenjamin@example.net,+1-447-512-5542x29149,2001-04-30,British Indian Ocean Territory (Chagos Archipelago),2021-02-01,2024-10-01 12:07:19,30.293658104165704,1773.4815870436719,Bronze,Beauty,False,True
+Tiffany,Carter,millermark@example.org,001-884-301-7880x5980,1989-08-17,Uruguay,2024-06-18,2025-04-01 02:51:51,-1.018689213854467,39392.74664408338,Bronze,Beauty,True,True
+Kimberly,Kidd,michaelstephens@example.org,(829)554-7123,2000-09-13,Solomon Islands,2024-11-29,2024-09-30 10:25:29,67.44024190805997,27236.783511705766,Gold,Sports,False,True
+Theresa,Griffin,umartinez@example.net,+1-729-789-9690x34324,1959-10-24,Brunei Darussalam,2023-12-18,2025-07-07 08:28:23,73.37604210662847,40469.907284133966,Gold,Books,True,False
+Bonnie,Johnson,ronald53@example.com,001-782-273-4880,1952-08-24,Bhutan,2025-02-11,2025-05-05 12:30:08,36.10317782923619,15662.315488296723,Gold,Food & Beverage,False,True
+Katie,Anderson,ericclark@example.net,5759641765,2001-08-27,El Salvador,2022-03-28,2025-02-15 18:27:16,84.90603173046604,40237.58619403457,Platinum,Books,True,False
+William,Booker,hollandmatthew@example.org,(856)313-5225x75250,2002-08-31,Liechtenstein,2021-06-30,2025-08-16 09:51:59,84.12939661675054,21686.486421581838,Bronze,Clothing,False,False
+Paul,Howard,mary35@example.com,001-544-670-7703x891,1981-09-22,Ghana,2022-04-19,2025-02-07 23:48:50,13.011254707504225,32499.109007044535,Bronze,Books,False,False
+Gregory,Harding,griffinstephanie@example.org,676.352.5571x980,1979-06-24,Peru,2021-06-30,2025-07-27 13:06:36,93.92350624900686,9689.958574405617,Gold,Food & Beverage,True,False
+Melanie,Hanson,kimberly80@example.net,+1-442-755-2488,1971-05-05,Niue,2020-10-31,2025-08-27 12:26:24,14.935871957728072,41684.888060520076,Platinum,Clothing,True,False
+Alice,Moore,taylorpham@example.com,(737)442-7983x51578,1964-02-27,Austria,2021-03-02,2024-12-19 13:01:37,36.16920515194868,42068.523238289534,Gold,Electronics,True,True
+Pamela,Miller,harrisaustin@example.org,001-919-652-2322,1955-04-08,Belgium,2025-05-30,2025-05-16 07:02:47,18.550157926342806,19706.68991459061,Silver,Home & Garden,False,False
+Carlos,Williams,eroberson@example.org,925.866.5603x810,1976-05-10,Namibia,2023-02-21,2024-10-20 23:19:36,13.674892746070062,45727.07561855564,Platinum,Automotive,True,False
+Sara,Wong,penny42@example.org,(803)679-9525x9867,1972-05-24,Guernsey,2021-11-14,2024-09-23 09:28:02,88.71556855493219,20749.063481309844,Bronze,Beauty,False,False
+Michael,Hurst,xnovak@example.org,989-888-5218x2093,2005-09-23,Zimbabwe,2021-07-01,2025-04-11 19:31:05,94.34618689970598,33649.57608420573,Silver,Electronics,False,True
+Denise,Martinez,bgarrison@example.com,487-238-3079,1969-04-30,Switzerland,2020-09-25,2024-10-30 14:33:43,68.53745964097219,31418.807852451173,Bronze,Home & Garden,False,False
+Willie,Johnson,simonjohn@example.com,690-645-7225,1963-08-26,Brazil,2023-01-22,2025-05-27 15:50:14,29.733902234509127,41936.09809194713,Silver,Beauty,True,False
+Michael,Warren,wdennis@example.com,(703)572-7525,1984-05-05,New Caledonia,2021-06-19,2025-05-11 13:05:58,16.315061145193855,15878.296658176148,Silver,Beauty,True,False
+Melinda,Lee,juliawoodard@example.com,001-815-245-6047x923,1983-07-22,Sweden,2024-06-26,2024-11-11 02:09:42,12.427293981844993,44468.25378033422,Silver,Electronics,False,True
+Mitchell,Mays,msmith@example.com,614-609-5594x105,1962-01-22,Iraq,2024-08-12,2025-05-20 08:46:25,21.727240631622312,6112.351592604339,Silver,Automotive,False,False
+Larry,Dominguez,karen60@example.net,001-651-714-2284x96259,1988-08-02,Congo,2024-04-17,2025-03-11 07:34:56,37.102303597152094,44111.448194189834,Platinum,Electronics,True,True
+Anthony,Jacobs,jasontownsend@example.com,+1-801-676-2568x335,1978-07-03,United Kingdom,2023-06-29,2024-10-25 00:50:22,64.7473255605472,50688.88499249234,Silver,Home & Garden,False,False
+Kelly,Burnett,daymichael@example.org,+1-390-536-9806x28099,1991-09-16,Tokelau,2021-05-31,2025-07-08 17:54:48,71.74087849146187,35830.89277057959,Gold,Food & Beverage,False,True
+Gregory,Jackson,stephanie05@example.com,827-712-7343x134,1951-07-23,Italy,2024-07-26,2024-11-13 11:27:24,-0.12567235119156495,8.931836996746483,Platinum,Clothing,False,False
+Lindsay,Smith,daniel10@example.net,727-957-6386x0535,2006-06-05,Algeria,2023-05-04,2024-11-09 23:31:54,51.96208330692076,17333.8324979515,Silver,Sports,False,True
+Lisa,West,samanthahubbard@example.net,(726)496-5868,1956-12-04,Maldives,2025-03-01,2025-01-17 19:53:08,78.06203934901842,5356.282317965107,Gold,Home & Garden,False,True
+James,Powers,danahill@example.org,932.739.1869x150,1965-03-07,Swaziland,2022-10-11,2025-05-05 21:09:24,30.931890460433184,22477.466832101374,Silver,Books,False,False
+Nancy,Costa,ubrown@example.net,363-983-5825x161,1985-01-09,Mauritius,2025-06-16,2025-04-22 17:47:52,93.13241257911275,36013.13148125695,Bronze,Electronics,False,True
+Michael,Sims,lindsay83@example.com,(283)366-6276x6508,1962-01-13,Pakistan,2021-10-30,2025-04-29 18:12:17,31.990094574388227,50998.63519900363,Silver,Home & Garden,True,False
+William,Johnson,joshuaspencer@example.com,713.876.4072,2002-08-25,South Georgia and the South Sandwich Islands,2021-03-31,2024-12-21 08:48:22,51.354963354105,44749.682211018335,Silver,Clothing,True,False
+Stephanie,Berry,wanda14@example.net,+1-258-206-2337x7760,1987-06-15,Mauritius,2021-12-22,2025-01-02 07:25:00,99.13972033378025,21998.985012347213,Silver,Books,True,False
+Elizabeth,Kelly,ynicholson@example.net,(483)309-2276,1988-02-03,Andorra,2025-03-08,2025-03-30 07:21:22,7.482249926048498,4827.299769218485,Silver,Beauty,False,False
+Kathryn,Bartlett,sthomas@example.org,303.676.2302x055,2005-10-03,Italy,2023-11-07,2024-12-14 13:44:00,31.844491227605793,43306.461046096156,Gold,Books,True,True
+Sheryl,Sanchez,keithsimon@example.org,985.682.3106,1948-09-28,Israel,2023-11-04,2025-02-24 01:25:24,90.18149517530227,23905.34968242561,Platinum,Automotive,False,True
+Megan,Ochoa,howardanna@example.com,(875)302-6141x893,1998-08-07,Suriname,2023-04-02,2025-08-25 18:01:42,83.78211962368367,45829.9624585396,Bronze,Home & Garden,True,True
+David,Kent,rosarioemily@example.com,570-707-8228x6389,1980-09-09,Bangladesh,2025-05-24,2024-12-21 22:47:24,28.196306075007886,12908.729416376797,Gold,Books,False,True
+Kelly,Fowler,amylee@example.com,461.450.7970,1970-10-21,Bouvet Island (Bouvetoya),2024-11-11,2025-02-25 15:56:21,11.517817694841124,42480.35512497627,Gold,Automotive,True,True
+John,Walker,barbaraprice@example.net,436.245.9477,1997-02-25,Brazil,2021-07-04,2025-02-19 10:53:17,86.53558396291996,33853.85547924837,Gold,Books,True,False
+David,Kerr,luiswhitehead@example.net,918.766.7476,1988-10-25,China,2021-02-28,2025-07-07 18:00:25,22.21901403002162,30120.05595166497,Gold,Books,True,False
+Brent,Phelps,holly00@example.org,+1-841-210-3861x3057,1978-02-14,Mozambique,2023-02-06,2025-08-23 10:16:56,98.11318365775846,44593.21381061898,Platinum,Home & Garden,False,False
+Paul,Bernard,ericasmith@example.org,2036523135,1944-11-30,Tonga,2024-02-24,2025-08-15 02:31:07,27.57256943648925,21185.016366862314,Bronze,Electronics,False,True
+John,Moss,glenntravis@example.org,858.945.4219x66839,1960-09-20,Ecuador,2025-05-28,2025-08-06 20:48:02,53.6239668841127,35744.36133386756,Silver,Food & Beverage,False,True
+Rachel,Snow,sean97@example.com,264-567-7471x486,1955-10-12,Dominica,2024-01-13,2025-06-23 04:07:09,10.939892211952975,37628.23448028721,Platinum,Books,True,False
+Christopher,Lee,smithbrandon@example.org,653-603-9038x405,2005-04-24,Montserrat,2025-04-21,2024-10-01 00:48:12,59.64291496269919,15523.766991392142,Gold,Home & Garden,False,False
+James,Downs,manderson@example.net,001-487-682-8554x256,1972-04-16,Honduras,2022-07-18,2025-04-19 20:18:53,7.986999472382541,49231.53572852489,Gold,Home & Garden,False,True
+Gina,Turner,jhoover@example.net,+1-857-423-7107,1973-10-06,Saint Lucia,2025-05-24,2025-04-01 04:05:59,95.94820354485637,14851.505230744218,Bronze,Electronics,True,False
+Catherine,Thompson,carrie14@example.org,001-292-569-2780x544,1963-05-26,Rwanda,2020-12-03,2024-12-28 19:47:19,-0.03383331111649479,20079.606499012607,Platinum,Home & Garden,False,True
+Eric,Preston,christopheradams@example.net,9846672399,2001-01-10,Russian Federation,2025-01-12,2025-08-31 15:14:29,71.02732608204803,15079.536762184682,Platinum,Sports,False,True
+Michael,Johnson,fdaniel@example.com,001-473-467-5625x45521,1995-06-13,Nicaragua,2024-12-23,2024-11-26 07:32:54,41.72714226201113,13971.696262083095,Silver,Clothing,False,True
+Elizabeth,Jones,kristenrobinson@example.net,001-261-215-5501,1988-06-20,Madagascar,2021-03-25,2025-01-06 22:47:46,0.9271778058144824,22117.056817646364,Silver,Food & Beverage,False,False
+William,Williams,joshua47@example.net,771-792-4281x83531,1957-06-03,Peru,2021-10-04,2025-07-22 19:56:32,53.236573352482075,41095.29090117478,Bronze,Home & Garden,False,True
+Heather,Morgan,emily09@example.org,+1-900-349-1767,1956-12-16,Cook Islands,2023-03-14,2025-08-16 19:54:34,21.950903991766374,27499.42783005527,Gold,Automotive,True,True
+Kurt,Mayer,angela15@example.net,+1-371-563-0575x280,1996-09-24,Oman,2021-06-01,2025-09-10 00:49:38,68.25884442068588,8131.198681777109,Bronze,Sports,False,True
+Katrina,Gonzalez,ashleywalls@example.com,(671)337-3350x308,1996-05-20,Armenia,2024-08-15,2025-07-31 16:13:01,-0.6619776648028373,46559.57551681813,Platinum,Sports,True,True
+Mary,Lewis,todd80@example.com,(994)515-3145x381,1970-08-05,Saint Helena,2022-03-29,2025-09-05 10:12:54,38.49194744384048,41524.57307721165,Gold,Beauty,False,True
+James,Rich,joshuaclay@example.org,754-874-3302x417,1994-09-11,Trinidad and Tobago,2024-02-22,2025-06-23 05:37:31,73.16319485371044,11996.36011663348,Bronze,Home & Garden,True,False
+Gregory,Harris,spencerheather@example.com,9296301627,1972-11-11,Argentina,2025-06-14,2024-10-24 19:28:16,77.2319081883204,30754.26447176484,Silver,Automotive,False,False
+Dale,Chavez,johnesparza@example.net,805-474-1074x26479,1981-05-26,Nepal,2023-08-05,2025-04-20 12:20:45,27.391329886868704,33286.80615198531,Gold,Sports,False,True
+Paul,Richard,iparsons@example.com,875.857.3901,1946-02-26,Iceland,2025-02-07,2025-04-18 21:11:42,92.08504563973277,12471.144891612303,Silver,Home & Garden,False,False
+Gina,Thomas,amanda87@example.org,+1-446-791-0285,1946-01-31,Morocco,2022-10-18,2025-01-05 18:10:37,24.806382703425754,27230.03049885994,Silver,Electronics,False,True
+Wanda,Wright,michaelcox@example.org,792-429-9685x9585,1971-11-27,Kiribati,2023-02-28,2025-08-13 14:43:16,-0.1618785602438786,4265.720260256005,Platinum,Home & Garden,True,False
+Bonnie,Hicks,stephen69@example.org,001-375-242-4443x61656,1974-05-20,Haiti,2022-09-12,2025-03-18 19:15:20,98.17169009128254,48073.8715194965,Gold,Books,True,False
+Melissa,Griffin,johnsondaniel@example.com,404.432.5492,1953-01-29,Guadeloupe,2024-10-27,2024-11-26 21:36:00,87.95878078230389,6919.067411924521,Silver,Clothing,False,False
+Taylor,Kennedy,kaylavega@example.com,790.299.7096x23651,1978-04-26,Oman,2023-11-03,2024-10-21 14:24:25,7.8383122258529605,1098.7223371943155,Bronze,Automotive,False,False
+Sonya,Rodriguez,dcarter@example.org,+1-396-741-4781x1316,1970-08-16,Saint Helena,2023-12-17,2025-01-15 20:52:48,84.22366155940267,24948.579774121747,Gold,Electronics,False,False
+Brian,Roberts,nroth@example.org,(390)920-6717x75057,2003-01-07,British Indian Ocean Territory (Chagos Archipelago),2022-05-18,2024-11-02 17:53:56,10.664198218430268,1634.220821819814,Gold,Home & Garden,False,True
+Cole,Anderson,jdean@example.org,001-554-257-4617,1978-02-27,Costa Rica,2021-11-26,2025-02-17 15:25:59,89.52493729360113,6356.178597153783,Platinum,Electronics,True,True
+Tony,Miller,antonio40@example.net,(439)684-1215x95002,1964-05-19,Zimbabwe,2022-01-12,2025-08-21 20:09:39,41.428115790732505,603.2961025381132,Silver,Home & Garden,True,False
+Terrance,Macias,jeffreymoyer@example.net,001-573-573-3456x9576,1981-07-10,Bermuda,2020-12-15,2025-04-24 15:11:37,64.12615294454913,2855.28995228465,Bronze,Electronics,False,False
+George,Cooper,wallacedaniel@example.org,(453)371-8779,1983-01-14,Marshall Islands,2023-07-08,2024-09-26 06:31:29,64.66951986397581,23764.999998693143,Platinum,Automotive,True,True
+Devin,Miller,khudson@example.org,235-470-7003,1974-10-16,Afghanistan,2023-09-16,2025-07-22 09:52:56,7.291726283898255,17668.26240535164,Bronze,Beauty,True,True
+Paula,Solis,hbanks@example.org,001-710-700-5329x904,1969-12-02,Jordan,2024-02-06,2025-03-25 07:49:23,17.125553717585444,38367.8602801988,Silver,Beauty,False,False
+Timothy,Ayala,joann67@example.net,001-664-374-3353x952,1984-08-06,Vanuatu,2020-11-30,2025-02-23 08:52:44,57.65204159680366,31891.195019773513,Silver,Beauty,False,True
+Theresa,Hall,marksmith@example.net,8248788586,1990-02-11,Tonga,2021-08-24,2025-01-15 18:09:02,8.187668342201714,24770.637767967397,Platinum,Clothing,False,True
+Thomas,Anderson,jeffreycooper@example.net,+1-285-377-0230,1951-06-28,Jamaica,2021-12-09,2025-03-11 23:50:03,41.52608967503009,1415.4992058415837,Platinum,Home & Garden,True,True
+Jenna,Pineda,swatson@example.org,001-713-875-1691x9924,1995-11-01,Sierra Leone,2020-10-22,2025-03-09 07:34:30,8.968803986542945,38160.216946452565,Bronze,Clothing,True,True
+Michelle,Lucero,feliciacurtis@example.org,951-511-9915x33503,1944-10-31,Monaco,2022-03-01,2024-12-27 11:55:14,59.97310763505128,32355.302123275804,Bronze,Food & Beverage,True,False
+John,Peterson,shawmelissa@example.org,999-269-4642x049,1957-10-29,Liberia,2024-04-24,2025-06-17 15:55:54,49.32008293892615,10765.139881284815,Silver,Home & Garden,True,True
+William,Combs,jacquelinesharp@example.com,001-770-610-4344x47392,1945-11-10,Niger,2021-09-13,2025-04-26 14:38:09,69.74767774760122,33464.20175991717,Platinum,Home & Garden,True,True
+Jennifer,Warner,jjohnson@example.net,462-451-6335,1970-07-09,Luxembourg,2025-05-27,2025-06-15 15:03:05,49.26009508516757,29131.3967632135,Gold,Clothing,False,False
+Jose,Green,heathercurry@example.com,6039917136,1990-07-12,Burkina Faso,2023-08-20,2025-07-31 15:23:00,1.472731252729593,45558.82039798424,Gold,Automotive,False,False
+Sheri,Harrington,nclark@example.net,(402)615-3756,1998-03-28,North Macedonia,2023-04-14,2024-09-18 01:53:09,31.201308095910658,25102.760223053123,Silver,Clothing,True,True
+Walter,Hodge,cassandra07@example.org,001-362-763-0037x0242,1983-09-12,France,2023-01-14,2024-10-12 22:08:49,90.68530133623737,37227.84956657167,Platinum,Beauty,True,True
+David,Martinez,pennyfarrell@example.net,365.580.6793,1968-04-22,United Kingdom,2021-06-27,2025-06-14 06:54:24,60.50208184056307,26634.812733838815,Silver,Automotive,False,False
+Jacob,Reese,alexander45@example.com,770.413.8708x1545,1954-08-07,United Arab Emirates,2025-01-07,2025-09-05 18:56:36,17.45101780308796,47471.104104895785,Gold,Home & Garden,False,False
+Jane,Foster,bvelasquez@example.net,784-367-6250x117,1959-11-03,Netherlands,2022-01-06,2025-08-07 17:15:10,16.863512646095472,46491.27513516136,Silver,Beauty,False,False
+Dana,Fletcher,sarah27@example.org,870.241.5157x68131,1999-02-02,Cocos (Keeling) Islands,2020-11-10,2025-03-07 17:53:17,34.051733524055564,31358.73460828086,Platinum,Sports,True,True
+Jose,Smith,acostasharon@example.net,933-833-0496x2135,2006-10-31,Algeria,2023-03-17,2024-09-18 18:12:27,58.92178054512034,27283.624680934925,Gold,Automotive,False,False
+Jennifer,Stewart,burnsadam@example.org,+1-697-563-8119x54565,1963-06-02,New Caledonia,2022-10-04,2025-03-16 22:12:19,68.94537293931931,3050.1728287013716,Platinum,Electronics,True,True
+Kathryn,Smith,judy17@example.org,(898)222-0640,1948-12-14,Puerto Rico,2023-03-02,2025-01-30 04:26:25,36.76704406604186,46013.75444338224,Silver,Books,True,False
+Leah,Pena,anne61@example.org,001-489-589-7738x479,1953-07-28,Saint Barthelemy,2022-11-27,2025-01-09 20:11:53,81.09796737795757,25277.158947394208,Gold,Electronics,True,True
+Brian,Fuentes,amandamaldonado@example.net,001-265-987-1692x9395,1953-05-31,French Southern Territories,2024-06-14,2025-05-26 13:48:58,17.300712945780855,42351.133417836136,Gold,Automotive,True,False
+Joshua,Morton,tonya00@example.org,(517)680-1786,1972-06-12,New Caledonia,2024-03-03,2025-05-10 06:37:41,77.1268207463098,17649.74424177563,Bronze,Books,True,False
+Roy,Tran,ohawkins@example.org,492-707-2271,1989-05-23,Japan,2023-06-25,2024-11-28 10:04:18,1.0233309170765819,49614.36777126342,Gold,Electronics,True,False
+Lori,Cole,michaelsaunders@example.com,+1-627-856-6140x61247,2001-03-03,Bolivia,2025-01-31,2025-02-13 12:43:04,25.14923125215291,25920.44004055971,Silver,Automotive,True,False
+Stacey,Hernandez,rebeccasmith@example.com,931-861-0257,1996-02-01,Botswana,2021-12-13,2025-03-16 17:50:36,36.29504400879122,45804.35987978803,Bronze,Sports,False,False
+Andrea,Smith,bstanley@example.com,(965)480-6101x1028,1985-01-06,New Zealand,2022-01-31,2025-02-15 13:16:50,48.47632812645977,16265.042709402638,Bronze,Clothing,True,False
+Calvin,Bauer,johnsondawn@example.org,944-248-0049x316,1985-03-29,Norfolk Island,2024-12-01,2025-01-31 12:35:41,16.09697689972691,11621.860224532664,Bronze,Sports,False,True
+Mark,Pratt,mackamanda@example.net,+1-754-588-5375x5941,1957-06-08,Wallis and Futuna,2024-02-12,2025-05-08 07:29:21,7.415901913253695,47084.03299563703,Bronze,Home & Garden,False,True
+Amanda,Sanchez,andersonjeremy@example.org,(417)718-2515,1990-02-21,Portugal,2022-07-03,2024-09-25 03:05:41,60.90743015077587,21225.005139766967,Platinum,Sports,False,True
+Christine,Duarte,janet85@example.org,+1-964-312-4464x92715,1980-05-03,Guernsey,2025-07-26,2024-11-06 23:46:38,23.037229463305785,43202.54801602705,Silver,Home & Garden,True,False
+Emily,Barry,moorecory@example.com,(894)655-8830x46228,2002-08-18,Nauru,2024-12-16,2025-02-19 17:34:54,7.639635368123601,9649.704938499162,Gold,Automotive,False,True
+Kyle,Choi,samantha46@example.com,417.559.0050x95388,1965-10-02,Barbados,2024-06-21,2025-01-05 14:41:36,5.965804251102334,10739.091263441553,Platinum,Books,False,False
+Christian,Hansen,ybishop@example.com,313.525.8601,1960-11-27,Wallis and Futuna,2023-10-18,2024-11-10 10:28:55,3.0624830775856147,19530.502135020455,Bronze,Electronics,False,True
+Ricky,Oliver,fowlerdenise@example.net,590.550.2425x8789,1999-01-25,United States Virgin Islands,2022-09-02,2025-05-14 06:29:53,49.27299357009013,5907.297420487994,Bronze,Automotive,False,True
+Jessica,Holloway,marquezmichael@example.org,6449927919,1973-01-12,Iran,2025-05-05,2024-12-31 14:40:40,6.281812959313077,44963.984331673564,Bronze,Clothing,False,True
+Mitchell,Blanchard,nicholas16@example.net,943-884-9848,1998-01-26,Palau,2022-12-02,2025-04-13 13:52:27,18.899261032587095,-605.9718286988561,Gold,Sports,True,True
+Lisa,Olson,lrichard@example.net,599.342.5857x491,1971-10-13,Liberia,2021-06-02,2024-10-29 07:25:35,56.017712098724814,933.1026762291098,Platinum,Automotive,False,False
+Belinda,Dorsey,phill@example.net,001-618-896-3081x9846,1988-06-21,Kenya,2023-11-27,2024-10-04 18:17:42,37.39226058507921,24176.313026014108,Gold,Food & Beverage,False,True
+Tammy,Craig,markwilliams@example.org,587-469-1922x7677,2004-08-19,Cayman Islands,2023-10-26,2024-11-14 12:02:20,44.14787054716851,36324.96088961255,Silver,Food & Beverage,False,True
+Justin,Johnson,randy79@example.org,264.496.6916,1969-01-28,Saint Barthelemy,2021-03-13,2024-12-23 02:35:02,75.04892275142757,4074.297549514224,Silver,Sports,False,False
+Robin,Carroll,stephengreen@example.net,+1-523-377-2049x823,1946-03-18,Mongolia,2021-06-19,2025-06-30 11:39:58,17.821832448428523,40106.661231992286,Bronze,Books,True,False
+Stephanie,Reynolds,chelseyrubio@example.net,9238831549,1997-10-30,Mali,2024-11-25,2024-11-30 01:23:53,2.2966119533756597,46514.16839534825,Silver,Automotive,True,False
+Willie,Gray,greenamy@example.net,(850)346-3076x882,1987-09-15,Bouvet Island (Bouvetoya),2022-07-29,2024-10-18 22:20:10,21.0980495929734,40315.675126873924,Platinum,Sports,True,False
+Christina,Davis,pramos@example.net,249.268.1456x4843,1985-01-27,Mexico,2021-04-09,2025-07-04 16:35:41,42.7326993999796,25864.187221987544,Bronze,Sports,False,True
+Timothy,Hill,rbarnes@example.org,+1-722-475-3582x6443,1955-12-12,Cyprus,2021-01-09,2024-09-24 04:05:38,97.93757718931212,30352.92381902374,Gold,Sports,False,True
+Terri,Lynch,morrisfernando@example.net,+1-392-318-8624x1941,1967-08-30,El Salvador,2022-09-01,2025-03-16 11:19:51,74.27565372046385,39205.14505698153,Bronze,Food & Beverage,True,True
+Kristi,Marshall,eric44@example.org,(336)390-9666,2005-11-13,Swaziland,2025-04-11,2024-10-30 11:15:02,57.51854663558662,18872.30069297043,Silver,Sports,False,True
+Derek,Myers,wjohnson@example.net,369-245-8888x736,1984-07-09,Switzerland,2022-09-04,2025-09-13 13:43:02,58.61602504984088,40864.33429412568,Bronze,Food & Beverage,False,False
+Kevin,Barron,mburgess@example.net,(390)669-9961,1967-05-09,Hungary,2022-12-05,2025-03-29 05:02:08,72.57859595100575,40768.00008538105,Bronze,Clothing,False,True
+Erica,Cobb,smithpeter@example.com,726-689-6820x717,2002-01-12,Indonesia,2025-02-23,2025-03-01 04:03:14,42.02690390289157,34631.74417783329,Silver,Automotive,False,True
+William,Smith,mowen@example.com,502-376-3504,1954-02-24,Faroe Islands,2022-08-10,2024-10-08 12:16:44,66.0313108851064,12444.40796451543,Bronze,Beauty,False,False
+Kimberly,Brown,aprilmejia@example.com,001-255-365-6465x1087,1988-04-22,Brunei Darussalam,2021-06-25,2024-11-22 10:55:17,45.752699070588534,35721.96177090644,Silver,Food & Beverage,True,True
+Andrew,Myers,matthew37@example.net,3946962984,1985-01-02,Norway,2020-11-12,2025-03-04 18:00:06,94.2402386154852,10528.023519161323,Silver,Home & Garden,True,True
+Matthew,Wright,laurenvargas@example.net,001-365-823-5459x516,1958-03-12,Martinique,2024-03-06,2025-03-08 07:14:47,55.007180422786256,47281.30463297047,Bronze,Beauty,True,True
+Michael,Blake,gsanchez@example.com,909.249.7890x418,1951-07-02,Netherlands Antilles,2023-03-03,2024-12-09 14:03:10,5.561524516628824,4037.681665812123,Platinum,Clothing,True,True
+Thomas,Owen,hillstephanie@example.com,432-961-1922x287,1950-05-31,Indonesia,2024-02-03,2025-05-04 17:23:27,30.652728044947004,13130.057648246504,Gold,Books,True,True
+Warren,Jones,emma80@example.com,301.459.7593,1989-03-03,Micronesia,2024-04-22,2024-11-11 18:46:56,83.12748677623367,31821.44245555531,Gold,Books,False,False
+Luis,Snyder,lopezjeffrey@example.com,540.634.7828x7852,1952-02-02,Mauritania,2025-01-28,2025-04-26 23:22:58,53.880851534220035,6081.366501365928,Platinum,Food & Beverage,False,False
+William,Fuentes,fbenson@example.net,899-852-5116x2896,1974-12-10,San Marino,2021-06-05,2025-02-02 09:13:27,41.360291218853106,6094.125220700507,Platinum,Books,True,True
+Joseph,Salinas,pauljohnston@example.org,383.375.6711,1971-07-07,United Kingdom,2021-12-10,2025-08-08 21:58:12,64.73747498836701,30778.339799976828,Silver,Sports,False,False
+Joy,Kirk,charleslewis@example.com,(969)502-4586,1968-05-11,Sierra Leone,2023-07-03,2025-07-02 23:43:08,20.215251984948097,13016.705674148323,Gold,Automotive,True,False
+Amy,Payne,rachael04@example.com,+1-320-586-7810x390,1968-09-08,Micronesia,2023-06-17,2025-01-02 05:28:29,77.340946736048,46073.98998557192,Gold,Automotive,False,True
+Justin,Jackson,cooperdana@example.net,(638)215-6541,1970-09-04,Switzerland,2025-05-29,2025-08-19 02:33:57,93.66370824557038,3961.43218427542,Platinum,Beauty,True,True
+Michael,Rogers,karennguyen@example.com,4343042518,1990-05-19,Svalbard & Jan Mayen Islands,2024-12-22,2025-05-04 10:28:41,83.91937162292014,34464.055799549016,Bronze,Food & Beverage,False,True
+Eileen,Zimmerman,wrighttravis@example.com,708.249.6783,1963-12-22,Martinique,2023-09-24,2025-01-14 00:10:43,9.4823960888076,12900.758025875666,Bronze,Home & Garden,False,False
+Sarah,Montoya,raymondbell@example.com,235.212.9201,1959-03-11,Syrian Arab Republic,2024-09-22,2024-12-12 04:39:09,58.01907435839679,39283.54464029024,Silver,Home & Garden,True,True
+John,Silva,sarah03@example.com,206.295.8144x68318,2006-06-17,Greenland,2023-03-17,2024-12-14 04:58:04,90.47474097917227,35228.88428155256,Gold,Sports,True,True
+Scott,Kaiser,bclark@example.com,306.858.0774,1966-09-07,Morocco,2025-08-31,2025-08-14 01:20:39,51.69099218901659,26999.02344051653,Silver,Automotive,True,True
+Jonathan,Benson,paula40@example.net,961.640.2851x8763,1979-08-14,Niger,2023-10-15,2025-06-16 06:57:18,40.42232304239983,17061.41735323726,Platinum,Home & Garden,False,False
+Christopher,Ross,erinweber@example.net,2143154498,1988-03-08,Norway,2023-03-21,2024-12-02 07:49:19,66.12368020258052,23184.480338993468,Gold,Home & Garden,False,False
+Susan,Ramos,justin17@example.org,7746042918,1964-07-07,Norfolk Island,2022-12-11,2025-06-02 06:30:10,33.06219537053196,4367.000605552813,Gold,Electronics,False,False
+Richard,Schultz,evansdouglas@example.net,343.677.7085,1982-08-19,Latvia,2021-12-30,2025-01-11 13:18:42,62.405308333953776,22447.32077362244,Bronze,Sports,False,False
+Gerald,Johnson,cmatthews@example.com,263-940-0195x140,1957-04-29,South Africa,2022-04-21,2025-02-24 16:05:46,90.49974625314871,23034.265182985884,Bronze,Sports,False,False
+Warren,Maldonado,xaviercampbell@example.org,619.691.3689,1968-04-21,Hungary,2023-07-11,2025-05-06 16:35:53,55.807499016335704,26467.999179173676,Platinum,Home & Garden,False,False
+Gary,Patterson,tracy13@example.com,001-768-571-1653x801,1980-04-09,Svalbard & Jan Mayen Islands,2024-07-28,2025-02-13 02:07:54,21.422825486463104,5406.322255347067,Bronze,Beauty,True,True
+Justin,Terrell,gbell@example.com,674.223.5466x4815,2006-09-26,Moldova,2024-08-26,2025-01-24 07:36:08,56.15371439299628,33838.81972265297,Platinum,Beauty,True,True
+Caitlin,Rodriguez,johnsonmichael@example.com,+1-694-852-0510x14274,1968-09-18,Bahrain,2024-02-17,2024-11-06 08:09:23,38.09023676088982,46937.29898788162,Silver,Home & Garden,False,False
+Jacqueline,Jensen,tgrimes@example.org,268-833-8218x211,2000-10-23,Tuvalu,2025-01-09,2025-06-13 05:11:09,77.62728679041844,12034.048487201357,Platinum,Beauty,False,False
+Stephanie,Ryan,vhansen@example.net,001-380-461-0508x840,2002-08-03,Algeria,2020-10-20,2024-09-26 00:00:29,88.01803569439464,5032.924178003919,Bronze,Automotive,False,True
+Jordan,Pace,joneswilliam@example.com,+1-902-580-2713x1437,1960-10-13,New Caledonia,2022-04-10,2025-05-22 23:23:27,71.09754407958832,9525.121998875935,Platinum,Books,True,True
+Gary,Evans,uholmes@example.net,+1-830-493-8555,1995-04-21,Cambodia,2024-01-25,2025-07-29 16:16:08,77.61890034618705,35590.24435189734,Platinum,Beauty,False,True
+Michael,Horton,daltonmichelle@example.com,(326)907-4092x2898,1964-10-23,Rwanda,2024-03-07,2024-12-05 23:49:41,46.96928135272549,21406.3964664213,Silver,Beauty,True,True
+Makayla,Grimes,dhoward@example.com,+1-700-925-8197,1971-07-04,Korea,2024-11-07,2025-08-25 10:59:56,54.38775239556173,4567.502178702007,Gold,Clothing,True,False
+Christie,Ramsey,mollymorgan@example.org,(424)563-2859x8770,2002-01-27,Somalia,2022-09-21,2025-06-24 05:20:46,-2.2745148385601754,17023.164599628748,Silver,Sports,True,True
+Carlos,Taylor,loverichard@example.com,(682)862-2551x175,1988-12-14,British Virgin Islands,2024-06-03,2025-04-12 15:12:32,74.78586254247998,39108.8418620969,Bronze,Sports,False,True
+Ronald,White,robert49@example.net,+1-888-353-6190,1981-07-30,Northern Mariana Islands,2025-05-06,2025-01-02 00:55:00,90.32113774880847,1509.6610524337548,Silver,Beauty,False,True
+Albert,Romero,andrea41@example.org,001-465-968-6246x24780,1999-07-05,Congo,2020-11-11,2025-01-14 10:39:09,6.020335185002663,7704.492947324041,Gold,Books,False,True
+Theresa,Jones,patricia78@example.net,3787248870,2004-11-14,Togo,2024-03-19,2024-12-08 21:40:26,8.405376876756073,27523.676429374536,Bronze,Automotive,False,False
+Robert,Allen,reidheather@example.net,571-948-9243,1984-09-18,South Africa,2021-10-31,2024-12-06 01:32:43,75.2898082056271,5089.781977253511,Bronze,Electronics,True,True
+Danielle,Reyes,mvilla@example.net,+1-944-863-4443x73413,1991-04-14,Niue,2024-07-21,2025-09-01 03:47:48,38.6330620116577,19420.808858159413,Gold,Home & Garden,False,True
+Sara,Austin,zoe51@example.org,4626524730,1979-06-05,Netherlands Antilles,2021-06-25,2024-12-08 09:08:51,18.493153427554816,15526.019508750478,Bronze,Books,False,False
+Miguel,Moore,gmedina@example.net,316-854-0694x11373,2000-01-11,Ecuador,2022-05-07,2025-09-01 16:20:52,69.23259531199156,11898.638524910602,Platinum,Home & Garden,False,True
+Maria,Phillips,hansenallison@example.net,931.521.1684x890,1949-09-13,South Africa,2022-01-21,2025-09-13 03:59:17,104.11535763727296,38520.97804595744,Bronze,Home & Garden,False,True
+Jeremy,Zuniga,hernandezjasmine@example.net,+1-616-712-6792,1947-07-02,Congo,2021-02-20,2025-07-02 02:11:28,70.20038693079569,12055.592635876987,Gold,Sports,False,True
+Amber,Bowman,hallcolin@example.com,001-961-444-9175x395,1946-07-03,Nigeria,2025-06-22,2024-12-21 13:25:30,88.4929632465832,37906.02811105876,Gold,Food & Beverage,True,False
+Natasha,Ortiz,chelseamendez@example.com,(214)332-4597x80514,1994-07-13,Antigua and Barbuda,2021-06-22,2025-02-02 12:05:12,58.35360588764435,19470.01451914217,Platinum,Automotive,False,True
+Cynthia,Dunn,zachary59@example.net,+1-889-400-5868x07611,1973-10-23,Georgia,2022-01-27,2025-06-02 08:17:56,92.7036974982356,42084.9182096833,Silver,Beauty,False,True
+Michelle,Johnson,amccarthy@example.org,3584733527,1996-03-17,Cayman Islands,2025-03-31,2024-10-23 03:15:12,14.327593939229855,24222.10526041497,Platinum,Automotive,False,False
+Brian,Cantrell,cespinoza@example.net,+1-737-929-7833x377,1987-05-08,Holy See (Vatican City State),2022-02-24,2025-07-28 15:39:39,27.733359684130473,8067.0570171955,Gold,Automotive,True,False
+Benjamin,Miller,floydjames@example.net,(619)962-4486x9666,1976-09-28,Uruguay,2024-05-15,2025-07-16 20:02:49,56.14283583245506,47548.93207714455,Gold,Books,False,True
+Scott,Hernandez,pamelanewman@example.org,409-258-2365,1948-06-02,Togo,2023-09-22,2025-03-22 22:15:51,10.676492942752803,22331.657945822553,Platinum,Automotive,True,True
+Christopher,Wilkerson,roberto87@example.net,+1-529-658-0753x8314,1977-09-14,Iceland,2022-03-24,2024-09-18 09:13:06,38.40367591991539,7792.465634759043,Platinum,Food & Beverage,False,False
+Susan,Booker,qgarcia@example.org,9913540538,1957-12-23,Congo,2021-07-20,2025-01-24 03:11:35,52.40537165543434,35859.264892247185,Platinum,Sports,False,True
+Angela,Zuniga,markmora@example.com,001-570-912-0626x1964,1981-05-16,Central African Republic,2020-09-18,2024-09-24 12:40:29,94.45881770408396,24522.955410864295,Bronze,Books,True,False
+Anthony,Cooper,hsmith@example.net,+1-966-808-7894,1987-01-05,Uruguay,2023-01-16,2025-05-21 14:39:46,33.5989167127093,36421.06441423493,Bronze,Books,True,False
+Mason,Carey,anunez@example.com,(647)359-5711,1950-11-11,Chile,2023-05-05,2024-12-04 03:38:01,15.823473122420207,3633.6037384353417,Bronze,Electronics,False,False
+Joyce,Montgomery,xsmith@example.net,001-884-687-7233x8698,1973-09-24,Samoa,2024-02-21,2025-07-16 23:29:05,48.17000355885838,23006.95623499187,Silver,Electronics,True,True
+Joseph,Jackson,marilyn65@example.com,642-526-2151x3916,1971-03-10,India,2024-07-09,2024-10-01 18:13:53,87.52274635445224,3474.5627807494857,Silver,Sports,False,True
+Joseph,Villarreal,lfowler@example.net,(793)884-3186x64090,1949-09-29,Anguilla,2023-11-27,2025-05-01 11:49:16,54.74585953425759,15757.251126468786,Bronze,Electronics,True,False
+Patrick,Edwards,cervantesanne@example.net,440.389.9078x7978,1988-04-09,Syrian Arab Republic,2024-01-13,2025-04-02 02:14:56,10.89251333497886,10272.519589006324,Gold,Electronics,False,False
+Monica,Nichols,christy22@example.net,001-662-492-7588x6414,2007-02-09,Benin,2022-03-26,2025-07-20 06:25:04,39.01638651559414,42791.11036034919,Gold,Electronics,True,True
+Jeremiah,Blackburn,zhuynh@example.org,(370)431-4052x91514,1985-08-14,Moldova,2024-10-30,2024-09-17 10:51:05,66.47978850749638,41209.21861503935,Gold,Sports,True,False
+David,Smith,christina55@example.net,(751)678-2637,1955-01-30,Malaysia,2021-01-18,2025-01-07 20:26:47,41.49422757038052,45177.61187395056,Bronze,Sports,True,True
+Alyssa,Williams,gabrielle72@example.org,001-282-768-2463x5959,2004-10-26,Armenia,2024-06-04,2025-06-16 20:48:01,72.04945540600244,44862.30168209546,Silver,Food & Beverage,False,False
+Michael,Baldwin,torreslogan@example.org,(331)637-8963x785,1971-05-24,Uzbekistan,2022-12-18,2025-08-30 16:36:10,-3.205925449364216,31574.532335153643,Gold,Clothing,True,True
+Charles,Ross,cwilliams@example.net,+1-287-581-2261x0183,1996-05-16,Somalia,2023-08-03,2025-08-18 08:29:32,85.73734664395508,25484.472158045144,Silver,Food & Beverage,False,False
+Tasha,Lee,rickywarren@example.org,+1-335-632-2713x1273,1978-06-12,Tokelau,2021-02-23,2024-10-04 23:32:32,25.286435230140754,2469.633868787606,Platinum,Home & Garden,False,True
+Emily,Miller,rushrenee@example.org,001-441-483-2962,1945-09-29,Macao,2025-06-17,2024-11-26 15:30:33,56.09413888459162,37149.806228549765,Gold,Automotive,True,False
+Paula,Ward,david61@example.com,+1-951-796-9452x294,2000-08-17,Cape Verde,2021-07-23,2024-11-26 15:27:49,35.65667758817422,38757.572468599225,Platinum,Clothing,True,False
+Michael,Williams,munozsarah@example.com,(813)923-6350x210,1962-06-08,Bolivia,2022-08-25,2024-10-07 11:57:40,24.24222075231599,6507.64755997146,Platinum,Sports,True,False
+Gail,Turner,alisonrodriguez@example.com,399.717.1827x2454,1981-09-16,Belgium,2022-07-29,2025-01-20 05:40:04,98.22160845725973,39694.64377321774,Bronze,Beauty,True,False
+Lisa,Garrison,nathangarcia@example.org,(588)715-1321,1982-07-03,Azerbaijan,2025-03-27,2025-03-13 19:40:29,15.189279642545557,38656.048832855166,Silver,Books,False,True
+Jerry,Johnson,brian34@example.net,225-357-7105x51710,1985-03-12,Ireland,2025-03-01,2025-07-18 11:07:38,29.94377170238639,30.647501664138417,Bronze,Beauty,False,True
+Dean,Skinner,jeffreyblankenship@example.org,217-386-7862,2003-02-27,Czech Republic,2025-07-02,2024-09-24 01:46:21,23.841802947307443,30821.82354841512,Silver,Books,False,True
+Micheal,Butler,johnlynch@example.org,707-822-4850x10540,1946-05-15,Turks and Caicos Islands,2022-04-11,2025-03-09 02:43:07,30.95447161166601,33462.705420722494,Platinum,Electronics,False,True
+Joshua,Koch,daguirre@example.com,(305)338-6879,1977-09-07,Malawi,2023-10-19,2024-11-03 21:55:14,24.11091549805448,13277.245831806693,Platinum,Electronics,True,False
+Kelsey,Stewart,ehall@example.org,001-683-735-4211x2760,1984-12-17,Canada,2022-08-28,2024-11-10 15:44:40,79.22520205719063,3698.782108756814,Bronze,Home & Garden,True,False
+Ronald,Bennett,edwinfletcher@example.org,001-250-547-0112,1983-06-29,Equatorial Guinea,2024-09-25,2025-03-05 11:57:52,23.55104848645221,23277.379801505667,Silver,Beauty,True,False
+Peter,Smith,melissadaniels@example.net,001-681-245-2786x50771,1972-03-21,United Kingdom,2022-12-15,2024-09-26 10:37:10,40.84114371668731,2741.518306453936,Bronze,Home & Garden,True,False
+John,Rios,qlopez@example.net,+1-454-846-3606,1966-02-19,Mauritius,2025-04-09,2024-11-22 21:38:19,83.7124791390904,6632.6325703837265,Platinum,Automotive,True,False
+Theresa,West,rcontreras@example.org,2084238819,1996-03-12,Saint Martin,2022-02-15,2025-03-17 20:05:18,14.32918553918788,47247.91190517513,Platinum,Automotive,False,False
+Michael,Saunders,alexandergray@example.com,+1-872-839-0818x999,2001-06-20,Saint Lucia,2025-01-15,2025-09-09 20:49:11,16.55582351084421,-212.78954427022086,Gold,Clothing,False,False
+Joshua,Jones,kristendouglas@example.com,560-403-2192x274,1945-01-29,Costa Rica,2022-01-01,2025-05-18 18:56:38,43.67572905822615,26553.045624448867,Bronze,Sports,True,False
+Joseph,King,stacy38@example.net,001-437-275-1981x204,1999-09-19,Slovenia,2022-10-04,2024-12-19 17:22:01,38.61686356688002,46124.6198067403,Bronze,Beauty,False,False
+Charles,Drake,justingordon@example.org,(494)827-8710x492,1957-07-04,Germany,2023-08-31,2024-10-21 05:56:10,16.75756519830742,12073.840525709946,Silver,Food & Beverage,False,False
+Christine,Nielsen,amoreno@example.net,(749)910-6481x25970,1964-02-18,Lao People's Democratic Republic,2024-12-22,2025-09-11 00:42:02,27.062663612780682,36394.98834697511,Bronze,Food & Beverage,False,False
+Michelle,Murray,proberts@example.net,001-438-905-2126x80747,1973-06-02,Rwanda,2025-06-02,2025-04-18 05:25:54,33.128204136800385,7581.032371530081,Gold,Home & Garden,True,False
+Anthony,Yang,pleblanc@example.net,874-387-5633x9627,1998-11-22,French Southern Territories,2023-01-26,2025-04-27 10:07:29,47.554197332200566,37517.139952639576,Platinum,Home & Garden,True,False
+Derrick,Stark,rodriguezseth@example.com,(373)683-9055,1983-06-05,Bulgaria,2022-12-22,2024-11-10 21:22:03,49.0823030997154,47028.731121278535,Platinum,Books,True,False
+Grant,House,sara62@example.com,336.983.8682x5275,1992-04-30,Gabon,2024-03-18,2024-11-26 15:57:53,88.1120347960562,2419.7503910658515,Platinum,Electronics,False,True
+Amber,Hudson,joshuagonzalez@example.net,(430)622-7758x940,1977-12-21,Egypt,2022-12-21,2025-02-08 15:50:22,48.26558374957798,47324.10508499964,Bronze,Books,True,False
+Justin,Lamb,cruzrichard@example.net,669.561.9731,1957-10-28,Jamaica,2021-05-17,2024-11-04 05:22:00,6.942716932277794,17759.64492803362,Bronze,Automotive,True,False
+Madison,Sanders,vrodriguez@example.com,407-557-4459,1967-10-04,Korea,2021-02-09,2025-03-31 15:27:25,-1.2115002535390138,6730.3241717191395,Gold,Beauty,False,False
+Douglas,Wiley,salinasjoe@example.com,+1-786-522-6853x88634,1979-11-03,Pakistan,2022-02-24,2025-06-23 00:06:19,59.37046457316574,3747.2882261073414,Platinum,Sports,True,True
+Joseph,Mcdowell,hannah94@example.com,+1-287-947-7933x91682,2001-05-25,Palestinian Territory,2022-12-12,2025-04-25 11:17:36,50.62435836333435,2024.506534568552,Silver,Home & Garden,False,False
+Michael,Villa,stevenlee@example.com,885-824-5454x5878,1986-04-11,Holy See (Vatican City State),2021-10-07,2025-04-06 21:34:00,101.75223479704924,30333.02422661755,Platinum,Books,True,True
+Angel,Cobb,cgilbert@example.net,305.997.0085x7904,1963-10-04,Liechtenstein,2022-10-23,2024-11-14 14:22:41,42.019598594391034,34729.6799328091,Gold,Beauty,False,True
+Emily,Kaufman,kimberlylewis@example.com,531.354.1213x20848,1981-11-05,Uganda,2025-04-05,2025-03-07 23:20:12,6.340345071544151,30629.04084671187,Bronze,Clothing,True,False
+James,Colon,sherrisanchez@example.com,7369058114,1968-08-08,Sweden,2020-09-30,2025-05-31 21:53:43,94.95116388643552,39964.45705107637,Platinum,Sports,True,False
+Howard,Wolfe,shelby11@example.com,+1-470-369-2839,1977-04-13,Switzerland,2023-02-12,2025-09-11 02:32:23,31.848591959800462,31127.798665848175,Gold,Sports,False,True
+Timothy,Harris,steveclark@example.com,+1-802-728-7442,1973-09-10,Aruba,2025-01-31,2025-04-22 19:54:46,55.14437935007904,44654.62359048451,Platinum,Home & Garden,True,True
+Daniel,James,gallowayjohn@example.net,+1-924-550-9870x3142,1949-01-25,Seychelles,2023-01-10,2024-10-22 12:24:58,53.79168124193535,38832.86676174963,Gold,Clothing,False,True
+Wayne,Davis,bryan53@example.net,(225)516-9557x2359,2001-10-22,Guyana,2022-04-26,2024-12-14 23:12:46,85.94605061137135,45159.01315499646,Bronze,Beauty,True,False
+Robert,Anderson,proctorkevin@example.com,920-782-1964x854,1984-11-07,Bolivia,2021-09-24,2024-11-06 21:48:07,28.223965009255192,42725.27107668533,Gold,Food & Beverage,False,True
+Katie,Pena,patricia37@example.org,9779601942,1977-01-29,American Samoa,2021-08-10,2025-06-26 12:59:20,86.0605953169562,37973.205773741196,Gold,Books,False,True
+Christopher,Graves,brandon02@example.net,697-664-6060,1988-10-21,Barbados,2023-11-11,2025-06-20 07:21:45,65.57526317742757,4975.677450496769,Gold,Electronics,False,False
+Andrea,Woods,cobbrachel@example.com,001-996-910-6630,1991-06-06,Papua New Guinea,2024-08-13,2024-11-23 05:07:20,2.550316390867308,24112.362037582567,Silver,Books,True,False
+Melissa,Brooks,dominguezsarah@example.org,275-374-5613x265,1983-06-17,Mozambique,2024-02-26,2024-10-10 19:35:35,53.0747887286503,32459.739542653315,Gold,Home & Garden,True,True
+Amy,Walton,smithdavid@example.org,001-728-806-2990x2542,1945-01-22,India,2023-04-21,2024-12-09 20:58:20,77.41586443413158,29819.516580940643,Silver,Automotive,True,False
+Jodi,Huynh,qmacias@example.org,440-663-0707x68000,1945-07-04,Montserrat,2025-04-12,2025-08-16 03:02:02,24.744640420146297,13847.959544161175,Gold,Beauty,False,True
+Brian,Moore,amanda07@example.com,743-590-8756,1947-02-12,Turkmenistan,2023-12-13,2025-02-05 04:25:51,58.597835196391095,7974.352347238764,Platinum,Automotive,False,True
+Brittany,Carlson,andrewscott@example.org,234.327.8701,2003-10-16,Greece,2024-06-14,2024-10-25 04:45:18,92.97930630650889,2894.4928086937794,Platinum,Sports,True,False
+Christina,Lee,nandrade@example.com,(601)719-0309x78850,1979-11-15,Jersey,2022-07-14,2025-04-12 23:17:38,43.572982289040205,39039.78368946402,Silver,Clothing,False,False
+William,Moore,joseph29@example.net,(642)539-7705x245,1957-07-16,Croatia,2025-06-24,2025-04-12 16:55:18,59.440792124610546,3454.455188235421,Platinum,Beauty,False,False
+Nichole,Martinez,rmartin@example.org,4127487878,1949-06-26,Albania,2024-05-24,2025-02-05 06:23:22,56.206312028736306,31471.510427905672,Bronze,Beauty,True,False
+Charles,Fuller,anthony45@example.com,924.957.5357x1573,1969-03-28,Iraq,2023-09-13,2025-03-06 06:37:15,20.72378996782383,46022.09353339732,Gold,Books,True,False
+Brittany,Adams,johnhernandez@example.org,(573)536-9225x3344,1952-11-06,United Arab Emirates,2023-05-24,2024-10-25 04:59:49,26.11600246755227,23259.104047475368,Silver,Books,True,False
+Rachel,Fletcher,efrey@example.org,+1-988-866-7841x170,1971-12-15,Timor-Leste,2024-11-21,2025-02-10 09:14:20,91.35202002474047,25134.185511874515,Bronze,Sports,True,False
+Eric,Morrow,cindyhines@example.net,301.261.1809x69211,1998-08-08,Chad,2023-11-12,2025-06-03 07:10:37,73.47441850467237,11582.483711181852,Gold,Electronics,False,False
+Tracey,Fischer,kevinphillips@example.net,+1-268-745-7773x861,1973-12-21,British Virgin Islands,2024-05-14,2025-04-22 01:09:35,45.50764452251162,26580.10386550414,Bronze,Food & Beverage,False,False
+Christopher,Norris,edward24@example.org,240.754.0342x69909,1987-07-07,Somalia,2022-07-14,2025-04-23 00:38:52,41.93632112447459,48907.740142234914,Gold,Books,False,True
+Ronald,Clark,lindsey68@example.net,5408488055,1987-01-14,Peru,2023-06-22,2025-01-01 06:39:50,73.02513544220113,39536.725850231895,Platinum,Clothing,True,True
+Brian,Lee,manuelpope@example.net,001-289-785-9703x9956,1946-11-25,Norway,2022-05-02,2025-07-13 17:25:38,15.046868483001923,18764.226120286712,Bronze,Sports,False,False
+Tara,Powers,qwilson@example.net,(619)671-2855,1978-01-05,Ethiopia,2025-04-29,2025-01-02 05:30:37,81.10361240985988,18252.73865282732,Platinum,Books,True,True
+Steven,Vasquez,beckerapril@example.net,(446)637-1763x331,1968-08-07,Portugal,2021-10-29,2025-07-09 08:56:01,16.711041224800734,39573.919148990215,Gold,Clothing,True,True
+Ashley,Holder,jacksonerin@example.net,860-713-5234,1998-04-03,Oman,2020-12-12,2025-06-28 08:10:55,62.2489451464858,27580.324165930568,Silver,Clothing,False,False
+Christopher,Higgins,ltanner@example.com,749-535-2773,1974-07-21,Croatia,2025-03-19,2024-10-21 18:06:55,3.989490853491221,48391.38102167295,Bronze,Beauty,True,False
+Dale,Golden,laurenmurphy@example.com,+1-634-329-7057,1992-01-03,Sri Lanka,2023-06-28,2025-03-17 15:01:24,33.198983558508644,46063.76487299882,Gold,Clothing,False,False
+Ryan,Oconnor,zjimenez@example.net,245.500.5157,1996-12-05,Kiribati,2023-08-09,2024-11-18 15:28:50,55.256051236249526,14450.534547380888,Gold,Automotive,False,False
+Christopher,Perez,tiffanywalker@example.net,396-201-0293x56002,1966-11-26,Luxembourg,2021-01-01,2025-01-24 01:13:15,13.68728374615816,14753.98235966381,Bronze,Beauty,False,False
+Alicia,Patterson,cohenrichard@example.org,682-831-1678x14143,1950-06-10,Tajikistan,2024-01-04,2025-06-21 11:03:33,37.51194472909987,42326.33351334088,Platinum,Books,True,True
+Heather,Alvarez,amandafernandez@example.net,7748731853,1968-08-18,Cambodia,2022-04-14,2024-11-08 23:23:11,12.66833173167068,11014.761030446938,Gold,Books,False,True
+Nicholas,Fisher,jeremyadams@example.com,(202)256-2812x4931,1997-02-27,Malawi,2022-03-13,2025-05-27 08:43:53,22.494720979065605,3901.1815458461833,Platinum,Books,False,False
+Anthony,Herrera,pattybenjamin@example.net,341.327.5523,1965-11-26,Cook Islands,2023-03-16,2025-08-08 08:12:01,85.65685623512442,32658.776324059574,Silver,Automotive,True,False
+Shawn,Baker,stephaniemejia@example.net,215-787-0143x6719,1989-12-13,Tuvalu,2022-07-04,2024-11-11 14:04:00,66.00541995026539,28984.880771603708,Silver,Books,True,False
+Heather,Wallace,obarrett@example.org,294.555.3291,1980-09-02,Hong Kong,2024-11-14,2025-03-19 13:47:15,37.92676735336543,35582.243245997735,Silver,Sports,False,False
+Gregory,Cunningham,htapia@example.net,(822)827-5140x4672,1964-12-14,Belgium,2021-02-11,2025-05-27 11:46:26,24.18637738195981,44048.97978528981,Platinum,Books,False,True
+John,Horn,paul77@example.net,(248)632-0987x6622,1995-09-19,Mexico,2025-04-05,2025-01-26 19:40:30,2.9663790062837405,44183.51969331407,Gold,Books,True,False
+Jesse,Jefferson,edwardlong@example.net,(284)793-0836x967,1947-03-16,Sri Lanka,2025-04-10,2024-12-03 00:11:14,45.48271885383416,42630.091454115696,Platinum,Automotive,False,True
+James,Harris,moondenise@example.org,553.804.3166x96018,1953-07-03,Bosnia and Herzegovina,2022-05-24,2024-11-20 13:30:29,21.588401042491185,7260.925519611569,Gold,Electronics,False,True
+Matthew,Johnson,richardoconnell@example.com,247.436.6884x48061,1975-12-18,Nigeria,2024-02-11,2025-08-12 02:40:46,103.68749660807683,45549.759857579906,Silver,Sports,False,True
+Julie,Vaughn,ramoskyle@example.net,335.423.4619,1957-07-13,French Southern Territories,2025-01-25,2024-10-31 03:02:56,41.26115258178471,2861.295452137273,Platinum,Books,False,False
+Heather,Price,singletonchristina@example.com,417.714.2021x55718,2000-10-23,Mongolia,2023-10-08,2025-01-07 08:33:13,46.075304813542516,29189.90050207205,Silver,Automotive,True,True
+Courtney,Cook,jaredlewis@example.org,907.889.9942x344,1944-12-31,Australia,2024-03-21,2025-06-21 16:06:18,88.35664942217828,40359.275121120125,Gold,Beauty,True,False
+Christopher,Lam,rachaelsmith@example.org,9714338711,1991-06-03,Vietnam,2023-08-05,2025-07-24 11:30:50,36.18545735912658,40979.766487569555,Silver,Clothing,False,True
+Angel,Lawrence,angelamartin@example.org,(625)302-8491,1998-08-17,France,2023-12-12,2025-01-15 21:32:53,17.60623341234918,10640.494228329972,Silver,Clothing,True,True
+Ryan,Hardin,brenda15@example.org,(675)813-6069x9333,1992-01-22,Bhutan,2022-06-26,2025-07-09 09:01:22,42.52738664976874,17779.567553302015,Platinum,Electronics,True,False
+Mackenzie,Alexander,rhughes@example.com,+1-698-805-8039x75331,1959-04-05,Sierra Leone,2022-06-08,2025-02-28 12:44:12,50.297400048196614,31685.427044102056,Gold,Clothing,True,True
+Janice,Rodriguez,elizabeth08@example.com,(203)985-2659x9017,1998-04-01,Finland,2024-11-20,2025-05-11 03:46:39,101.54405231455122,13621.34746774261,Gold,Electronics,True,False
+Annette,Esparza,fullersarah@example.com,001-521-233-6620,1991-01-08,Lebanon,2023-12-12,2024-09-17 03:08:05,2.8738439875555337,28638.372814447393,Silver,Sports,False,False
+Lisa,Smith,acostaerin@example.com,+1-920-492-8138,1990-03-11,American Samoa,2022-09-20,2025-06-13 17:53:53,17.185582694414734,37422.060337968505,Bronze,Clothing,True,False
+Roy,Brown,osimon@example.org,7102190344,1990-09-29,Angola,2024-06-14,2024-09-27 13:28:07,53.645498620268576,19302.901673365694,Platinum,Books,True,False
+Patrick,Fox,russellmichael@example.net,475-572-7465,1981-04-02,Tokelau,2022-07-01,2025-07-28 05:27:39,46.031863601029464,38232.801664549734,Silver,Food & Beverage,False,True
+Amanda,Morrow,james72@example.net,001-926-471-2425x421,1956-05-04,Montserrat,2023-12-09,2025-03-26 10:26:53,46.95015297321213,28681.292831667583,Silver,Food & Beverage,True,False
+Corey,Roberts,jessicacampbell@example.net,563.201.2858,1964-05-03,Mali,2022-01-19,2025-02-04 13:58:58,73.4052874250624,23389.079369020863,Bronze,Home & Garden,False,True
+James,Hernandez,wendy40@example.net,934-658-9962x315,1977-06-08,Luxembourg,2025-06-19,2025-06-03 12:45:32,39.427013249644716,13669.011385423262,Silver,Books,True,False
+Anthony,Sanchez,patriciahensley@example.com,674-692-0843x4501,1958-02-01,Guinea,2023-12-06,2024-09-26 06:39:39,55.19347646227717,22337.796383792316,Gold,Automotive,True,True
+Stacey,Jimenez,jeremy70@example.com,+1-579-884-3340,1952-02-14,Sudan,2023-07-28,2025-04-21 11:32:03,60.875102716375565,10945.999559126481,Gold,Sports,True,False
+Michael,Martin,robert08@example.org,264.248.1792x7029,2002-02-14,Papua New Guinea,2020-11-12,2024-12-01 13:17:32,56.577786435595975,9189.326127619042,Platinum,Electronics,False,False
+Sierra,Schmidt,shane29@example.net,001-968-360-0675x951,1964-12-27,Estonia,2021-06-15,2025-07-09 01:21:37,79.56159809935002,12540.332934105016,Bronze,Home & Garden,True,False
+Edward,Chapman,anne88@example.net,594-648-2912,1985-11-03,Norfolk Island,2025-05-24,2025-03-08 05:56:07,13.317036366992195,8694.115280606455,Platinum,Beauty,False,False
+David,Cochran,larry02@example.org,(755)643-6264,1978-06-15,Paraguay,2022-11-19,2025-09-03 16:41:33,79.59166973552492,20742.48213675226,Gold,Beauty,True,True
+Michelle,Smith,djohnson@example.org,549.776.8569x025,1946-07-23,South Africa,2023-11-13,2025-08-06 17:19:57,23.193747025235474,34169.42087724372,Bronze,Beauty,False,False
+Tiffany,Andrews,lindsayfletcher@example.org,322-268-1206x979,1994-12-31,El Salvador,2024-12-27,2025-03-27 09:41:39,67.68969350025591,14732.7171775832,Bronze,Clothing,True,False
+Alison,Hawkins,michellerodriguez@example.com,001-680-700-2853x8063,1990-10-12,Nicaragua,2023-11-03,2024-11-20 21:50:00,88.57957194458409,45883.08375582874,Silver,Electronics,False,True
+Amy,Oneal,jonesjoe@example.com,(381)552-9871x3112,1973-05-10,Niue,2021-09-04,2025-06-01 05:49:56,93.76443498653683,13399.911785143177,Gold,Books,True,True
+Mitchell,White,kbaker@example.com,205-865-0620x39180,1984-01-04,Paraguay,2023-01-21,2025-08-10 23:15:02,8.429257574015605,863.2110025880529,Silver,Food & Beverage,False,False
+Lisa,Morris,pacevedo@example.com,+1-694-719-7085x872,1962-08-30,United States Virgin Islands,2022-05-01,2024-12-01 05:39:27,1.4816810494695059,11349.327688499703,Silver,Beauty,True,True
+Thomas,Duran,coxkim@example.net,001-988-295-8410x74458,1994-12-31,Senegal,2023-02-01,2025-06-11 19:44:58,75.9499549078084,43361.45966768299,Gold,Food & Beverage,False,False
+Deanna,Rodriguez,brittany00@example.net,(600)782-1578x19214,1980-03-30,Saint Vincent and the Grenadines,2024-11-21,2025-02-26 23:23:19,56.578176732071256,34187.432810191094,Bronze,Sports,True,True
+Ryan,Johns,jackiefrancis@example.net,769.348.9812,1988-10-02,Iran,2022-02-07,2025-01-27 05:29:15,69.22701651979749,46489.45094470716,Silver,Clothing,True,True
+Amber,Meza,albertchoi@example.com,(996)481-6591x558,1948-05-14,Venezuela,2023-08-06,2025-01-16 15:26:13,-0.9532064466419552,42596.761796697414,Platinum,Sports,True,True
+Michael,Horton,keith63@example.com,782-276-2026x9881,1992-12-05,Serbia,2020-10-03,2025-06-18 15:44:44,69.43602498899419,40184.02109748672,Gold,Food & Beverage,True,False
+Jay,Wilson,lsmith@example.com,001-530-715-0500x98748,1966-10-15,Kiribati,2024-02-14,2025-09-11 12:47:53,35.77067478082946,16553.33329374,Bronze,Home & Garden,False,True
+Robert,Ortiz,lindsaymaynard@example.net,(975)761-0568x2218,1981-04-06,Grenada,2023-09-22,2024-12-06 03:17:00,41.65488093049066,39737.75550666591,Bronze,Electronics,True,True
+Krystal,Conley,kayla70@example.net,+1-893-686-9070x686,1972-04-30,Tunisia,2021-04-21,2024-12-20 07:33:16,85.30286501974322,8248.62954537811,Platinum,Sports,True,False
+Shawn,Schaefer,timothy81@example.com,702.374.9066,2000-01-09,Bahamas,2022-11-08,2025-04-02 05:01:47,87.40519381348173,4455.994985943777,Gold,Home & Garden,False,True
+Oscar,Hughes,oyoung@example.net,(904)355-7099,1966-04-02,Luxembourg,2025-07-12,2024-11-17 09:52:34,71.7273745989466,39790.335108236606,Platinum,Clothing,True,False
+Stephen,Smith,uking@example.net,(868)556-6875x61649,1981-10-06,American Samoa,2022-10-29,2024-11-21 00:46:53,-2.2080657541935356,19110.104005139507,Bronze,Books,True,False
+James,Moses,jenniferwilliams@example.org,(663)641-9745x08923,2000-03-02,Saint Kitts and Nevis,2021-01-17,2025-08-26 22:29:36,59.88897871907885,37241.551566757415,Gold,Clothing,False,False
+Joseph,Smith,kirknelson@example.com,4644002297,1970-10-20,Suriname,2023-10-08,2024-10-25 09:12:18,44.662562595034245,39875.27107653188,Platinum,Automotive,False,False
+Carl,Peterson,amber02@example.net,576.363.5071x95142,1980-06-02,Slovenia,2023-09-21,2025-02-04 19:51:07,78.19216952913244,30641.34200880205,Gold,Home & Garden,True,False
+Roberto,Wolfe,caitlinperez@example.com,790.397.6461x1344,1989-11-09,Liberia,2023-05-08,2025-04-11 11:42:59,4.2590628626037645,37294.287960083304,Bronze,Beauty,False,True
+Sandra,Johnson,joshuamerritt@example.com,226.538.9699,1948-07-29,Suriname,2022-06-28,2025-05-03 20:11:37,31.402177978514136,25246.01560890244,Silver,Home & Garden,False,True
+Michelle,Cunningham,patriciayoung@example.com,(330)593-7559x492,1980-05-07,Mozambique,2022-09-09,2025-01-30 22:10:19,8.296782525689183,1750.7917447715085,Silver,Home & Garden,True,True
+Erika,Wood,debravega@example.com,(500)764-2481,1992-07-07,Uruguay,2024-02-24,2025-01-22 09:53:49,41.50753757387729,43304.30932065897,Silver,Clothing,False,True
+Mary,Drake,brandy53@example.com,694-312-3505,1989-02-12,Estonia,2023-05-26,2025-07-15 00:14:27,98.5004450384055,21921.408446947855,Platinum,Books,False,True
+Annette,Klein,destinyanderson@example.com,280.637.0991x611,1981-08-27,Lao People's Democratic Republic,2021-01-05,2025-08-03 20:17:52,33.47907946027272,17447.65174472389,Bronze,Electronics,False,False
+Jennifer,Miller,nicholas29@example.net,(550)901-8288x318,1952-02-03,Mauritania,2023-07-04,2025-09-14 05:13:55,29.107605749852446,44471.78863038905,Gold,Food & Beverage,True,False
+Michael,Gutierrez,joann76@example.net,001-721-907-3646x21307,1995-09-10,Pakistan,2024-11-02,2025-06-18 18:18:25,73.56825234077921,12618.108322391501,Platinum,Home & Garden,False,False
+Amanda,Rice,barrerakathryn@example.com,790-279-9111x4498,1973-08-03,Denmark,2023-03-04,2025-05-02 10:38:38,56.54677649799017,48330.935678568756,Bronze,Electronics,False,True
+Morgan,Hansen,elainemorris@example.org,707.436.3208,1975-11-06,Germany,2024-03-07,2025-02-22 05:36:34,43.24572242596379,27637.555560608682,Gold,Electronics,False,False
+Catherine,Mendoza,maria89@example.com,+1-533-888-4476x576,1997-12-19,Oman,2021-09-28,2025-02-16 13:23:24,40.97696226448029,33142.59228208352,Silver,Electronics,True,False
+Dawn,Anderson,alambert@example.net,240.449.0249x8873,1961-09-03,Heard Island and McDonald Islands,2024-06-14,2025-04-15 00:33:56,71.62631175939508,30216.156575263984,Silver,Clothing,True,True
+Nicholas,Knox,davidbailey@example.net,331.835.3420x418,1969-08-22,Cyprus,2021-11-24,2025-06-28 11:29:15,50.698877593466214,21965.57026893699,Gold,Sports,False,True
+Shannon,Cole,ewalker@example.org,559-337-1430x7623,1992-05-28,Eritrea,2023-08-11,2024-12-06 09:26:34,45.88683652694738,10554.36274073372,Platinum,Automotive,True,True
+Edwin,Davis,steven07@example.net,+1-773-543-4472x68497,1970-01-29,Bhutan,2022-07-13,2025-05-05 02:30:47,97.75810690597893,6983.73249620118,Bronze,Home & Garden,False,True
+Jonathon,Wilson,shawnking@example.org,+1-852-858-4888x5503,1987-09-03,Marshall Islands,2023-02-18,2025-03-28 07:18:33,23.245179513961578,33454.0686994636,Gold,Automotive,True,True
+Kelly,Herrera,xgarcia@example.net,537-574-9616x7862,1999-11-13,Bahrain,2022-04-14,2025-01-25 14:06:04,9.274728799431632,11743.280203993147,Bronze,Automotive,True,True
+Caitlin,Hill,laura79@example.net,952.336.0215x9762,1948-03-24,Honduras,2021-08-01,2024-11-07 13:13:18,81.34509143686317,47645.665721123514,Gold,Sports,True,True
+Todd,Howard,dylanjones@example.com,205.332.2098x9461,1976-02-20,Vanuatu,2023-01-01,2025-01-02 02:18:39,97.64712017137016,34168.49293344375,Bronze,Electronics,False,True
+Kelly,Thompson,tracy25@example.com,001-662-566-1625x0275,1954-03-12,Bosnia and Herzegovina,2024-06-10,2024-12-03 01:28:26,20.50816882112464,33790.2583241157,Gold,Books,True,True
+Jennifer,Moss,angela86@example.net,001-253-569-3685x3730,1982-08-23,Turkey,2021-06-14,2024-11-08 12:29:15,98.86761079412143,42217.22313635009,Bronze,Beauty,True,True
+Xavier,Ramos,snyderheather@example.org,+1-473-263-5586x22888,2002-07-15,Kazakhstan,2021-03-22,2025-02-25 06:28:32,71.40836960094434,26175.1869602062,Bronze,Clothing,False,False
+Stefanie,Evans,tiffanysoto@example.net,7257331231,1991-04-01,Yemen,2022-09-18,2025-08-11 16:13:17,72.25720481900743,44629.98098868074,Gold,Food & Beverage,False,True
+Nicole,Carson,curtislam@example.com,+1-591-730-4426x56930,1997-06-24,Mali,2023-09-07,2025-05-25 13:48:56,56.99117354213653,33642.9971408321,Gold,Beauty,True,False
+Carrie,Valencia,qscott@example.com,001-879-386-0170x775,1960-01-11,Antigua and Barbuda,2025-03-26,2024-10-31 14:37:45,97.47873610338185,16215.046943253468,Silver,Home & Garden,True,True
+Roger,Edwards,wilsonsarah@example.com,(328)732-0218x91869,1952-07-28,Bulgaria,2025-08-14,2025-02-16 05:46:11,96.62693419452496,40246.108332856405,Bronze,Sports,True,True
+Jeff,Brock,leedebra@example.com,(510)227-9151x2272,1994-11-16,Cape Verde,2021-11-10,2024-12-22 07:38:21,8.552130069005987,44645.34963055404,Bronze,Electronics,False,True
+Tammy,Garrett,angelaconner@example.net,(327)250-0083,1981-10-08,Montenegro,2023-08-29,2025-06-14 03:56:24,10.411689967005987,34685.50340944236,Bronze,Home & Garden,False,True
+David,Robles,amywashington@example.org,777-759-1028x47233,1978-01-25,Falkland Islands (Malvinas),2024-04-25,2025-05-25 19:38:30,35.55578306079088,47713.53283137489,Bronze,Beauty,True,False
+Robert,Christensen,lgraves@example.com,(635)200-2970,1981-08-31,Anguilla,2023-09-20,2025-04-03 10:45:07,78.09347163721051,43068.53452872155,Gold,Food & Beverage,True,True
+Melody,Olson,davidsonrobert@example.net,224-921-3931,1963-05-28,Egypt,2021-07-27,2025-05-28 09:36:39,68.32770180636348,38647.61609781614,Silver,Electronics,False,False
+Tara,Rogers,derekford@example.com,001-651-692-0162,2006-07-14,United States Minor Outlying Islands,2021-03-07,2025-02-07 02:47:01,83.59762553065238,2772.389533111816,Silver,Sports,False,True
+Robin,Mills,burtondiana@example.org,+1-253-369-0758x70506,1983-10-31,Samoa,2022-08-20,2025-01-04 01:30:30,71.65428198697518,46020.53820098625,Platinum,Home & Garden,True,False
+Anna,Lowe,padillasusan@example.org,(355)591-2305x3494,1984-09-18,Italy,2023-12-20,2025-08-02 01:39:51,26.635106522548213,28622.408510515736,Silver,Automotive,False,True
+Robert,Waters,lucascastro@example.org,001-927-556-3089x12659,1970-01-27,Puerto Rico,2022-08-22,2025-05-02 12:15:49,43.140413179372686,15600.784412256697,Platinum,Books,True,False
+Drew,Smith,fgomez@example.net,(201)200-6139,1973-11-05,Mauritius,2021-03-21,2024-11-25 17:00:35,70.50850759724602,21089.34112600477,Platinum,Books,False,False
+Sara,Cunningham,kylejohns@example.org,585.942.0653,1994-06-05,Bouvet Island (Bouvetoya),2022-10-19,2024-10-26 12:47:55,52.0175973224322,12323.501533891733,Silver,Electronics,True,False
+Christopher,Robles,valerie47@example.com,910.930.5476x94879,1994-08-01,Saint Barthelemy,2023-07-26,2024-10-01 17:09:28,4.093453525015657,38943.06646500869,Silver,Home & Garden,True,True
+Tracy,Stewart,scott07@example.com,001-510-478-5238x3183,1988-12-17,Pakistan,2022-07-23,2025-05-14 20:49:36,13.51161169628613,21700.893939340946,Silver,Electronics,True,False
+Bryan,Thompson,angela53@example.org,287.435.7991,1978-06-15,Brazil,2023-01-03,2025-04-30 04:23:54,100.02212873513008,7994.837133756763,Silver,Food & Beverage,False,False
+Jason,Wolfe,zcastillo@example.com,741-928-3007,1946-02-01,Benin,2022-06-10,2025-06-03 16:42:45,16.923893869435773,30681.54234603276,Silver,Electronics,True,False
+John,Rasmussen,xmccarthy@example.com,7159036195,1974-06-27,Guatemala,2022-06-10,2024-12-24 01:54:08,46.55466460249989,27943.683099527992,Silver,Books,True,True
+Nicole,Thompson,lauren22@example.org,001-767-877-8267x2102,2001-12-21,Syrian Arab Republic,2021-05-06,2025-01-18 14:30:07,27.697357780770606,5213.307323693625,Silver,Clothing,True,False
+Jennifer,Johnson,campbelljennifer@example.org,669-915-5342x615,2001-08-22,Colombia,2021-07-22,2025-07-01 19:01:37,52.777979627819406,27315.493760232774,Gold,Home & Garden,False,False
+Jason,Thompson,rebecca00@example.com,(287)985-2592,1991-02-19,Iran,2022-08-14,2025-06-05 20:57:10,56.0858914592415,37500.966047425594,Bronze,Books,False,True
+Justin,Parker,bnelson@example.org,9028557076,1980-11-05,Lebanon,2020-12-22,2025-01-12 17:23:37,77.38377627025832,30978.887562963086,Bronze,Beauty,True,False
+Alexis,Miller,wayneprice@example.org,(629)300-4494x9922,1995-05-07,Bermuda,2024-02-19,2025-07-16 23:18:41,33.09939106052137,12056.359847501359,Bronze,Electronics,True,False
+Shawn,Martinez,rickeyjones@example.com,493-669-0615,2004-06-22,Belize,2022-06-17,2025-08-27 08:41:34,95.6709692138462,42156.004991781396,Silver,Home & Garden,False,True
+James,Keith,xpeterson@example.com,617.286.8830x219,1976-04-15,Afghanistan,2023-08-26,2025-01-11 11:53:14,96.75630473020081,128.11666043610126,Silver,Beauty,True,True
+Crystal,Garcia,hilljohn@example.org,(847)932-4907x2797,1975-10-18,Panama,2024-01-04,2025-06-15 03:12:07,18.73179044026298,2042.2357573667189,Silver,Beauty,False,False
+Justin,Morris,norman08@example.org,(829)281-5785,1987-11-08,Cambodia,2021-12-14,2025-06-26 13:05:32,96.92489786856484,31008.603453704476,Gold,Home & Garden,False,False
+Jill,Allen,kelly85@example.com,648.403.1904x22953,1946-07-30,San Marino,2022-01-09,2024-11-23 07:32:31,4.598199053593235,2393.8996611241837,Bronze,Beauty,True,True
+Charles,Miller,james16@example.net,223.571.3104x7249,1970-02-18,Bermuda,2020-12-01,2025-04-20 16:56:10,46.39533553967611,16959.49894317741,Bronze,Sports,False,True
+Anthony,Wagner,dominguezlaura@example.net,+1-613-462-5046x7377,1975-03-23,Niue,2021-10-19,2025-01-14 13:01:14,88.7067583611033,40753.79492216616,Silver,Beauty,False,True
+Derek,Chen,jonathanwallace@example.org,(788)560-4804,1970-11-17,Algeria,2022-10-20,2025-07-26 22:13:26,17.56214008415476,21718.584441894112,Gold,Sports,False,False
+Nicholas,Watson,jennifer66@example.com,489.955.5691,1958-02-26,Montserrat,2023-06-02,2025-01-15 22:54:24,62.62135351737365,32633.259826992147,Platinum,Clothing,True,True
+Jose,Paul,zjohnson@example.org,665-590-0597x766,1999-03-19,Guernsey,2022-09-17,2024-11-19 13:17:01,24.295946246111576,821.9228076872645,Gold,Electronics,False,True
+Aaron,Beck,samuel40@example.com,(257)736-2070x146,1988-12-10,American Samoa,2024-06-01,2025-05-12 22:33:31,31.043161635707577,52135.65354761662,Platinum,Books,True,True
+Jennifer,Gardner,dburton@example.org,9934165565,1984-06-08,Pitcairn Islands,2025-05-23,2025-01-26 01:22:17,99.37895917954904,46416.26804216889,Silver,Beauty,True,True
+Joseph,Thomas,luke54@example.org,743.932.4523,1979-05-21,South Georgia and the South Sandwich Islands,2022-11-10,2025-05-17 11:45:52,65.34282434164409,36017.225063481914,Platinum,Books,False,False
+Jason,Austin,bergerrhonda@example.com,818.791.5725x8818,1966-08-31,Luxembourg,2023-01-16,2024-12-21 13:29:34,12.624202463972704,1716.4083029351193,Bronze,Food & Beverage,False,True
+Duane,Rodriguez,qtaylor@example.org,001-307-298-4685x582,1971-07-21,Turks and Caicos Islands,2023-04-13,2024-10-22 12:13:05,28.224576870117215,19095.216609372277,Platinum,Electronics,False,False
+Alicia,Miles,debbiejuarez@example.com,8853208429,1945-10-02,Mexico,2023-03-02,2025-09-11 02:51:32,23.652096057793905,46069.89152704355,Gold,Clothing,False,False
+Melanie,Garcia,hectormartinez@example.org,001-339-803-0730,1961-03-16,Zambia,2021-12-07,2025-01-02 13:45:36,32.656067177923255,26872.568906254935,Silver,Books,False,False
+Donna,Rosario,alyssa69@example.org,465.823.5482x808,1962-02-19,Thailand,2023-12-20,2025-07-05 04:19:50,90.14714615205483,16988.940470768877,Gold,Food & Beverage,False,False
+Amber,Freeman,melanie32@example.com,385-515-8895x550,1946-01-04,Turkey,2023-11-26,2024-12-01 09:03:02,43.82898666282692,15743.051998052988,Platinum,Automotive,True,True
+Katie,Rivera,jonesdustin@example.org,(704)700-7602,1948-09-17,French Southern Territories,2022-12-19,2024-09-17 07:42:41,93.11038706596811,17314.53240168493,Gold,Sports,True,False
+Marissa,Ford,martha92@example.net,737-775-9884,1973-06-16,Iceland,2024-12-05,2025-09-12 17:46:45,26.76598595111582,25319.604520523975,Bronze,Automotive,False,True
+April,Pittman,mark70@example.net,001-744-344-0333x2572,1962-11-25,Belgium,2021-02-01,2025-06-26 07:25:10,72.20899613887227,34636.009705307304,Gold,Sports,False,True
+Rebecca,Fisher,jeanmathis@example.net,765-936-4010,2007-02-21,Haiti,2023-05-14,2025-08-25 15:35:45,68.94894304665551,3114.6541968154684,Silver,Beauty,False,True
+Connor,Young,jacobmyers@example.com,5856369538,1999-09-10,Guernsey,2024-06-09,2025-01-15 04:11:37,44.124714384605554,11376.987285246767,Silver,Food & Beverage,True,True
+Craig,Hernandez,wjones@example.org,2182177309,2001-12-23,Macao,2021-09-08,2025-02-03 08:29:10,17.753474708896828,38722.746932188995,Platinum,Books,True,False
+Heidi,Mccoy,jordanmcdonald@example.com,209.638.6809,1977-08-20,Swaziland,2022-09-08,2025-06-11 00:35:58,45.14448266030783,29138.404685354923,Platinum,Automotive,True,True
+Chris,Branch,michael34@example.org,6444711638,1958-05-23,Cambodia,2024-08-26,2024-11-21 01:18:04,69.79026733519454,23921.422495311414,Silver,Electronics,True,False
+Jessica,Martinez,brich@example.org,938-548-8014,1952-08-09,India,2024-05-15,2025-07-19 17:44:32,41.822750016998945,99.20011011179122,Silver,Sports,True,False
+Michael,Parker,tammyfischer@example.com,+1-286-649-9327x361,1976-04-27,Tajikistan,2021-09-07,2025-03-03 21:47:16,85.04487040852048,11924.67309797138,Gold,Beauty,True,False
+Ronald,Vargas,swoodard@example.net,+1-256-943-9713x17091,1979-01-12,Bahamas,2022-09-27,2025-03-18 02:13:15,11.993245814723593,14999.012594229287,Silver,Automotive,True,False
+Shannon,Newton,michael88@example.net,8369014564,2001-05-01,Gambia,2024-11-22,2024-12-25 14:09:11,32.413315292145974,42386.88328975223,Platinum,Sports,False,False
+Mark,Mathis,jennifer07@example.net,270.772.3977x295,1993-02-13,Venezuela,2021-09-17,2024-10-01 18:04:05,58.810570505335434,40943.25096606944,Silver,Home & Garden,False,True
+Caroline,Johnson,ttorres@example.net,3232191373,1947-08-07,Austria,2025-06-14,2024-10-01 01:59:14,69.35800481686576,17888.945637822024,Gold,Food & Beverage,True,False
+James,Mclean,michael22@example.com,(380)404-4511x144,1947-09-12,Honduras,2023-04-21,2025-02-26 20:37:26,22.740281570783843,32505.88640703109,Gold,Sports,True,False
+Bonnie,Gibbs,devinharrell@example.com,963-633-3879x7957,1950-06-27,Bosnia and Herzegovina,2021-07-21,2025-02-04 07:40:55,29.14026767344837,31247.470505751317,Platinum,Beauty,True,True
+Sean,Webb,suzanne42@example.com,+1-572-464-8939x5113,1997-05-17,Dominican Republic,2021-11-01,2024-10-16 02:27:53,38.20528917565937,42986.58257685331,Bronze,Clothing,False,False
+Timothy,Jennings,lawsondaniel@example.net,001-846-339-7830x49844,1984-02-11,Isle of Man,2022-12-16,2025-07-27 02:34:24,77.6178021607173,37762.55807863221,Bronze,Clothing,True,False
+Brandon,Smith,jkoch@example.net,644-646-5465,1980-02-02,Turkmenistan,2024-10-02,2025-03-22 00:11:30,71.63813678520873,13434.121904823758,Silver,Automotive,False,False
+Rachel,Burns,vfigueroa@example.net,491-223-0939x018,1976-04-28,Montenegro,2022-07-08,2025-01-31 04:00:25,67.40483404753088,9717.682126142057,Bronze,Clothing,False,True
+Mary,Thompson,christopherjones@example.com,+1-797-813-7769x8641,1979-06-11,Pakistan,2021-03-04,2025-03-25 19:26:52,60.000399012941195,45041.600562162,Gold,Clothing,False,False
+Kelly,Dominguez,darrell89@example.com,823-539-9383x143,1945-01-26,Senegal,2023-11-13,2025-04-24 02:12:20,47.56774468736386,52.72841994045859,Bronze,Food & Beverage,True,False
+Kristen,Perez,hhenry@example.com,6713885433,1964-01-03,Paraguay,2025-01-11,2025-08-05 21:01:34,60.24847291627464,25110.573778420836,Platinum,Sports,False,False
+Anthony,Valencia,hannah36@example.net,(998)960-4543x534,1994-12-08,Pakistan,2025-05-09,2025-02-17 01:31:32,90.17458356311792,33647.61605003234,Gold,Clothing,True,True
+Sheila,Stewart,cheryl70@example.net,2356444818,1996-03-21,New Caledonia,2021-03-06,2024-12-04 19:48:46,8.381616274874817,38593.001571934175,Bronze,Sports,False,False
+George,Thomas,careynicholas@example.org,+1-541-966-6354x30873,1960-10-20,Zimbabwe,2023-03-27,2024-11-23 13:13:36,63.1402184856993,8453.962251339604,Bronze,Home & Garden,True,False
+April,Daniels,jonathon88@example.org,(962)407-0743,1974-01-27,Venezuela,2024-10-15,2025-05-18 10:17:16,75.61209124146045,6448.629216988561,Gold,Electronics,True,True
+Ralph,Williams,fullerbenjamin@example.net,7584606377,1997-04-07,Zimbabwe,2024-12-30,2025-05-07 01:05:30,70.04462633946477,21586.584323415867,Bronze,Food & Beverage,False,True
+Tracy,Fisher,tonyaguilar@example.org,(426)684-3685x0726,2003-06-12,Georgia,2023-08-19,2025-08-29 21:07:49,51.40398972652419,11601.996240421231,Silver,Clothing,False,False
+Michael,Adams,bjordan@example.com,373.965.5588x32854,1992-07-06,Western Sahara,2021-06-04,2024-12-26 23:57:05,68.17870707451016,48631.82107588281,Bronze,Beauty,False,False
+Jonathan,Bray,ronald84@example.net,+1-434-233-6059,1987-06-20,Isle of Man,2025-06-01,2025-01-11 02:07:57,78.93612160599585,10465.827055501082,Silver,Home & Garden,True,False
+Patricia,Morgan,bonnieholden@example.net,716.461.4132x03696,1996-02-09,Serbia,2025-05-17,2025-02-16 13:02:29,66.5742419460345,3165.990098468613,Bronze,Sports,False,True
+Donald,Williams,yburton@example.org,+1-879-601-1467,2005-06-18,Ethiopia,2021-02-03,2024-12-22 00:28:52,71.41869802894892,27724.117482261776,Gold,Food & Beverage,True,False
+Melissa,Potter,lynnlawson@example.org,(308)517-0703,1985-03-18,Norfolk Island,2024-03-21,2025-01-02 22:51:30,80.68923827983744,35723.08977893812,Bronze,Automotive,True,True
+Charles,Cantu,fieldsrachel@example.org,001-476-819-0085x00065,1959-02-14,Netherlands,2025-01-09,2025-02-08 02:14:39,96.2152233860893,5130.305915077432,Bronze,Food & Beverage,False,False
+Jasmine,Day,deborahcarter@example.org,+1-868-386-1180x7154,1965-03-19,Pakistan,2024-11-04,2024-10-31 11:25:05,11.260645066983955,25865.888641614856,Platinum,Beauty,False,True
+Autumn,Rogers,ihughes@example.org,923.506.5538,1964-02-20,Belize,2021-05-30,2025-03-08 03:10:40,29.123422317623138,42774.8047290311,Bronze,Food & Beverage,False,False
+Melissa,Short,amandacurtis@example.com,666-476-6660x190,1962-04-02,Saint Pierre and Miquelon,2022-01-23,2024-09-27 12:23:26,14.697706120462357,40343.81487169611,Silver,Electronics,True,False
+Mary,Bond,vdonaldson@example.net,536-571-5930x6393,1994-11-29,Bermuda,2024-02-19,2025-05-27 12:21:31,52.26854185530283,18275.55091779623,Bronze,Automotive,False,False
+Patricia,Turner,pricejill@example.com,285.845.1357x69152,1982-06-10,Belize,2022-10-07,2025-09-15 05:12:51,89.00722103308618,35209.493315542095,Silver,Home & Garden,True,True
+Sharon,Ballard,dustingomez@example.net,544-956-1895,1986-09-29,Montserrat,2021-02-11,2025-01-06 12:37:39,100.13049719523295,16171.415140935229,Platinum,Food & Beverage,False,False
+Ronald,Beck,tamarajohnson@example.org,3675057995,1971-11-23,Grenada,2020-11-27,2024-11-25 06:33:57,97.71139320616882,19920.20282200848,Silver,Books,False,False
+Danielle,Watkins,lisa86@example.org,962.662.7087,1976-12-05,Sierra Leone,2021-09-25,2024-09-30 08:37:12,35.19200709760885,20140.602030047852,Bronze,Beauty,False,False
+Ashley,Ward,perezmichael@example.com,(718)520-5139,1953-09-06,Tuvalu,2021-07-19,2025-03-29 16:57:08,64.14459810596269,51546.92464173634,Platinum,Beauty,False,False
+Anna,Jones,clopez@example.com,001-850-412-4634x0763,1984-03-02,United States Minor Outlying Islands,2024-11-04,2025-08-26 07:19:53,27.892310795744006,38925.37351203616,Gold,Books,False,False
+Stephanie,Hansen,jennifer38@example.net,924-568-5545x441,1994-11-02,United Kingdom,2021-08-26,2024-11-01 01:03:52,30.240539950738984,33876.551485658034,Silver,Sports,True,False
+April,Johnston,colonkimberly@example.org,(730)551-4859x4030,1967-03-07,Armenia,2023-03-09,2025-01-28 18:20:48,43.80854418311788,12507.121435250747,Platinum,Sports,False,True
+William,Salas,daniel22@example.com,(882)549-4328,1983-09-23,Indonesia,2021-05-06,2025-05-05 11:52:39,43.506556357930855,25675.90835149603,Gold,Books,True,True
+Douglas,Arellano,michaelorozco@example.com,+1-527-899-4597x50919,1996-09-19,Christmas Island,2024-02-29,2024-11-25 03:59:43,98.04081064855067,37953.80916004415,Silver,Food & Beverage,True,False
+Victoria,Wells,cummingstheresa@example.net,(447)616-2212x07572,1987-02-20,Turkmenistan,2025-05-30,2024-12-21 07:15:24,33.08791872545791,45150.03641311062,Bronze,Home & Garden,True,True
+Arthur,Webb,stephanie27@example.net,875.713.3341x022,1967-04-19,Aruba,2024-04-07,2025-05-23 08:16:18,47.40081987537371,27882.433214090073,Silver,Sports,False,True
+Donald,Cline,anthony34@example.org,(606)268-4116,1995-05-18,Cape Verde,2022-06-01,2025-04-08 00:10:01,26.548934125399036,9293.435304145774,Silver,Electronics,True,True
+Billy,Joyce,nosborn@example.net,755-560-7241,1977-12-15,Mauritius,2021-04-25,2025-09-12 14:37:38,76.95047832885746,17270.101469596437,Platinum,Books,False,False
+Frederick,Collins,john80@example.com,5374901124,2007-05-07,Barbados,2023-11-08,2025-08-09 06:42:44,75.1660959834358,32456.750694998107,Silver,Home & Garden,False,True
+Taylor,Delacruz,krobbins@example.net,663.530.7163x26008,1968-08-28,Rwanda,2022-11-23,2024-10-30 00:17:35,58.35117568390605,40472.53294591277,Platinum,Automotive,True,True
+Brent,Mosley,wcox@example.org,(603)320-9316x368,1984-06-17,Japan,2025-02-24,2025-01-22 06:58:13,14.40533680400103,3171.758935144883,Gold,Sports,False,True
+Richard,Mendoza,nicoleknight@example.com,(909)689-3415,1950-06-13,Malawi,2020-11-10,2025-02-21 12:36:15,80.18934035149323,43796.80576387379,Platinum,Automotive,True,True
+Madison,Butler,lisawaters@example.org,+1-382-232-4963x55316,1967-06-18,Pakistan,2021-01-05,2025-01-22 20:42:20,41.43859676761172,15978.225529396208,Gold,Food & Beverage,False,True
+Jody,Mcconnell,barnesjames@example.com,+1-714-225-4351x6894,1948-12-13,French Southern Territories,2022-05-15,2024-11-28 12:25:24,63.116138285036186,47915.62938556352,Gold,Beauty,True,False
+Alan,Hoffman,lauriedavis@example.com,265-233-6076x321,1985-12-24,Saint Martin,2024-03-29,2025-07-14 02:30:13,40.55236298626567,43713.6589759956,Bronze,Books,True,False
+Christian,Madden,ericawalton@example.net,664.319.4841x9906,1948-11-03,Colombia,2025-04-15,2025-02-24 02:19:27,41.94777609274893,21309.18509332182,Bronze,Beauty,True,True
+Jeremy,Scott,oshelton@example.net,(581)846-4816x1924,1994-01-31,Cayman Islands,2022-02-20,2025-01-04 20:48:59,92.37490023311582,46052.51686679613,Silver,Books,True,True
+Edward,Holland,warnersamuel@example.com,601.664.1667,1984-04-22,Moldova,2023-07-30,2024-10-29 18:21:15,31.595403996648553,32944.73310703736,Gold,Books,True,True
+Laura,Wood,horndavid@example.com,(400)930-3809,1956-07-10,Denmark,2022-04-23,2025-05-22 14:20:05,45.88642951633513,6364.6707378572955,Bronze,Food & Beverage,False,True
+Nicholas,Kelly,william72@example.org,+1-542-653-3184x1081,1957-10-28,Argentina,2024-02-01,2025-05-21 22:28:17,39.269137413447694,42829.38725004423,Bronze,Electronics,True,False
+Joshua,Farrell,robertsjessica@example.com,+1-445-745-2257x983,1959-07-09,Bahamas,2022-01-17,2025-07-18 19:36:02,30.121147224241113,10895.566289789873,Silver,Home & Garden,True,False
+Sergio,Lynch,umartinez@example.net,001-457-448-9967,2005-08-17,Senegal,2022-12-12,2025-07-31 05:16:29,48.54819691335805,26053.13673181187,Silver,Food & Beverage,True,False
+Grace,Zhang,gmorris@example.com,001-326-281-5956x57763,1960-01-24,Benin,2024-11-22,2025-01-11 13:55:45,27.32863190856096,21497.48860815028,Silver,Automotive,True,False
+Patricia,Patel,evansbruce@example.net,+1-607-236-9202x8584,1996-12-20,Isle of Man,2025-03-12,2024-11-13 05:59:02,18.386787636819754,19318.63496583477,Silver,Clothing,False,False
+Ruben,Estes,meghanmanning@example.org,335-909-6045x74726,1972-09-02,Congo,2023-08-10,2024-09-29 09:55:38,11.68352381219058,6954.611780014195,Gold,Electronics,True,True
+Mark,Johnson,nicholas28@example.com,755.717.9089,1960-10-21,Timor-Leste,2021-02-02,2025-05-17 11:44:21,8.547629513946793,35970.97093831824,Platinum,Sports,True,True
+John,Bailey,contrerascarla@example.com,(496)253-8372x934,1995-01-03,Uganda,2022-04-23,2025-01-18 01:45:35,53.904022201989385,5044.600142056019,Silver,Sports,False,False
+Sheryl,Williams,vcastillo@example.net,001-620-752-8174,1949-10-03,Saint Lucia,2021-08-14,2024-11-04 08:44:57,98.20648785106225,8078.30540655257,Bronze,Electronics,False,True
+Ronald,Short,iscott@example.net,327-710-3203,1946-04-13,Mozambique,2023-01-14,2025-03-16 18:18:35,69.42306531559302,3954.0362037554987,Bronze,Clothing,True,True
+Heather,Li,shelia54@example.org,584-539-2923x5238,1990-02-03,Burundi,2023-01-13,2025-04-05 09:48:31,77.90239730967654,20845.154297205034,Bronze,Beauty,True,False
+Mary,Parsons,masonaaron@example.org,2488102580,1997-06-30,Georgia,2020-11-11,2025-02-09 09:09:17,74.39457782600893,2916.9407458234787,Gold,Clothing,False,True
+Shelby,Reynolds,jacksonmichaela@example.net,995-659-6727,1950-03-05,Anguilla,2022-07-08,2025-06-04 11:05:18,29.820866402699327,7332.5396087490935,Bronze,Clothing,False,True
+Lisa,Jensen,jimenezemily@example.com,(644)757-9509,1958-12-07,Madagascar,2025-06-14,2025-01-26 11:38:59,60.41014575153261,4693.422209745877,Gold,Electronics,True,True
+Dakota,Hernandez,sarah19@example.com,+1-336-695-1030x4116,1961-05-25,Panama,2021-07-07,2025-06-04 08:27:39,12.939115211892691,45466.77321900847,Bronze,Home & Garden,False,False
+Jane,Gonzalez,melissaramirez@example.net,528-843-5918x4043,2004-05-18,Central African Republic,2023-05-25,2025-04-12 08:52:59,58.96946011871164,-381.55645321773125,Gold,Beauty,False,False
+Brandi,Morales,deborah68@example.org,9285494615,1971-06-23,El Salvador,2021-04-02,2025-03-30 04:18:33,58.08571503901125,14582.29565861342,Gold,Beauty,True,True
+Luis,Vega,tsmith@example.com,+1-471-796-7791x341,1950-04-10,Djibouti,2021-07-07,2025-04-11 19:29:09,81.2194529326023,38161.13098810846,Bronze,Sports,True,True
+Robert,Novak,samanthamurphy@example.net,+1-545-340-5881x6607,1988-08-23,Mexico,2022-08-11,2025-05-31 14:18:10,28.73812092305183,4398.707116698271,Silver,Clothing,False,False
+Christopher,Moreno,jacktate@example.org,438-556-8399x69037,1961-10-23,Gambia,2025-02-27,2025-07-07 13:07:53,26.559898088772044,21848.65143680661,Gold,Beauty,True,False
+Cynthia,Brown,harveytami@example.net,+1-537-664-5840,1959-09-13,Pitcairn Islands,2024-03-15,2024-09-21 23:38:37,83.6307795488608,30212.050107192368,Silver,Electronics,True,False
+Lance,Harris,michaelmonroe@example.org,+1-410-908-7628x1183,1981-04-02,Dominican Republic,2021-12-10,2025-01-31 15:34:06,81.65307290622829,23737.359076434957,Bronze,Sports,False,False
+Jerry,Chase,francolisa@example.com,420.636.3343x1549,1998-06-15,Barbados,2025-07-27,2025-06-10 01:45:36,38.377766993618735,36935.65551306197,Bronze,Beauty,True,False
+Hector,Jacobson,williamsmichael@example.net,+1-476-722-6978x81811,1970-09-13,Peru,2021-11-13,2025-08-23 19:18:38,9.486880884213905,41492.52715313152,Gold,Beauty,True,False
+Theresa,Fields,seth30@example.com,+1-436-460-6841x06089,1952-09-14,Hungary,2025-02-07,2024-12-31 22:24:04,9.680694629633557,25210.849683434524,Gold,Home & Garden,False,False
+Michelle,Mann,fieldschristine@example.net,594.480.6490x598,1985-03-10,Panama,2021-08-15,2025-01-06 17:38:08,71.43862522395062,11539.317652190148,Bronze,Sports,True,False
+Chris,Hardin,johngrant@example.com,001-373-735-9137x7897,1986-09-12,Congo,2025-07-23,2025-08-15 15:27:53,16.329613199586618,8199.654267379696,Bronze,Home & Garden,True,False
+Casey,Calhoun,garyvazquez@example.org,7513395428,1951-04-26,Ghana,2023-12-31,2025-08-25 00:01:36,64.44371777979264,42071.106515254425,Bronze,Sports,True,True
+Timothy,Casey,meghanmedina@example.net,451-291-6642,1970-01-17,Monaco,2022-06-03,2025-09-13 23:47:26,56.96159880251306,10178.397275527994,Silver,Electronics,True,True
+Cassandra,Andrews,bernardarmstrong@example.org,334.438.1065x984,1972-04-19,Israel,2024-09-03,2025-08-19 12:07:39,35.91883456448512,3881.363356039281,Silver,Sports,False,False
+Laura,Daniels,hoffmanheidi@example.net,415-657-1031,1986-01-01,Monaco,2024-10-03,2025-07-16 14:45:36,97.5452307351065,49515.63594637836,Gold,Beauty,False,False
+Shelly,Richardson,caseyandrea@example.com,864-966-1020x0643,1991-02-25,Burkina Faso,2023-12-23,2025-05-03 07:24:26,49.81284699136938,37586.32772926457,Silver,Clothing,True,True
+Tamara,Sanchez,crystalking@example.org,291.613.3978,1956-11-12,India,2021-01-24,2024-12-15 07:17:01,54.64536414283651,21926.89367108677,Bronze,Books,True,False
+Cheryl,Perkins,hquinn@example.com,+1-774-342-4077x92813,2006-09-03,Congo,2021-04-29,2025-06-09 09:34:51,85.32232214192102,31284.957373698184,Silver,Food & Beverage,False,True
+Cristian,Fox,rollinsjennifer@example.net,(302)589-1076x2665,1952-02-07,Lithuania,2023-11-18,2025-03-04 21:59:24,20.972973490843327,5718.976933358333,Platinum,Sports,True,True
+Devin,Romero,tonya60@example.com,372.725.5040x42606,1981-11-05,Nepal,2025-02-02,2025-03-12 10:01:16,55.00146815573081,15470.405530372778,Gold,Automotive,False,True
+John,Ford,joan37@example.net,(891)240-9593,1984-08-11,Barbados,2024-10-31,2025-03-08 18:21:35,48.47135856461797,7995.612939689017,Gold,Sports,True,False
+Erika,Bryan,lilouis@example.org,+1-886-963-0881x562,1984-10-19,Sweden,2023-12-19,2025-03-05 06:23:30,12.975214865987361,29940.92604273739,Platinum,Automotive,False,False
+Tiffany,Murphy,patelsamuel@example.org,(752)848-8055,1967-02-08,Bolivia,2023-04-18,2025-07-26 06:20:20,100.23588620939476,12727.269102712671,Platinum,Automotive,False,True
+Karen,Shaw,joseph26@example.org,9389393384,2002-12-21,Slovenia,2023-02-05,2025-05-27 04:11:17,43.01615219149418,3569.7956697375002,Bronze,Books,True,True
+Wayne,Leonard,rachelpena@example.com,7722785654,1982-06-22,Switzerland,2024-05-14,2025-02-17 05:45:41,41.34856443556179,33366.90367562559,Bronze,Automotive,False,False
+Billy,Rivera,evansdawn@example.net,(846)579-0937,1972-07-07,Norfolk Island,2024-09-24,2024-11-22 14:06:24,28.473667801040154,12689.888715883584,Silver,Electronics,False,False
+Kathleen,Mcdaniel,phillipdavis@example.com,+1-776-873-1230x9447,1989-12-31,Benin,2021-06-21,2025-07-06 12:05:14,-1.354562108039925,38998.783416678576,Gold,Food & Beverage,False,True
+Lydia,Larsen,woodchristopher@example.net,001-468-372-1594x490,1984-03-01,Holy See (Vatican City State),2023-08-19,2024-12-20 13:26:40,70.15652048419756,1639.1986384497268,Silver,Beauty,False,False
+Alexander,Grant,adavis@example.com,+1-233-450-6760x948,1980-07-18,Costa Rica,2022-08-10,2024-10-08 10:52:16,30.46158021864669,32854.28642488658,Platinum,Automotive,False,True
+Eric,Liu,laurie60@example.net,+1-734-815-2562x3512,1988-01-10,Angola,2024-02-20,2024-10-19 20:21:52,82.64877233817458,1989.9409679390246,Bronze,Books,False,False
+Amanda,Banks,raymondvaughn@example.com,001-636-554-6022x104,1955-04-15,Armenia,2022-03-02,2025-06-21 09:18:14,28.588694148664725,14797.625829364546,Platinum,Clothing,True,False
+Carol,Young,kristine14@example.com,509.868.1864,2005-12-06,Sri Lanka,2022-03-30,2025-06-01 06:01:48,57.79995076236767,14294.800657134028,Silver,Electronics,False,True
+Rebecca,Olson,rebecca99@example.net,+1-561-761-3346,1961-08-13,Croatia,2020-12-31,2025-05-05 00:51:13,47.02093045932687,20640.470261305763,Platinum,Sports,True,False
+Stephanie,Reyes,latoyacalderon@example.com,372.955.8467x144,1966-03-29,Saint Kitts and Nevis,2021-04-23,2025-05-05 13:00:08,56.62442972447538,39272.42401130939,Silver,Electronics,True,True
+Jeffrey,Jacobson,laurasaunders@example.com,001-970-506-5204x02955,1984-10-11,Northern Mariana Islands,2021-05-29,2024-10-15 02:01:48,82.82010487677044,32791.801181994815,Gold,Home & Garden,False,True
+Brett,Orozco,tkim@example.com,+1-488-462-2340x7442,1988-11-26,United Arab Emirates,2022-11-11,2024-09-19 01:27:29,55.355528524605255,38988.54643942823,Bronze,Beauty,True,False
+Taylor,Harrington,levistephens@example.net,987-957-1263,1983-01-24,Cocos (Keeling) Islands,2020-11-21,2024-12-17 01:21:11,37.54475691322979,6950.381556810725,Bronze,Home & Garden,False,True
+David,Griffin,branchgregory@example.com,790.849.5588x5096,1981-07-03,Sudan,2024-02-22,2025-02-06 12:55:06,30.403819937983496,23773.651139511876,Gold,Clothing,True,False
+Samuel,Morgan,melissa84@example.net,266-852-9576x5089,1947-06-29,Belgium,2021-08-02,2025-06-18 23:24:51,60.92563956911383,1697.4899878564677,Platinum,Home & Garden,True,False
+Carol,Logan,ricardogarcia@example.com,829.682.9212,1982-06-22,Ethiopia,2022-06-17,2025-06-23 03:52:10,66.79306229081226,38416.149274119736,Gold,Automotive,False,True
+Timothy,Murphy,harmonjill@example.com,8988007461,2002-04-03,Angola,2024-12-08,2025-02-16 12:27:16,11.830945813877044,21674.923990181233,Gold,Beauty,True,False
+Vernon,Shaw,ocordova@example.net,841.823.2064,2007-07-25,Mongolia,2020-11-26,2024-09-19 16:55:09,91.6765781971832,1192.6084253498543,Platinum,Automotive,True,True
+Benjamin,Rodriguez,mike20@example.net,001-240-509-9929,1967-04-17,Portugal,2021-06-26,2024-10-16 09:38:24,74.71354394522297,14302.700247086783,Silver,Home & Garden,True,False
+Ryan,Brown,lhernandez@example.com,(961)642-7932x57907,1982-05-30,Armenia,2021-05-10,2024-11-01 14:22:52,73.57012348693443,10508.579240922863,Silver,Books,False,True
+Anthony,Mcknight,martinezwalter@example.net,273.291.0267x769,1963-05-26,Portugal,2022-03-23,2025-01-13 18:47:42,83.82910315716023,4690.722365299066,Silver,Clothing,False,False
+Debra,Palmer,rosechristopher@example.net,+1-205-810-6648,2004-08-09,Kazakhstan,2024-05-10,2025-01-14 09:59:59,60.05056448902216,42426.484824885134,Gold,Food & Beverage,False,False
+Christopher,Rojas,mwalker@example.com,8303985959,1997-05-03,Gibraltar,2022-02-01,2024-11-28 18:13:34,23.31970293905061,13771.001510849988,Gold,Food & Beverage,False,False
+Henry,Hale,jacksonnathaniel@example.net,(870)748-6676,1992-02-10,Grenada,2022-01-24,2025-07-04 14:23:02,53.48013851388564,43003.96997305777,Gold,Clothing,False,False
+Julie,Richardson,nflores@example.net,532-245-1946,1976-11-17,Guernsey,2025-07-04,2025-02-01 22:30:32,92.57379558462593,37999.53346963876,Gold,Beauty,True,False
+Victor,Carter,juanjohnson@example.com,658-905-4195x284,1947-04-01,Saint Helena,2025-07-13,2025-05-18 11:34:38,22.57798129116808,4378.628195092373,Gold,Clothing,False,True
+Keith,Johnson,veronicagraham@example.com,3246734165,1984-09-24,Mozambique,2022-03-27,2024-10-19 02:46:56,0.31924885059760677,11715.812101958058,Silver,Food & Beverage,True,False
+Colleen,Ramirez,rojasmelanie@example.com,001-811-505-9866x4734,1970-06-19,Myanmar,2020-11-28,2024-09-22 13:09:08,42.51388520047446,10704.598662484548,Silver,Clothing,False,False
+Mary,Garcia,williamsheather@example.com,240-916-1482,1973-04-14,Turkey,2025-06-19,2025-06-29 22:12:48,33.44430105169042,9060.066017050049,Gold,Electronics,True,False
+Javier,Moore,laurentorres@example.org,+1-758-997-6243x251,1969-12-23,Sweden,2023-09-04,2024-12-20 18:34:39,81.33029308665762,39417.08482361145,Gold,Clothing,True,False
+Justin,Ingram,michaelvasquez@example.com,2256535446,1990-08-01,Iceland,2021-04-27,2024-10-16 18:46:57,56.74987314675504,52259.96966716633,Platinum,Sports,True,False
+Jason,Contreras,wrightdiamond@example.com,(716)337-6390x24624,1965-04-01,Monaco,2024-05-25,2024-11-05 16:19:18,4.553212147238789,40932.784654671545,Bronze,Clothing,False,True
+Alex,Fleming,wesley40@example.org,385-483-1860x87290,1964-05-28,Peru,2022-08-13,2024-11-29 03:30:14,61.01105998311904,8528.436826822755,Gold,Food & Beverage,False,False
+Joshua,Horn,tommylopez@example.com,(341)945-8001x43289,1995-09-18,Lao People's Democratic Republic,2021-04-22,2024-09-20 07:37:11,54.024770573826665,23534.94148165071,Silver,Beauty,False,True
+Kristen,Jordan,candice77@example.com,(501)453-4619x7082,1967-10-29,Palau,2024-11-05,2024-12-26 07:40:02,79.80378192998768,10544.040310250886,Silver,Food & Beverage,False,False
+Benjamin,Walker,lopeztimothy@example.com,592-460-8581x49209,1968-01-03,Dominica,2021-11-16,2025-05-08 00:51:57,74.26970928192004,27668.566207776777,Bronze,Home & Garden,True,False
+Michelle,Hatfield,kevin67@example.org,935.398.3317x08556,1976-03-10,Cyprus,2023-05-04,2025-06-29 12:43:08,61.906846027533604,2125.7155278347227,Platinum,Electronics,True,False
+Wendy,Thornton,myersjoshua@example.com,392.463.2874x27653,1963-09-21,United States Minor Outlying Islands,2023-06-29,2025-07-05 11:01:49,85.49484205825568,-340.86243974079593,Gold,Beauty,False,True
+John,West,hendersoncharles@example.com,399-986-9251x94049,1970-10-31,Belize,2021-12-27,2025-04-28 02:45:45,65.4863890576168,-1086.968839724328,Gold,Automotive,True,True
+Dana,Cruz,christystone@example.com,+1-286-463-4864,2001-03-12,Jordan,2024-10-04,2025-01-29 05:29:23,89.96485410908018,40223.54462792467,Platinum,Clothing,False,True
+Teresa,Gill,joshua06@example.net,001-439-738-2150x7258,1958-07-12,Venezuela,2023-01-04,2024-11-29 22:53:38,49.633032359941325,2216.2364043309076,Platinum,Beauty,False,False
+Sheila,Sawyer,garciakeith@example.net,001-801-780-2096x971,1986-01-02,Botswana,2023-06-08,2025-06-26 14:25:27,60.851628760228714,10581.422884473395,Bronze,Electronics,True,True
+Austin,Travis,michael11@example.org,234-205-3355,1982-03-26,Andorra,2023-04-12,2025-06-25 21:01:24,43.091058571503474,2677.594688472465,Gold,Electronics,True,True
+Christine,Gardner,david75@example.com,226.316.3766,1952-06-20,Iceland,2024-02-18,2025-02-27 04:03:54,11.58684789858288,49435.693267559654,Silver,Books,False,True
+Wendy,Daniels,richardwilliams@example.org,7017003200,1990-08-29,Grenada,2020-11-18,2025-07-05 17:08:07,62.8874010358897,47111.01948525407,Silver,Books,True,False
+Lauren,Johnson,amanda43@example.net,+1-667-391-9386,1949-12-16,Cocos (Keeling) Islands,2022-02-14,2025-04-08 11:12:43,74.34218726384266,32442.250748048435,Gold,Clothing,True,False
+Vincent,Valentine,jenna07@example.com,5263646879,2005-08-30,Morocco,2024-11-08,2024-11-25 14:47:30,29.83712824354399,30654.689243546803,Gold,Food & Beverage,False,False
+Andrew,Warner,shannonbeard@example.com,898-231-7546x550,1949-01-12,Saint Vincent and the Grenadines,2020-11-28,2025-01-23 11:41:52,7.260323745578517,6307.027562118905,Gold,Electronics,True,True
+Austin,Gordon,jennifertyler@example.com,+1-299-271-1752,1963-09-18,Germany,2023-05-13,2024-11-07 13:15:49,13.482637586617072,46662.856554574624,Silver,Books,False,False
+Margaret,Summers,alexiswebb@example.net,+1-323-838-1352x887,1957-06-20,French Guiana,2023-03-14,2025-04-28 04:25:49,48.952181374903056,3349.3019238612433,Platinum,Books,False,True
+Rita,Jones,lisahughes@example.org,535-860-0524x4321,1983-05-10,Paraguay,2024-03-26,2025-04-17 15:47:05,86.85697920401492,12829.450806324263,Gold,Electronics,True,True
+Robert,Smith,dustin22@example.com,477.995.8300,1962-06-03,Vanuatu,2022-02-18,2025-01-26 10:31:54,28.416677628040482,17155.947651659473,Bronze,Home & Garden,True,False
+Kristopher,Pineda,tammyjohnson@example.com,(433)565-0900,1965-03-22,Maldives,2022-12-27,2025-08-30 03:04:33,6.140799338181623,3064.535617327806,Gold,Sports,True,False
+Shawn,Davis,hschultz@example.net,001-879-833-6923,2003-02-16,Tajikistan,2025-04-28,2025-03-15 16:28:36,78.72969805695017,1863.5913571154597,Bronze,Beauty,False,False
+John,Ellison,lisa60@example.org,9723716924,1954-03-21,Uganda,2025-04-05,2024-10-01 10:42:42,84.8780894841918,36072.259547823975,Platinum,Beauty,False,False
+David,Mcdaniel,justin18@example.net,406-762-2445x3606,1983-07-19,Greece,2021-08-02,2025-07-13 16:37:19,80.90569771971863,43786.098333675975,Gold,Home & Garden,True,False
+Todd,Campbell,urobinson@example.org,001-771-638-3888x818,1972-09-17,Korea,2024-07-02,2025-05-30 20:25:21,41.06206675257956,7.404030587227226,Silver,Books,True,True
+Tammy,Simmons,schan@example.net,7075127882,1964-08-11,Albania,2021-06-08,2025-01-08 00:40:41,67.03439997529982,33283.71215527285,Platinum,Sports,True,False
+Theresa,Evans,melissa48@example.net,001-573-611-9567x6915,1971-03-02,Lao People's Democratic Republic,2021-11-14,2025-03-17 16:01:56,58.54455787139656,30548.61261856154,Gold,Electronics,False,True
+David,Brown,taylorkeith@example.com,501.578.7686,1955-12-12,Saint Barthelemy,2023-04-08,2025-02-08 22:56:16,14.935516722969272,46635.55695711397,Platinum,Home & Garden,True,False
+Anthony,Zhang,amandasharp@example.com,(662)382-5737,1959-08-17,Cote d'Ivoire,2024-10-20,2024-10-21 05:10:11,42.48785273723246,44212.33676305423,Bronze,Electronics,False,True
+Nicholas,Castro,graykevin@example.com,+1-438-588-2341x254,1967-07-26,Jamaica,2021-05-03,2025-02-17 01:45:41,13.39043018535784,28961.933121145965,Platinum,Sports,False,True
+Eduardo,Johnson,lori94@example.org,(381)677-8325x824,1980-09-02,Vanuatu,2022-07-04,2025-06-24 13:38:02,44.6252785001596,10466.518233471275,Platinum,Beauty,True,False
+John,Smith,gvillanueva@example.com,001-396-257-5166x34423,2001-10-23,Cambodia,2022-11-23,2025-02-11 17:58:22,99.12574224068491,23924.86930889615,Gold,Home & Garden,False,False
+Sarah,Brown,melissaclark@example.net,001-418-768-6536x116,1959-04-11,British Virgin Islands,2025-05-29,2025-02-21 13:30:16,50.499334133523185,39769.55148227617,Bronze,Food & Beverage,True,True
+Kristine,Oconnor,qlewis@example.net,743.785.7165x77931,1961-03-30,Korea,2024-02-29,2025-02-21 14:34:20,13.418596258344662,28235.636258438473,Bronze,Food & Beverage,True,True
+Katelyn,Pollard,jessicagay@example.net,672-791-2482,1964-05-08,Palestinian Territory,2024-05-15,2025-02-08 19:57:56,45.01202789216034,3745.6169377433553,Bronze,Beauty,False,False
+Anna,Robinson,leahfox@example.org,(323)256-7214,1976-05-26,Uzbekistan,2023-09-15,2024-09-26 05:01:46,28.209096306180506,10572.563823333217,Gold,Food & Beverage,False,True
+Nathan,Ware,kevin79@example.org,8682175396,1971-07-17,Tuvalu,2024-02-22,2024-12-18 21:17:24,72.09521658024077,46683.086212922884,Bronze,Automotive,True,True
+Karen,Ayala,hryan@example.net,001-214-334-8838x3506,1990-05-16,Mayotte,2023-01-02,2024-11-07 07:15:37,91.52506339029522,11556.354808491538,Bronze,Food & Beverage,True,False
+Jeffrey,Brewer,aaronromero@example.com,(726)623-4202x972,1970-05-01,Malawi,2025-04-23,2024-09-22 12:00:14,91.64119118385213,27178.77881556245,Silver,Food & Beverage,False,False
+John,Bailey,dgray@example.com,+1-855-364-6881x087,1987-02-10,Burundi,2025-01-01,2025-05-15 22:16:36,58.56892812544668,21693.66534618129,Bronze,Food & Beverage,False,False
+Christine,Schultz,ochoamonica@example.com,001-704-904-8442x432,1990-10-12,Christmas Island,2022-04-02,2025-08-17 00:19:26,43.99147147122776,3133.6968442537564,Platinum,Automotive,True,False
+Morgan,Frye,christina39@example.com,8128506493,1953-12-13,Ethiopia,2020-09-20,2025-06-30 21:04:51,57.875963005034905,11137.122603683447,Gold,Automotive,False,False
+Dave,Tran,bryanblake@example.net,998-971-7670x8276,1982-06-04,Palestinian Territory,2020-10-18,2025-05-12 13:24:31,48.153924879456476,9947.089859027723,Gold,Sports,True,False
+Paul,Shepherd,qarias@example.net,(235)913-3749,1960-08-14,Northern Mariana Islands,2021-10-21,2024-09-23 06:10:24,12.060624486130695,-1271.2807840022226,Bronze,Sports,True,False
+Sherry,Carter,zbrown@example.net,(635)333-4063x087,1957-08-16,Monaco,2024-08-28,2024-12-05 08:57:59,51.26122401046855,32053.44503683902,Silver,Clothing,True,True
+Scott,Haynes,mhamilton@example.com,541-282-3223,1998-08-13,Afghanistan,2022-04-25,2025-05-11 22:41:36,48.21438146822382,46273.480132132514,Bronze,Automotive,True,True
+Allison,Boyd,johnowens@example.net,001-255-309-3353,2000-06-08,Guam,2025-03-31,2025-03-31 09:08:02,35.421711326532765,40165.948470725896,Silver,Books,False,False
+Christine,Kemp,ronald64@example.net,973-517-4825,1957-10-18,Congo,2025-07-21,2025-07-23 04:32:44,62.8886673586525,8337.287047187145,Bronze,Food & Beverage,False,True
+Jessica,Flores,jamesvazquez@example.org,+1-920-330-8233x2281,1998-12-20,Swaziland,2022-01-10,2025-03-22 00:55:44,31.787688644908282,33823.98794530139,Platinum,Automotive,False,True
+Carl,Miller,webbemily@example.net,(272)211-9208,1955-04-12,Syrian Arab Republic,2021-09-05,2024-10-20 05:36:23,6.381141748093276,46339.63648398122,Gold,Electronics,False,False
+Amy,Curry,mlee@example.com,+1-741-419-1860x02515,1978-07-08,Slovenia,2023-09-15,2024-12-24 01:37:25,40.653578564097955,17819.119704165547,Bronze,Clothing,False,False
+Linda,Jones,devongonzalez@example.net,001-809-364-1751x6672,1966-07-10,Chile,2021-03-17,2025-02-26 03:59:49,52.97203015251127,25221.710033608677,Gold,Beauty,True,True
+Pamela,Rodgers,jenniferrose@example.net,271.918.0276x237,1963-12-15,Timor-Leste,2022-11-23,2024-09-17 14:28:36,14.727296374670171,20265.456874356936,Platinum,Electronics,True,True
+Natalie,Rodriguez,ashley57@example.org,+1-259-557-6776x4077,1995-09-30,Central African Republic,2021-03-14,2025-04-22 06:17:31,87.92296995476188,27774.3556414677,Bronze,Home & Garden,False,False
+Amanda,Luna,fostermary@example.net,+1-727-836-6107x38437,1999-04-23,Saint Lucia,2024-12-05,2024-09-21 13:42:50,20.49080696804109,16158.813513366096,Bronze,Beauty,True,True
+Brett,Osborne,dwilson@example.org,331-525-3996,2007-05-02,Christmas Island,2022-10-23,2025-08-22 14:47:54,45.82000096149836,39420.40902454761,Gold,Sports,False,True
+Alan,Herrera,hernandezrobert@example.org,(219)637-9522x53012,1960-08-14,Honduras,2024-06-28,2025-09-15 03:35:23,54.61730592064237,37074.051016610414,Silver,Clothing,False,True
+Micheal,Russell,evansvanessa@example.com,381-583-7360x335,1961-07-11,Egypt,2024-12-27,2025-06-22 12:53:27,63.14060869440934,37755.33839877034,Platinum,Clothing,False,True
+Crystal,Taylor,carolyn37@example.com,(387)253-5370x05667,1982-09-09,Aruba,2023-06-23,2025-07-09 15:20:16,36.73472537966154,12398.478525358842,Silver,Clothing,False,True
+Bryan,Smith,kmills@example.com,001-828-709-2172x5228,1982-09-11,Thailand,2023-12-03,2025-09-16 15:05:51,11.602203819305979,23952.829122666844,Bronze,Sports,True,True
+Jessica,Kelly,wandajones@example.com,6024990722,1997-11-15,United States Minor Outlying Islands,2023-07-31,2024-11-20 19:00:02,40.757568509132014,29507.760881947524,Gold,Beauty,True,True
+Janet,Hunt,kevinthompson@example.org,304-864-7675x286,1963-05-31,Cuba,2023-11-26,2025-06-06 04:12:56,43.18921625253764,42405.29710889276,Silver,Clothing,False,False
+Jessica,Gonzalez,allengoodwin@example.net,001-544-934-1271x03043,1974-02-22,Guyana,2021-10-08,2024-12-26 21:07:36,93.54145635241541,1016.2728005367192,Platinum,Automotive,False,False
+Sara,Bradford,travis06@example.net,001-494-986-3954x092,1974-10-19,Saudi Arabia,2024-07-08,2025-08-24 05:50:30,61.56424630452697,48403.65036912705,Bronze,Electronics,False,True
+Colleen,Small,nwatkins@example.net,001-244-395-4986x833,1945-10-21,Zambia,2023-11-02,2025-02-24 07:57:29,53.84706099630947,5139.61644045664,Bronze,Automotive,True,False
+Christopher,Smith,littletodd@example.net,635.245.7501,1957-02-05,Singapore,2022-04-09,2024-10-03 04:33:54,19.568006470388866,46995.578171758716,Bronze,Books,True,True
+Alice,Blevins,warrenjohn@example.com,(445)760-3232x811,1990-08-28,Burundi,2022-12-13,2025-03-23 12:49:00,43.99571346427817,43554.05998412952,Gold,Food & Beverage,True,False
+Michael,Pruitt,jeremy97@example.net,(424)820-1177,2000-07-15,Bosnia and Herzegovina,2025-01-16,2024-10-23 00:36:04,35.91848878766854,30751.14475547867,Gold,Automotive,True,False
+Lindsay,Martinez,xmoore@example.com,001-697-775-3962,1975-07-03,South Africa,2025-07-16,2025-01-04 19:25:53,50.676405108854134,39550.959522744735,Gold,Sports,True,False
+Robert,Fisher,lisa58@example.net,301-369-0300,1974-11-04,Saint Martin,2024-10-20,2025-05-17 13:13:04,6.622855698164517,27786.439327450647,Platinum,Beauty,False,True
+Sandra,Olson,tuckersteven@example.net,4685156148,1989-01-03,Ethiopia,2024-10-01,2025-01-11 14:07:31,77.72497485874592,45733.870663202666,Silver,Sports,False,False
+Randy,Bishop,smitherik@example.com,(794)807-6147,2000-10-10,United Kingdom,2024-08-01,2025-03-07 05:10:19,12.233019677390995,14719.741843602425,Gold,Beauty,True,True
+Tamara,Johnson,afarley@example.com,359-714-9997,1959-08-03,Greece,2025-08-29,2025-08-27 05:49:39,73.13707639455266,25729.378753369943,Silver,Clothing,True,True
+Erin,Mills,pjones@example.com,+1-801-536-3713x4495,1979-10-14,Russian Federation,2024-09-06,2025-08-16 20:14:52,88.87359539339727,27402.79491128598,Platinum,Home & Garden,False,True
+Pamela,Harris,ianderson@example.net,532-769-8085x12756,1985-01-26,Mozambique,2025-07-08,2025-01-06 07:55:37,64.95892605609897,8747.978516992083,Silver,Automotive,True,False
+Brian,Fuller,garciamelissa@example.net,746.693.6800x57840,1963-03-16,Niue,2025-06-09,2025-05-07 10:07:24,0.94806964046741,40159.76529393403,Bronze,Home & Garden,True,True
+Bradley,Riley,jeffreyjohnson@example.com,001-749-506-8097x63785,1970-11-26,San Marino,2023-11-17,2024-10-29 18:26:06,24.23245301821366,50449.57390841561,Platinum,Clothing,False,True
+Chad,Buchanan,imorton@example.net,(580)480-3505x574,1988-03-17,Iceland,2022-01-09,2025-08-16 15:38:34,72.3248624931645,32999.945154616915,Silver,Sports,False,False
+Todd,Brown,robert04@example.net,3245354920,1955-10-08,Saint Pierre and Miquelon,2024-11-16,2024-12-11 18:59:52,58.71197311423626,1265.857980300525,Bronze,Books,True,False
+Henry,Randall,anita33@example.org,644.611.3287,1975-09-19,Tonga,2025-04-10,2025-08-18 06:06:20,68.45046598528188,30565.099051477417,Gold,Clothing,False,False
+Natasha,Burch,melissa69@example.com,+1-464-398-6380x9178,1946-09-12,Kuwait,2022-12-10,2025-08-08 20:42:41,13.478072411652633,44832.31629435913,Silver,Sports,False,False
+Diana,Johnson,mpeterson@example.net,298-875-4499,1975-05-16,Trinidad and Tobago,2020-09-24,2025-05-11 15:13:26,70.90052055429672,38454.53505306428,Bronze,Food & Beverage,True,True
+Nicole,Robertson,floresmatthew@example.net,683.266.9499,1991-03-22,El Salvador,2023-02-07,2025-02-18 02:32:32,53.60685501325795,38807.91206154218,Gold,Electronics,False,False
+Jeffrey,Fitzpatrick,michael96@example.org,001-219-536-7975x4242,1988-03-10,Namibia,2021-09-17,2024-12-18 07:50:47,95.28631620315629,43757.59417544764,Bronze,Food & Beverage,False,True
+Victoria,Deleon,walkerjacob@example.net,580-960-6172x7191,1980-01-22,Togo,2023-02-25,2025-04-18 02:48:22,37.75070754664934,5310.5358807842,Gold,Clothing,True,True
+Diana,Villanueva,mary50@example.com,+1-717-861-0945x8190,2004-02-26,Dominican Republic,2023-05-20,2025-08-02 10:40:09,104.27827825513099,13828.993480762736,Bronze,Food & Beverage,False,False
+Emily,Johnson,jennifer79@example.com,001-977-899-9053x26079,1964-01-02,Cameroon,2023-02-22,2025-04-18 05:56:55,96.1004119049581,41182.04016927898,Silver,Food & Beverage,False,False
+Margaret,Nelson,zmueller@example.net,001-500-290-9020x19309,1952-06-03,Falkland Islands (Malvinas),2021-12-01,2025-08-31 13:05:33,31.119046067316074,36640.12641268562,Silver,Clothing,False,False
+Lisa,Jones,lwells@example.org,001-834-391-9697x39872,1946-11-17,Guadeloupe,2024-07-23,2025-02-25 08:26:55,12.229548228744752,16785.79925636021,Platinum,Beauty,True,True
+Kevin,Fields,wglenn@example.com,(263)813-0945,1977-11-21,Estonia,2021-12-29,2025-05-21 12:58:40,83.99338683399682,39273.21839341162,Platinum,Clothing,True,False
+Timothy,Villanueva,hbailey@example.org,(837)257-7542,2002-09-30,Sri Lanka,2024-11-30,2025-05-03 02:32:49,16.905620582245398,28589.189534050096,Gold,Beauty,True,False
+Jessica,Miles,marie10@example.org,(967)203-2925x0971,1969-10-19,Faroe Islands,2020-10-05,2025-01-02 21:10:01,79.81311902370872,34683.944836338174,Silver,Electronics,True,True
+Linda,Nelson,ericscott@example.net,270-901-0098x3464,2007-06-20,Syrian Arab Republic,2025-05-24,2025-04-07 15:45:10,35.22801189715958,11918.16761787873,Silver,Food & Beverage,True,False
+Sarah,Carson,pachecoleslie@example.net,269-502-7061,1979-10-16,Rwanda,2023-11-28,2025-04-01 04:03:02,40.02329051133767,30444.153750998743,Platinum,Food & Beverage,True,False
+Timothy,Reynolds,maryjohnson@example.net,+1-691-391-8726,1990-02-04,Niger,2023-02-26,2024-09-30 23:34:25,3.1135920003671567,16339.190377928806,Gold,Food & Beverage,False,True
+Cody,Morris,pamelayang@example.net,001-377-315-2932,1960-03-02,Japan,2025-07-28,2024-12-26 16:52:33,34.59303371375768,28893.650356884984,Gold,Sports,False,False
+Kathleen,Melton,cpeterson@example.net,464.695.7967,1989-04-09,Bulgaria,2024-12-09,2025-03-01 16:14:42,35.16529554326915,17845.088778063913,Gold,Electronics,True,True
+Holly,Hunt,holttonya@example.net,367.374.6646x61124,1992-12-25,Nepal,2023-11-13,2025-01-20 07:20:23,82.74845990149568,40190.04418839866,Bronze,Books,True,True
+Jeffrey,Shepard,rogersclifford@example.net,(784)537-1839x6592,1967-06-12,Finland,2023-11-10,2024-11-24 05:21:30,33.244456865297366,6661.887519291904,Platinum,Clothing,False,False
+William,Edwards,nrodriguez@example.net,001-694-264-4240,1983-09-07,Angola,2025-06-30,2024-10-19 22:40:19,72.2117685096604,5634.931895383033,Gold,Food & Beverage,True,True
+Tammy,Gomez,marqueztricia@example.net,001-802-458-8085x2477,1977-02-22,Sao Tome and Principe,2022-08-17,2025-05-22 23:00:26,0.47173024127124297,28165.7888389204,Gold,Food & Beverage,True,False
+Rebecca,Williams,thomaschristopher@example.net,617.500.2606x54329,1972-11-02,Wallis and Futuna,2022-09-14,2024-11-08 16:49:05,95.20176447706667,3435.235950000305,Bronze,Sports,True,True
+Carla,James,anthony70@example.org,526-286-0398,1982-05-10,Botswana,2021-05-26,2025-02-23 01:05:15,84.96703837463352,45754.57601864816,Platinum,Books,False,True
+William,Carter,cphillips@example.com,+1-449-308-6571,1974-01-28,Gibraltar,2024-07-10,2024-10-25 07:12:42,97.4997372016137,36630.327121848466,Silver,Home & Garden,False,False
+Todd,Stanton,rmitchell@example.org,859-253-8804x137,1995-02-25,Mexico,2021-05-24,2025-04-11 09:59:23,7.220827402965222,21526.575486644902,Gold,Electronics,True,False
+Kyle,Miller,angeltucker@example.com,(548)907-2304x053,1980-05-21,Peru,2025-02-07,2024-12-04 23:25:11,13.414342160390213,20277.145624579494,Silver,Automotive,False,False
+Kari,Mason,clarkegloria@example.com,659-862-0902,1983-08-30,Haiti,2022-09-24,2025-04-25 18:06:21,77.40513010376564,27890.403453219587,Platinum,Electronics,True,True
+Morgan,Guzman,parkertodd@example.com,545-820-2763,1955-02-05,Saint Vincent and the Grenadines,2025-03-30,2025-01-29 02:13:40,84.8785512458777,10097.685517611895,Silver,Automotive,True,False
+Travis,Norton,karen75@example.net,788-521-1052x1412,1957-07-12,Haiti,2024-01-23,2025-04-08 02:30:21,86.74591138525572,38014.20433240288,Silver,Sports,True,True
+Kenneth,Walsh,smithelizabeth@example.net,(769)658-1611,1946-08-22,Belgium,2022-09-09,2025-08-24 13:57:53,89.18545286928635,17020.755506903013,Bronze,Food & Beverage,True,True
+Noah,Lawrence,uscott@example.net,+1-986-695-7534x684,1970-03-31,Mali,2024-12-16,2025-03-02 17:19:22,19.57738397536899,16849.88272892596,Bronze,Clothing,False,True
+Alyssa,Atkinson,lydiamclaughlin@example.net,980-546-7565x19437,1980-07-11,Fiji,2022-06-05,2024-10-05 20:46:50,38.22858289662655,22337.232760214192,Silver,Clothing,True,True
+Thomas,Patton,obernard@example.net,787-400-8880x40914,1988-04-14,Nigeria,2020-11-05,2025-02-20 20:06:32,75.12877563581252,43262.34671671276,Gold,Home & Garden,True,False
+Lisa,Martin,jennifer32@example.org,2613535756,2004-04-02,Senegal,2021-10-30,2024-11-20 09:22:33,80.72513038584778,10094.563801032142,Silver,Automotive,True,True
+Ronald,Henry,ythompson@example.net,+1-604-261-5136x205,1995-02-15,Kuwait,2022-12-22,2024-12-07 08:16:07,29.85839663580566,5463.207259761725,Platinum,Home & Garden,True,True
+Gregory,Sanchez,yjoseph@example.org,803-670-9236,2005-05-12,Greece,2022-04-10,2025-05-15 19:39:07,22.239598142623056,48279.62457921883,Silver,Clothing,False,True
+Christina,Lee,bautistamaria@example.org,242.757.4263,1971-04-15,India,2023-07-02,2025-03-15 04:19:35,77.68855914164428,-1769.325136317602,Gold,Home & Garden,True,False
+Bradley,Robertson,roblesjeff@example.net,(765)926-4977,1989-03-02,Sao Tome and Principe,2024-06-17,2024-11-23 19:23:11,48.567921096625646,4294.306782716666,Silver,Sports,False,False
+Charles,Curtis,suzanne02@example.net,(392)226-2381x201,1980-09-19,Macao,2024-04-18,2025-02-03 03:02:16,63.41635893364628,31405.54319074523,Platinum,Beauty,True,True
+Miguel,Johnson,jacobsellers@example.org,933-629-4723x0429,1952-01-28,Cuba,2025-08-13,2024-11-15 22:33:06,50.346577982698506,28226.210886397956,Gold,Electronics,True,False
+James,Williams,mwilson@example.com,+1-730-802-7473x37381,1953-02-14,Timor-Leste,2025-05-02,2024-11-26 23:09:04,73.38696150112452,44402.015023544795,Gold,Clothing,True,True
+William,Brown,sharonmeyer@example.org,001-535-463-9231x61029,1969-01-07,Papua New Guinea,2023-01-22,2024-11-12 11:42:44,19.201450167934034,29213.361956975685,Bronze,Books,False,True
+Jonathan,Holland,ieaton@example.com,572.621.1255,1960-10-03,Qatar,2023-08-05,2025-08-03 22:14:13,97.9104888625375,3790.0715976876468,Bronze,Automotive,False,True
+Latoya,Curry,mannjennifer@example.com,702.597.8666,1947-05-06,Guatemala,2021-07-04,2025-03-01 22:30:33,36.94305816214981,31946.66823955289,Bronze,Clothing,True,False

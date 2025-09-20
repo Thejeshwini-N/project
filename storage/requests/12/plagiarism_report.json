@@ -1,0 +1,14 @@
+{
+  "has_original": true,
+  "has_synthetic": true,
+  "overall_similarity": 0.346,
+  "per_field": {
+    "fields": 0.0763,
+    "dateRange": 0.0,
+    "country": 0.0,
+    "maxTransactionsPerUser": 1.0,
+    "currency": 0.0,
+    "includeTransactions": 1.0
+  },
+  "risk_level": "low"
+}

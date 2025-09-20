@@ -1,0 +1,19 @@
+{
+  "has_original": true,
+  "has_synthetic": true,
+  "overall_similarity": 0.0221,
+  "per_field": {
+    "signal_strength": 0.0,
+    "light_lux": 0.0,
+    "motion_detected": 0.1198,
+    "location_lat": 0.0,
+    "temperature_c": 0.0,
+    "timestamp": 0.0,
+    "battery_level": 0.0,
+    "pressure_hpa": 0.0,
+    "humidity_percent": 0.0,
+    "location_lon": 0.0,
+    "device_status": 0.1232
+  },
+  "risk_level": "low"
+}

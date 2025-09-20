@@ -1,0 +1,313 @@
+{% extends "base.html" %}
+
+{% block title %}New Request - Synthetic Data Service{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="mb-0">
+                    <i class="fas fa-plus-circle me-2"></i>
+                    Create New Data Request
+                </h4>
+                <p class="text-muted mb-0 mt-2">Submit a request for synthetic data generation</p>
+            </div>
+            <div class="card-body">
+                <form id="requestForm">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label for="dataType" class="form-label">Data Type *</label>
+                                <select class="form-control" id="dataType" required>
+                                    <option value="">Select data type</option>
+                                    <option value="health_records">Health Records</option>
+                                    <option value="financial_data">Financial Data</option>
+                                    <option value="sensor_logs">Sensor Logs</option>
+                                    <option value="customer_data">Customer Data</option>
+                                    <option value="research_data">Research Data</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label for="size" class="form-label">Dataset Size (rows) *</label>
+                                <input type="number" class="form-control" id="size" min="100" max="100000" value="1000" required>
+                                <div class="form-text">Minimum: 100, Maximum: 100,000</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label for="privacyLevel" class="form-label">Privacy Level *</label>
+                                <select class="form-control" id="privacyLevel" required>
+                                    <option value="">Select privacy level</option>
+                                    <option value="low">Low - Minimal privacy protection</option>
+                                    <option value="medium">Medium - Moderate privacy protection</option>
+                                    <option value="high">High - Strong privacy protection</option>
+                                    <option value="maximum">Maximum - Maximum privacy protection</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label for="estimatedTime" class="form-label">Estimated Processing Time</label>
+                                <input type="text" class="form-control" id="estimatedTime" readonly>
+                                <div class="form-text">Based on your selections</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label class="form-label">Additional Parameters Source</label>
+                        <div class="d-flex gap-3">
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="paramsMode" id="paramsModeText" value="text" checked>
+                                <label class="form-check-label" for="paramsModeText">JSON Text</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="paramsMode" id="paramsModeFile" value="file">
+                                <label class="form-check-label" for="paramsModeFile">Upload JSON/CSV</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="paramsTextGroup" class="mb-3">
+                        <label for="params" class="form-label">Additional Parameters (JSON)</label>
+                        <textarea class="form-control" id="params" rows="4" placeholder='{"custom_field": "value", "another_param": 123}'></textarea>
+                        <div class="form-text">Optional: Additional parameters for data generation in JSON format</div>
+                    </div>
+
+                    <div id="paramsFileGroup" class="mb-3" style="display:none;">
+                        <label for="paramsFile" class="form-label">Upload Parameters File (JSON or CSV)</label>
+                        <input class="form-control" type="file" id="paramsFile" accept=".json,.csv">
+                        <div class="row mt-2">
+                            <div class="col-md-6">
+                                <label for="paramsFormat" class="form-label">File Format</label>
+                                <select class="form-control" id="paramsFormat">
+                                    <option value="">Auto-detect</option>
+                                    <option value="json">JSON</option>
+                                    <option value="csv">CSV</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-text">CSV will be converted to a JSON object of arrays keyed by column names.</div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="termsAccepted" required>
+                            <label class="form-check-label" for="termsAccepted">
+                                I agree to the terms of service and understand that this is synthetic data
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button type="button" class="btn btn-secondary me-md-2" onclick="resetForm()">Reset</button>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-paper-plane me-2"></i>Submit Request
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        
+        <!-- Data Type Information -->
+        <div class="card mt-4">
+            <div class="card-header">
+                <h5 class="mb-0">
+                    <i class="fas fa-info-circle me-2"></i>
+                    Data Type Information
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>Health Records</h6>
+                        <p class="small text-muted">Patient demographics, vital signs, diagnoses, medications, and medical history.</p>
+                        
+                        <h6>Financial Data</h6>
+                        <p class="small text-muted">Transaction records, account information, credit scores, and financial behavior patterns.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Sensor Logs</h6>
+                        <p class="small text-muted">IoT sensor readings including temperature, humidity, pressure, and motion data.</p>
+                        
+                        <h6>Customer Data</h6>
+                        <p class="small text-muted">Customer profiles, purchase history, preferences, and engagement metrics.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Toggle between params text and file modes
+    document.querySelectorAll('input[name="paramsMode"]').forEach(el => {
+        el.addEventListener('change', () => {
+            const mode = document.querySelector('input[name="paramsMode"]:checked').value;
+            const textGroup = document.getElementById('paramsTextGroup');
+            const fileGroup = document.getElementById('paramsFileGroup');
+            if (mode === 'file') {
+                textGroup.style.display = 'none';
+                fileGroup.style.display = '';
+            } else {
+                textGroup.style.display = '';
+                fileGroup.style.display = 'none';
+            }
+        });
+    });
+
+    // Calculate estimated processing time
+    function calculateEstimatedTime() {
+        const dataType = document.getElementById('dataType').value;
+        const size = parseInt(document.getElementById('size').value) || 1000;
+        const privacyLevel = document.getElementById('privacyLevel').value;
+        
+        let baseTime = 0;
+        let privacyMultiplier = 1;
+        
+        // Base time based on data type
+        switch(dataType) {
+            case 'health_records':
+                baseTime = 2;
+                break;
+            case 'financial_data':
+                baseTime = 1.5;
+                break;
+            case 'sensor_logs':
+                baseTime = 1;
+                break;
+            case 'customer_data':
+                baseTime = 1.5;
+                break;
+            case 'research_data':
+                baseTime = 3;
+                break;
+            default:
+                baseTime = 2;
+        }
+        
+        // Privacy level multiplier
+        switch(privacyLevel) {
+            case 'low':
+                privacyMultiplier = 1;
+                break;
+            case 'medium':
+                privacyMultiplier = 1.5;
+                break;
+            case 'high':
+                privacyMultiplier = 2;
+                break;
+            case 'maximum':
+                privacyMultiplier = 3;
+                break;
+        }
+        
+        // Size multiplier (logarithmic)
+        const sizeMultiplier = Math.log10(size / 100) + 1;
+        
+        const estimatedMinutes = Math.ceil(baseTime * privacyMultiplier * sizeMultiplier);
+        
+        if (estimatedMinutes < 60) {
+            document.getElementById('estimatedTime').value = `${estimatedMinutes} minutes`;
+        } else {
+            const hours = Math.floor(estimatedMinutes / 60);
+            const minutes = estimatedMinutes % 60;
+            document.getElementById('estimatedTime').value = `${hours}h ${minutes}m`;
+        }
+    }
+    
+    // Add event listeners
+    document.getElementById('dataType').addEventListener('change', calculateEstimatedTime);
+    document.getElementById('size').addEventListener('input', calculateEstimatedTime);
+    document.getElementById('privacyLevel').addEventListener('change', calculateEstimatedTime);
+    
+    // Form submission
+    document.getElementById('requestForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        const useFile = document.querySelector('input[name="paramsMode"]:checked').value === 'file';
+        const token = localStorage.getItem('access_token');
+
+        try {
+            if (useFile && document.getElementById('paramsFile').files.length > 0) {
+                // Multipart upload path
+                const fd = new FormData();
+                fd.append('data_type', document.getElementById('dataType').value);
+                fd.append('size', String(parseInt(document.getElementById('size').value)));
+                fd.append('privacy_level', document.getElementById('privacyLevel').value);
+                fd.append('params_format', document.getElementById('paramsFormat').value);
+                fd.append('params_file', document.getElementById('paramsFile').files[0]);
+
+                const response = await fetch('/api/v1/request/upload', {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${token}` },
+                    body: fd
+                });
+                if (!response.ok) {
+                    const error = await response.json();
+                    alert('Failed to submit request: ' + (error.detail || response.statusText));
+                    return;
+                }
+                const data = await response.json();
+                alert('Request submitted successfully! Request ID: ' + data.id);
+                window.location.href = '/client/requests';
+                return;
+            }
+
+            // JSON path
+            const formData = {
+                data_type: document.getElementById('dataType').value,
+                size: parseInt(document.getElementById('size').value),
+                privacy_level: document.getElementById('privacyLevel').value,
+                params: document.getElementById('params').value || null
+            };
+            if (formData.params) {
+                try {
+                    JSON.parse(formData.params);
+                } catch (e) {
+                    alert('Invalid JSON in additional parameters');
+                    return;
+                }
+            }
+            const response = await fetch('/api/v1/request/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${token}`
+                },
+                body: JSON.stringify(formData)
+            });
+            if (response.ok) {
+                const data = await response.json();
+                alert('Request submitted successfully! Request ID: ' + data.id);
+                window.location.href = '/client/requests';
+            } else {
+                const error = await response.json();
+                alert('Failed to submit request: ' + error.detail);
+            }
+        } catch (error) {
+            alert('Failed to submit request: ' + error.message);
+        }
+    });
+    
+    // Reset form
+    function resetForm() {
+        document.getElementById('requestForm').reset();
+        document.getElementById('estimatedTime').value = '';
+        document.getElementById('paramsTextGroup').style.display = '';
+        document.getElementById('paramsFileGroup').style.display = 'none';
+        document.getElementById('paramsFile').value = '';
+        document.getElementById('paramsFormat').value = '';
+    }
+    
+    // Calculate initial estimate
+    calculateEstimatedTime();
+</script>
+{% endblock %}

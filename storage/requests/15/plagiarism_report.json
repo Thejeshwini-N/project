@@ -1,0 +1,12 @@
+{
+  "has_original": true,
+  "has_synthetic": true,
+  "overall_similarity": 0.0819,
+  "per_field": {
+    "currency": 0.0,
+    "fields": 0.0849,
+    "country": 0.1429,
+    "dateRange": 0.1
+  },
+  "risk_level": "low"
+}

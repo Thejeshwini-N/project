@@ -1,0 +1,477 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Panel - Synthetic Data Service{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h2>
+                    <i class="fas fa-cogs me-2"></i>
+                    Admin Panel
+                </h2>
+                <p class="text-muted mb-0">Manage and process synthetic data generation requests</p>
+            </div>
+            <button class="btn btn-primary" onclick="loadRequests()">
+                <i class="fas fa-sync me-2"></i>Refresh
+            </button>
+        </div>
+        
+        <!-- Statistics Cards -->
+        <div class="row mb-4" id="statsCards">
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary" id="totalRequests">0</h5>
+                        <p class="card-text">Total Requests</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title status-pending" id="pendingRequests">0</h5>
+                        <p class="card-text">Pending</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title status-processing" id="processingRequests">0</h5>
+                        <p class="card-text">Processing</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title status-completed" id="completedRequests">0</h5>
+                        <p class="card-text">Completed</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5 class="card-title status-failed" id="failedRequests">0</h5>
+                        <p class="card-text">Failed</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <button class="btn btn-success btn-sm" onclick="processAllPending()">
+                            <i class="fas fa-play me-1"></i>Process All
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Filter and Search -->
+        <div class="card mb-4">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3">
+                        <label for="statusFilter" class="form-label">Filter by Status</label>
+                        <select class="form-control" id="statusFilter" onchange="filterRequests()">
+                            <option value="">All Statuses</option>
+                            <option value="pending">Pending</option>
+                            <option value="processing">Processing</option>
+                            <option value="completed">Completed</option>
+                            <option value="failed">Failed</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="dataTypeFilter" class="form-label">Filter by Data Type</label>
+                        <select class="form-control" id="dataTypeFilter" onchange="filterRequests()">
+                            <option value="">All Types</option>
+                            <option value="health_records">Health Records</option>
+                            <option value="financial_data">Financial Data</option>
+                            <option value="sensor_logs">Sensor Logs</option>
+                            <option value="customer_data">Customer Data</option>
+                            <option value="research_data">Research Data</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="searchInput" class="form-label">Search</label>
+                        <input type="text" class="form-control" id="searchInput" placeholder="Search by ID, client, or data type..." onkeyup="filterRequests()">
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">&nbsp;</label>
+                        <button class="btn btn-outline-secondary w-100" onclick="clearFilters()">
+                            <i class="fas fa-times me-1"></i>Clear
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Requests Table -->
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0">All Requests</h5>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Client</th>
+                                <th>Data Type</th>
+                                <th>Size</th>
+                                <th>Privacy Level</th>
+                                <th>Status</th>
+                                <th>Created</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="requestsTableBody">
+                            <tr>
+                                <td colspan="8" class="text-center">
+                                    <div class="spinner-border" role="status">
+                                        <span class="visually-hidden">Loading...</span>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Request Details Modal -->
+<div class="modal fade" id="requestDetailsModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Request Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body" id="requestDetailsBody">
+                <!-- Details will be loaded here -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="processRequestBtn" style="display: none;">Process Request</button>
+                <button type="button" class="btn btn-success" id="downloadRequestBtn" style="display: none;">Download</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    let allRequests = [];
+    let filteredRequests = [];
+    
+    // Load requests on page load
+    document.addEventListener('DOMContentLoaded', function() {
+        loadRequests();
+        loadStats();
+    });
+    
+    // Load requests from API
+    async function loadRequests() {
+        try {
+            const response = await fetch('/api/v1/admin/requests', {
+                headers: {
+                    'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                }
+            });
+            
+            if (response.ok) {
+                allRequests = await response.json();
+                filteredRequests = [...allRequests];
+                displayRequests();
+            } else {
+                console.error('Failed to load requests');
+                document.getElementById('requestsTableBody').innerHTML = 
+                    '<tr><td colspan="8" class="text-center text-danger">Failed to load requests</td></tr>';
+            }
+        } catch (error) {
+            console.error('Error loading requests:', error);
+            document.getElementById('requestsTableBody').innerHTML = 
+                '<tr><td colspan="8" class="text-center text-danger">Error loading requests</td></tr>';
+        }
+    }
+    
+    // Load statistics
+    async function loadStats() {
+        try {
+            const response = await fetch('/api/v1/admin/stats', {
+                headers: {
+                    'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                }
+            });
+            
+            if (response.ok) {
+                const stats = await response.json();
+                document.getElementById('totalRequests').textContent = stats.total_requests;
+                document.getElementById('pendingRequests').textContent = stats.pending_requests;
+                document.getElementById('processingRequests').textContent = stats.processing_requests;
+                document.getElementById('completedRequests').textContent = stats.completed_requests;
+                document.getElementById('failedRequests').textContent = stats.failed_requests;
+            }
+        } catch (error) {
+            console.error('Error loading stats:', error);
+        }
+    }
+    
+    // Filter requests
+    function filterRequests() {
+        const statusFilter = document.getElementById('statusFilter').value;
+        const dataTypeFilter = document.getElementById('dataTypeFilter').value;
+        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+        
+        filteredRequests = allRequests.filter(request => {
+            const matchesStatus = !statusFilter || request.status === statusFilter;
+            const matchesDataType = !dataTypeFilter || request.data_type === dataTypeFilter;
+            const matchesSearch = !searchTerm || 
+                request.id.toString().includes(searchTerm) ||
+                request.data_type.toLowerCase().includes(searchTerm) ||
+                (request.client_id && request.client_id.toString().includes(searchTerm));
+            
+            return matchesStatus && matchesDataType && matchesSearch;
+        });
+        
+        displayRequests();
+    }
+    
+    // Clear filters
+    function clearFilters() {
+        document.getElementById('statusFilter').value = '';
+        document.getElementById('dataTypeFilter').value = '';
+        document.getElementById('searchInput').value = '';
+        filteredRequests = [...allRequests];
+        displayRequests();
+    }
+    
+    // Display requests in table
+    function displayRequests() {
+        const tbody = document.getElementById('requestsTableBody');
+        
+        if (filteredRequests.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="8" class="text-center text-muted">No requests found</td></tr>';
+            return;
+        }
+        
+        tbody.innerHTML = filteredRequests.map(request => `
+            <tr>
+                <td>#${request.id}</td>
+                <td>Client #${request.client_id}</td>
+                <td>${formatDataType(request.data_type)}</td>
+                <td>${request.size.toLocaleString()}</td>
+                <td>${formatPrivacyLevel(request.privacy_level)}</td>
+                <td><span class="badge bg-${getStatusColor(request.status)}">${formatStatus(request.status)}</span></td>
+                <td>${formatDate(request.created_at)}</td>
+                <td>
+                    <button class="btn btn-sm btn-outline-primary me-1" onclick="viewRequestDetails(${request.id})">
+                        <i class="fas fa-eye"></i>
+                    </button>
+                    ${request.status === 'pending' ? 
+                        `<button class="btn btn-sm btn-success me-1" onclick="processRequest(${request.id})">
+                            <i class="fas fa-play"></i>
+                        </button>` : ''
+                    }
+                    ${request.status === 'completed' && request.output_path ? 
+                        `<button class="btn btn-sm btn-info" onclick="downloadRequest(${request.id})">
+                            <i class="fas fa-download"></i>
+                        </button>` : ''
+                    }
+                </td>
+            </tr>
+        `).join('');
+    }
+    
+    // View request details
+    function viewRequestDetails(requestId) {
+        const request = allRequests.find(r => r.id === requestId);
+        if (!request) return;
+        
+        const modalBody = document.getElementById('requestDetailsBody');
+        const processBtn = document.getElementById('processRequestBtn');
+        const downloadBtn = document.getElementById('downloadRequestBtn');
+        
+        modalBody.innerHTML = `
+            <div class="row">
+                <div class="col-md-6">
+                    <h6>Request Information</h6>
+                    <table class="table table-sm">
+                        <tr><td><strong>ID:</strong></td><td>#${request.id}</td></tr>
+                        <tr><td><strong>Client ID:</strong></td><td>#${request.client_id}</td></tr>
+                        <tr><td><strong>Data Type:</strong></td><td>${formatDataType(request.data_type)}</td></tr>
+                        <tr><td><strong>Size:</strong></td><td>${request.size.toLocaleString()} rows</td></tr>
+                        <tr><td><strong>Privacy Level:</strong></td><td>${formatPrivacyLevel(request.privacy_level)}</td></tr>
+                        <tr><td><strong>Status:</strong></td><td><span class="badge bg-${getStatusColor(request.status)}">${formatStatus(request.status)}</span></td></tr>
+                    </table>
+                </div>
+                <div class="col-md-6">
+                    <h6>Timeline</h6>
+                    <table class="table table-sm">
+                        <tr><td><strong>Created:</strong></td><td>${formatDate(request.created_at)}</td></tr>
+                        <tr><td><strong>Updated:</strong></td><td>${formatDate(request.updated_at)}</td></tr>
+                        ${request.processed_at ? `<tr><td><strong>Processed:</strong></td><td>${formatDate(request.processed_at)}</td></tr>` : ''}
+                    </table>
+                </div>
+            </div>
+            ${request.params ? `
+                <div class="mt-3">
+                    <h6>Additional Parameters</h6>
+                    <pre class="bg-light p-2 rounded"><code>${JSON.stringify(JSON.parse(request.params), null, 2)}</code></pre>
+                </div>
+            ` : ''}
+            ${request.output_path ? `
+                <div class="mt-3">
+                    <h6>Output</h6>
+                    <p class="text-muted">File: ${request.output_path}</p>
+                </div>
+            ` : ''}
+        `;
+        
+        processBtn.style.display = request.status === 'pending' ? 'inline-block' : 'none';
+        processBtn.onclick = () => processRequest(requestId);
+        
+        downloadBtn.style.display = request.status === 'completed' && request.output_path ? 'inline-block' : 'none';
+        downloadBtn.onclick = () => downloadRequest(requestId);
+        
+        new bootstrap.Modal(document.getElementById('requestDetailsModal')).show();
+    }
+    
+    // Process request
+    async function processRequest(requestId) {
+        if (!confirm('Are you sure you want to process this request? This will start the synthetic data generation.')) return;
+        
+        try {
+            const response = await fetch(`/api/v1/admin/requests/${requestId}/process`, {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                }
+            });
+            
+            if (response.ok) {
+                const data = await response.json();
+                alert('Request processing started successfully!');
+                loadRequests(); // Reload the list
+                loadStats(); // Reload stats
+                const modalEl = document.getElementById('requestDetailsModal');
+                const modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
+                modal.hide();
+            } else {
+                const error = await response.json();
+                alert('Failed to process request: ' + error.detail);
+            }
+        } catch (error) {
+            alert('Failed to process request: ' + error.message);
+        }
+    }
+    
+    // Process all pending requests
+    async function processAllPending() {
+        const pendingRequests = allRequests.filter(r => r.status === 'pending');
+        
+        if (pendingRequests.length === 0) {
+            alert('No pending requests to process');
+            return;
+        }
+        
+        if (!confirm(`Are you sure you want to process ${pendingRequests.length} pending requests?`)) return;
+        
+        let processed = 0;
+        let failed = 0;
+        
+        for (const request of pendingRequests) {
+            try {
+                const response = await fetch(`/api/v1/admin/requests/${request.id}/process`, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                    }
+                });
+                
+                if (response.ok) {
+                    processed++;
+                } else {
+                    failed++;
+                }
+            } catch (error) {
+                failed++;
+            }
+        }
+        
+        alert(`Processing completed: ${processed} successful, ${failed} failed`);
+        loadRequests();
+        loadStats();
+    }
+    
+    // Download request
+    async function downloadRequest(requestId) {
+        try {
+            const response = await fetch(`/api/v1/storage/download/${requestId}`, {
+                headers: {
+                    'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                }
+            });
+            
+            if (response.ok) {
+                const data = await response.json();
+                window.open(data.download_url, '_blank');
+            } else {
+                const error = await response.json();
+                alert('Failed to get download link: ' + error.detail);
+            }
+        } catch (error) {
+            alert('Failed to download: ' + error.message);
+        }
+    }
+    
+    // Utility functions
+    function formatDataType(type) {
+        const types = {
+            'health_records': 'Health Records',
+            'financial_data': 'Financial Data',
+            'sensor_logs': 'Sensor Logs',
+            'customer_data': 'Customer Data',
+            'research_data': 'Research Data'
+        };
+        return types[type] || type;
+    }
+    
+    function formatPrivacyLevel(level) {
+        const levels = {
+            'low': 'Low',
+            'medium': 'Medium',
+            'high': 'High',
+            'maximum': 'Maximum'
+        };
+        return levels[level] || level;
+    }
+    
+    function formatStatus(status) {
+        return status.charAt(0).toUpperCase() + status.slice(1);
+    }
+    
+    function getStatusColor(status) {
+        const colors = {
+            'pending': 'warning',
+            'processing': 'primary',
+            'completed': 'success',
+            'failed': 'danger'
+        };
+        return colors[status] || 'secondary';
+    }
+    
+    function formatDate(dateString) {
+        if (!dateString) return 'N/A';
+        return new Date(dateString).toLocaleString();
+    }
+</script>
+{% endblock %}

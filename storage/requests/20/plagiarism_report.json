@@ -1,0 +1,26 @@
+{
+  "has_original": true,
+  "has_synthetic": true,
+  "overall_similarity": 0.0669,
+  "per_field": {
+    "zip_code": 0.0,
+    "email": 0.112,
+    "country": 0.1333,
+    "total_orders": 0.0,
+    "preferred_category": 0.1162,
+    "last_name": 0.1046,
+    "loyalty_tier": 0.107,
+    "address": 0.0577,
+    "date_of_birth": 0.0,
+    "first_name": 0.1058,
+    "city": 0.1235,
+    "last_login": 0.0,
+    "total_spent": 0.0,
+    "state": 0.1067,
+    "marketing_consent": 0.1251,
+    "registration_date": 0.0,
+    "is_active": 0.1113,
+    "phone": 0.0002
+  },
+  "risk_level": "low"
+}

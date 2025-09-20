@@ -1,0 +1,9 @@
+{
+  "dateRange": {
+    "from": "2022-01-01",
+    "to": "2023-12-31"
+  },
+  "country": "India",
+  "currency": "INR",
+  "fields": ["customerId", "name", "age", "country", "salary", "transactionAmount"]
+}

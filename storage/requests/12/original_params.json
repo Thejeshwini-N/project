@@ -1,0 +1,11 @@
+{
+  "dateRange": {
+    "from": "2021-04-01",
+    "to": "2022-03-31"
+  },
+  "country": "UK",
+  "currency": "GBP",
+  "fields": ["customerId", "name", "accountNumber", "salary", "loanAmount", "creditScore"],
+  "includeTransactions": true,
+  "maxTransactionsPerUser": 50
+}
