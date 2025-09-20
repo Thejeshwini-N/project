@@ -35,15 +35,10 @@ def test_connection() -> None:
     try:
         with engine.connect() as connection:
             connection.execute(text("SELECT 1"))
-        print(
-            f"DB connection successful on HOST {settings.db_host}:{settings.db_port} "
-            f"DB: {settings.profile_db}"
-        )
+        print(f"DB connection successful using: {settings.database_url[:50]}...")
     except Exception as exc:
         print("DB connection failed:")
         print(f"Error: {getattr(exc, 'orig', exc)}")
-        print(f"Database: {settings.profile_db}")
-        print(f"Host: {settings.db_host}")
-        print(f"Port: {settings.db_port}")
-        print(f"User: {settings.db_user}")
-        print(f"Password: {'***SET***' if settings.db_pass else '***NOT SET***'}")
+        print(f"Database URL: {settings.database_url[:50]}...")
+        print(f"Individual settings - Host: {settings.db_host}, Port: {settings.db_port}")
+        print(f"User: {settings.db_user}, Password: {'***SET***' if settings.db_pass else '***NOT SET***'}")

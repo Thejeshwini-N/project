@@ -4,7 +4,7 @@ import os
 
 class Settings(BaseSettings):
     # Database
-    database_url: str = os.getenv("DATABASE_URL", "")
+    database_url: str = os.getenv("DATABASE_URL", "sqlite:///./synthetic_data.db")
     db_user: str = os.getenv("DB_USER", "root")
     db_pass: str = os.getenv("DB_PASS", "password")
     db_host: str = os.getenv("DB_HOST", "127.0.0.1")
@@ -35,10 +35,5 @@ class Settings(BaseSettings):
 
 settings = Settings()
 
-# Derive SQLAlchemy URL if not explicitly set
-if not settings.database_url:
-    # Default to MariaDB/MySQL via PyMySQL
-    settings.database_url = (
-        f"mysql+pymysql://{settings.db_user}:{settings.db_pass}"
-        f"@{settings.db_host}:{settings.db_port}/{settings.profile_db}?charset=utf8mb4"
-    )
+# Use the DATABASE_URL from environment (Render will provide this)
+# If not set, it defaults to SQLite for local development
