@@ -1,4 +1,4 @@
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 import json
 import os
 import random
@@ -35,7 +35,7 @@ def _mask_generic_value(value: Any) -> Any:
 	return value
 
 
-def generate_synthetic_params(params_json: str | None) -> str | None:
+def generate_synthetic_params(params_json: Optional[str]) -> Optional[str]:
 	"""Generate a synthetic version of the request params JSON string.
 
 	- Masks known PII-like fields such as 'name' and 'country' when they are lists.
@@ -65,7 +65,7 @@ def generate_synthetic_params(params_json: str | None) -> str | None:
 	return json.dumps(synthetic)
 
 
-def save_original_params(request_id: int, params_json: str | None) -> None:
+def save_original_params(request_id: int, params_json: Optional[str]) -> None:
 	"""Persist original params JSON to `storage/requests/{id}/original_params.json`."""
 	if not params_json:
 		return
@@ -81,7 +81,7 @@ def save_original_params(request_id: int, params_json: str | None) -> None:
 		f.write(params_json)
 
 
-def load_original_params(request_id: int) -> str | None:
+def load_original_params(request_id: int) -> Optional[str]:
 	"""Load original params JSON if available, else None."""
 	file_path = os.path.join("storage", "requests", str(request_id), "original_params.json")
 	if os.path.exists(file_path):

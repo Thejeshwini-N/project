@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Optional
 import json
 import os
 
@@ -66,7 +66,7 @@ def _value_similarity(a: Any, b: Any) -> float:
 	return 1.0 if a == b else 0.0
 
 
-def generate_plagiarism_report(original_json: str | None, synthetic_json: str | None) -> Dict[str, Any]:
+def generate_plagiarism_report(original_json: Optional[str], synthetic_json: Optional[str]) -> Dict[str, Any]:
 	"""Compute similarity between original and synthetic params.
 
 	Returns dict with overall score (0..1), per-field scores, and flags.
@@ -126,7 +126,7 @@ def save_report(request_id: int, report: Dict[str, Any]) -> str:
 	return path
 
 
-def load_report(request_id: int) -> Dict[str, Any] | None:
+def load_report(request_id: int) -> Optional[Dict[str, Any]]:
 	path = os.path.join("storage", "requests", str(request_id), "plagiarism_report.json")
 	if not os.path.exists(path):
 		return None
