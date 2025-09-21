@@ -43,34 +43,11 @@ async def register_client(client: ClientCreate, db: Session = Depends(get_db)):
 
 @router.post("/register/admin", response_model=AdminResponse)
 async def register_admin(admin: AdminCreate, db: Session = Depends(get_db)):
-    """Register a new admin."""
-    # Check if user already exists
-    if db.query(Admin).filter(Admin.email == admin.email).first():
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Email already registered"
-        )
-    
-    if db.query(Admin).filter(Admin.username == admin.username).first():
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Username already taken"
-        )
-    
-    # Create new admin
-    hashed_password = get_password_hash(admin.password)
-    db_admin = Admin(
-        email=admin.email,
-        username=admin.username,
-        hashed_password=hashed_password,
-        full_name=admin.full_name
+    """Admin registration is disabled - admin credentials are hardcoded."""
+    raise HTTPException(
+        status_code=status.HTTP_403_FORBIDDEN,
+        detail="Admin registration is disabled. Admin credentials are pre-configured."
     )
-    
-    db.add(db_admin)
-    db.commit()
-    db.refresh(db_admin)
-    
-    return db_admin
 
 @router.post("/login", response_model=Token)
 async def login(login_data: LoginRequest, db: Session = Depends(get_db)):
@@ -83,6 +60,15 @@ async def login(login_data: LoginRequest, db: Session = Depends(get_db)):
     if not user:
         user = db.query(Admin).filter(Admin.username == login_data.username).first()
         user_role = "admin"
+        
+        # Admin login restriction - only allow specific username and password
+        if user_role == "admin":
+            if login_data.username != "Thejeshwini" or login_data.password != "Theju@#$123":
+                raise HTTPException(
+                    status_code=status.HTTP_401_UNAUTHORIZED,
+                    detail="Admin access denied. Invalid credentials.",
+                    headers={"WWW-Authenticate": "Bearer"},
+                )
     
     if not user or not verify_password(login_data.password, user.hashed_password):
         raise HTTPException(
